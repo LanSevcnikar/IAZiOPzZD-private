@@ -3,6 +3,9 @@ import json
 import datetime
 import requests
 
+STARTING_DATE_PLACEHOLDER = '2022-01-01'
+ENDING_DATE_PLACEHOLDER = '2022-12-31'
+
 def ugly_fix_for_json(json_string):
     characters_to_skip = ['{', '}', ',', ':', '"', ' ', '\\', "'", '[', ']']
     i = 0
@@ -126,19 +129,7 @@ def getData(location_id, starting_date, ending_date, variables):
     return all_data_points
 
 #make main function
-def main():
-    # type_of_request = '4'
-    # list_of_locations = getLocations(starting_date, ending_date, type_of_request)
-
-    location_id = 1828
-    variables = [12, 13, 14, 2, 15, 16, 17, 4, 18, 19, 20, 26, 21, 23, 24, 27, 28, 29]
-    times = [
-        ['2022-01-01', '2022-03-31'],
-        ['2022-04-01', '2022-06-30'],
-        ['2022-07-01', '2022-09-30'],
-        ['2022-10-01', '2022-12-31']
-    ]
-
+def download_data(location_id, times, variables):
     all_data = []
     all_times = []
 
@@ -156,7 +147,7 @@ def main():
                 all_data[variable_index].append(data_point_value)
         
     #dump data to csv
-    with open('data.csv', 'a', newline='') as csvfile:
+    with open(f'data-{location_id}-.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=';')
         writer.writerow(all_times)
         for variable_index in range(len(variables)):
@@ -168,4 +159,118 @@ def main():
 
 
 
-main()
+import tkinter as tk
+
+class DownloadGUI:
+    def __init__(self, master):
+        self.master = master
+        self.master.title("Download Data")
+
+        # Starting date label and entry
+        tk.Label(master, text="Starting Date (yyyy-mm-dd)").grid(row=0, column=0)
+        self.start_date_entry = tk.Entry(master)
+        self.start_date_entry.grid(row=0, column=1)
+        # Create a placeholder value
+        self.start_date_entry.insert(0, STARTING_DATE_PLACEHOLDER)
+        
+
+
+        # Ending date label and entry
+        tk.Label(master, text="Ending Date (yyyy-mm-dd)").grid(row=1, column=0)
+        self.end_date_entry = tk.Entry(master)
+        self.end_date_entry.grid(row=1, column=1)
+        # Create a placeholder value
+        self.end_date_entry.insert(0, ENDING_DATE_PLACEHOLDER)
+
+        # Checkbox options
+        tk.Label(master, text="Options").grid(row=2, column=0)
+        self.checkbox_vars = []
+        self.all_options = [
+            "12 povprečen zračni tlak (hPa)", 
+            "13 minimalen zračni tlak (hPa)",
+            "14 maksimalen zračni tlak (hPa)",
+            "2 terminska temperatura zraka na 2m (°C)",
+            "15 povprečna temperatura zraka na 2m (°C)",
+            "16 minimalna temperatura zraka na 2m (°C)",
+            "17 maksimalna temperatura zraka na 2m (°C)",
+            "4 terminska relativna vlaga (%)",
+            "18 povprečna relativna vlaga (%)",
+            "19 minimalna relativna vlaga (%)",
+            "20 maksimalna relativna vlaga (%)",
+            "26 količina padavin (mm)",
+            "21 povprečna hitrost vetra (m/s)",
+            "23 povprečna smer vetra (°)",
+            "24 maksimalna hitrost vetra (m/s)",
+            "27 povprečen energijski tok globalnega sevanja (W/m2)",
+            "28 povprečen energijski tok difuznega sevanja (W/m2)",
+            "29 UVB (mW/m2)"
+            ]
+        for i, option in enumerate(self.all_options):
+            var = tk.IntVar(value=0)
+            tk.Checkbutton(master, text=option, variable=var).grid(row=i+3, column=0, sticky="w")
+            self.checkbox_vars.append(var)
+
+        # Checkbox locations
+        tk.Label(master, text="Locations").grid(row=len(self.all_options)+3, column=0)
+        self.location_vars = []
+        self.all_locations = [
+            "1828 LJUBLJANA BEŽIGRAD", 
+            "1872 LJUBLJANA KLEČE", 
+            "2842 TOPOL"
+        ]
+        for i, location in enumerate(self.all_locations):
+            var = tk.IntVar(value=0)
+            tk.Checkbutton(master, text=location, variable=var).grid(row=i+len(self.all_options)+4, column=0, sticky="w")
+            self.location_vars.append(var)
+
+        # Download button
+        tk.Button(master, text="Download", command=self.download).grid(row=len(self.all_options)+len(self.all_locations)+5, column=0, columnspan=2)
+
+    def get_times(self, starting_date, ending_date):
+        #This function should return a list of starting and ending dates that all together cover this time but also do not overlap and are not longer than 100 days
+        #For example, if you want to download data from 2020-01-01 to 2020-03-31, this function should return:
+        #[
+        #   ['2020-01-01', '2020-03-31']
+        #]
+        #But if you want to download data from 2020-01-01 to 2020-04-01, this function should return:
+        #[
+        #   ['2020-01-01', '2020-03-31'],
+        #   ['2020-04-01', '2020-04-01']
+        #]
+
+        result_array = []
+        
+        starting_date_obj = datetime.datetime(int(starting_date.split('-')[0]), int(starting_date.split('-')[1]), int(starting_date.split('-')[2]), 0, 0, 0)
+        ending_date_obj = datetime.datetime(int(ending_date.split('-')[0]), int(ending_date.split('-')[1]), int(ending_date.split('-')[2]), 0, 0, 0)
+        
+        while(starting_date_obj + datetime.timedelta(days=100) < ending_date_obj):
+            result_array.append([starting_date_obj.strftime('%Y-%m-%d'), (starting_date_obj + datetime.timedelta(days=100)).strftime('%Y-%m-%d')])
+            starting_date_obj = starting_date_obj + datetime.timedelta(days=100)
+        result_array.append([starting_date_obj.strftime('%Y-%m-%d'), ending_date_obj.strftime('%Y-%m-%d')])
+        return result_array
+
+    def download(self):
+        # Retrieve input values
+        start_date = self.start_date_entry.get()
+        end_date = self.end_date_entry.get()
+        options = [i.get() for i in self.checkbox_vars]
+        locations_temp = [i.get() for i in self.location_vars]
+        
+        times = self.get_times(start_date, end_date)
+        variables = []
+        for i, option in enumerate(options):
+            if option == 1:
+                variables.append(int(self.all_options[i].split(' ')[0]))
+        
+        locations = []
+        for i, location in enumerate(locations_temp):
+            if location == 1:
+                locations.append(int(self.all_locations[i].split(' ')[0]))
+
+        for location in locations:
+            download_data(location, times, variables)
+
+if __name__ == "__main__":
+    root = tk.Tk()
+    app = DownloadGUI(root)
+    root.mainloop()
