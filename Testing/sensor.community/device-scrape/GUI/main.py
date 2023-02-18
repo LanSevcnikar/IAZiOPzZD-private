@@ -6,8 +6,10 @@ import json
 import math
 import os
 import tkinter as tk
+from matplotlib import pyplot as plt
 import requests
 import pandas as pd
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 
 LJUBLJANA_LAT = 46.056946
@@ -15,6 +17,32 @@ LJUBLJANA_LONG = 14.505751
 STARTING_DATE = "2022-12-01"
 ENDING_DATE = "2022-12-31"
 
+class BufferingWindow:
+    def __init__(self, master, text='Loading...'):
+        self.parent = master
+        self.top = tk.Toplevel(master)
+        self.top.title('')
+        self.top.resizable(False, False)
+        self.top.attributes('-topmost', True)
+        self.top.transient(master)
+        self.top.protocol("WM_DELETE_WINDOW", self.on_close)
+        self.top.bind('<Escape>', self.on_close)
+
+        # Center the loading window
+        master.update_idletasks()
+        x = master.winfo_x() + (master.winfo_width() // 2) - 200
+        y = master.winfo_y() + (master.winfo_height() // 2) - 100
+        self.top.geometry('400x200+{}+{}'.format(x, y))
+
+        # Create a label to display the text
+        self.label = tk.Label(self.top, text=text)
+        self.label.pack(pady=50)
+
+    def destroy(self):
+        self.top.destroy()
+
+    def on_close(self, event=None):
+        self.top.destroy()
 
 class SensorCommunityGUI:
     def __init__(self, master):
@@ -63,13 +91,27 @@ class SensorCommunityGUI:
         # Create a text object in which I will keep the info about the selected sensor
         self.lat_label = tk.Label(master, text="Last clicked sensor:")
         self.lat_label.pack()
-        self.selected_sensor_data = tk.Text(master, width=40, height=30)
+        self.selected_sensor_data = tk.Text(master, width=40, height=10)
         self.selected_sensor_data.pack()
 
         # Initialize variables
         self.sensor_data = []
         # make the value null
         self.selected_sensors = []
+
+        # Create a bit of a break
+        self.break_label = tk.Label(master, text=" ")
+
+        # Create a matplotlib figure
+        self.fig = plt.figure(figsize=(5, 5), dpi=100)
+        self.ax = self.fig.add_subplot(111)
+        self.ax.set_title("Sensor Data")
+        self.ax.set_xlabel("Time")
+        self.ax.set_ylabel("PM2.5")
+        self.canvas = FigureCanvasTkAgg(self.fig, master=master)
+        self.canvas.draw()
+        self.canvas.get_tk_widget().pack()
+
 
     def sort_sensors(self):
         # Get latitude and longitude from input fields
@@ -103,7 +145,9 @@ class SensorCommunityGUI:
             self.sensor_list.insert(
                 tk.END, f"{sensor['sensor']['sensor_type']['name']} - {sensor['sensor']['id']} - {round(sensor['distance'],3)}")
 
+    
     def download_data(self):
+        buffering_window = BufferingWindow(self.master)
         for sensor in self.selected_sensors:
             if not os.path.exists("data/" + str(sensor['sensor']['sensor_type']['name']) + '-' + str(sensor['sensor']['id'])):
                 os.makedirs(
@@ -134,7 +178,7 @@ class SensorCommunityGUI:
                 except:
                     print('Could not download ' + url)
                     continue
-
+        buffering_window.destroy()
     def distance(self, lat1, long1, lat2, long2):
         # Calculate distance between two points using the Haversine formula
         R = 6371  # Radius of the Earth in kilometers
@@ -158,7 +202,11 @@ class SensorCommunityGUI:
     def on_select(self, event):
         # Get selected sensor from listbox
         widget = event.widget
-        index = widget.curselection()[0]
+        index = 0
+        try:
+            index = int(widget.curselection()[0])
+        except:
+            return
         # if the selected sensor is in the list, remove it, otherwise add it
         if self.sensor_data[index] in self.selected_sensors:
             self.selected_sensors.remove(self.sensor_data[index])
