@@ -1,5 +1,5 @@
 import os
-import PyPDF4
+from pdfminer.high_level import extract_text
 
 years = [
     '2013', 
@@ -14,7 +14,6 @@ years = [
     '2022'
 ]
 
-#check if there exists a folder called dat_txt, if not create it
 if not os.path.exists('./data_txt'):
     os.makedirs('./data_txt')
 
@@ -27,14 +26,7 @@ for year in years:
     for filename in os.listdir(f'./data_txt/{year}'):
         os.remove(f"./data_txt/{year}/{filename}")
 
-    pdf_file = open(f'data_raw/PM10_D_dec{year[2:]}_slo.pdf','rb')
-    pdf_reader=PyPDF4.PdfFileReader(pdf_file)
-    
-    number_of_pages = len(pdf_reader.pages)
 
-    for page in range(number_of_pages):
-        page_object = pdf_reader.getPage(page)
-        text = page_object.extractText()
-        #page str should have leading zeros
-        file = open(f"./data_txt/{year}/MP10_{year}_Page_{page+1:02d}.txt","a", encoding='utf-8')
-        file.writelines(text)
+    text = extract_text(f'data_raw/PM10_D_dec{year[2:]}_slo.pdf')
+    file = open(f"./data_txt/{year}.txt","a", encoding='utf-8')
+    file.writelines(text)
