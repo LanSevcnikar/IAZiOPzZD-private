@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <base target="_top">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Quick Start - Leaflet</title>
+
+  <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+    integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+    integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+  <style>
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+    }
+
+    .leaflet-container {
+      height: calc((100vh) * 0.66);
+      width: calc(100VW * 0.6);
+      max-width: 100%;
+      max-height: 100%;
+    }
+  </style>
+
+
+</head>
+
+<body>
+  <div class="header">
+    Visualizing data
+  </div>
+  <div class="main-body">
+    <div class="map-container">
+      <div id="map"></div>
+    </div>
+    <div class="selected-points-container">
+
+    </div>
+    <div class="more-information-container">
+      <H1>
+        More information
+      </H1>
+    </div>
+  </div>
+
+
+
+  <script>
+    const LJUBLJANA_LATITUDE = 46.052;
+    const LJUBLJANA_LONGITUDE = 14.51;
+    const STARTING_ZOOM = 13;
+    const THRESHOLD_DISTANCE = 20;
+
+    const map = L.map('map').setView([46.052, 14.51], 13);
+
+    const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+    let points = []
+    // create 30 random points with ids as their number and lat and long the Ljubljana lat and long plus/minus 0.075
+    for (let i = 0; i < 30; i++) {
+      points.push({
+        id: i,
+        lat: 46.052 + Math.random() * 0.15 - 0.075,
+        lng: 14.51 + Math.random() * 0.15 - 0.075
+      })
+    }
+    createClusters()
+
+    // Create a function distance(cluster, cluster) that calculates the distance between two clusters on screen
+    function distance(cluster, otherCluster) {
+      // 1. find the center of the cluster
+      let lat = 0
+      let lng = 0
+      cluster.points.forEach(point => {
+        lat += point.lat
+        lng += point.lng
+      })
+      lat /= cluster.points.length
+      lng /= cluster.points.length
+
+      // 2. find the center of the other cluster
+      let otherLat = 0
+      let otherLng = 0
+      otherCluster.points.forEach(point => {
+        otherLat += point.lat
+        otherLng += point.lng
+      })
+      otherLat /= otherCluster.points.length
+      otherLng /= otherCluster.points.length
+
+      // 3. find the distance between the two centers in the pixels on screen
+      let point1 = map.latLngToContainerPoint([lat, lng])
+      let point2 = map.latLngToContainerPoint([otherLat, otherLng])
+      let distance = Math.sqrt(Math.pow(point1.x - point2.x, 2) + Math.pow(point1.y - point2.y, 2))
+
+      // 4. return the distance
+      return distance
+    }
+
+    // Make a function that is called each time the map is updated (moved, zoomed)
+    map.on('moveend', () => {
+      // 1. remove all the markers from the map
+      map.eachLayer(layer => {
+        if (layer instanceof L.Marker) {
+          map.removeLayer(layer)
+        }
+      })
+
+      // 2. create clusters
+      createClusters()
+    })
+
+    // call createClusters when map first loaded
+
+
+    // Create a function createClusters() that creates clusters from the points
+    function createClusters() {
+      let clusters = []
+
+      function alreadyInCluster(point) {
+        let alreadyInCluster = false
+        clusters.forEach(cluster => {
+          cluster.points.forEach(clusterPoint => {
+            if (clusterPoint.id === point.id) {
+              alreadyInCluster = true
+            }
+          })
+        })
+        return alreadyInCluster
+      }
+
+      //  The clusters should be the points themselves if they are far enough apart
+      //  But if they are close enough, they should be merged into one cluster
+      //  The distance between points is the distance on screen
+
+      // loop through all the points and create a cluster for it and add to that all points that are not already in some cluster and are close enough
+      points.forEach(point => {
+        // loop through all the points and add them to the cluster if they are close enough and are not already in some other cluster
+        if (!alreadyInCluster(point)) {
+          let cluster = {
+            points: [point],
+            lat: point.lat,
+            lng: point.lng
+          }
+          points.forEach(otherPoint => {
+            if (!alreadyInCluster(otherPoint)) {
+              if (distance(cluster, { points: [otherPoint] }) < THRESHOLD_DISTANCE) {
+                cluster.points.push(otherPoint)
+              }
+            }
+          })
+
+          // set the cluster lat and lon to be the average of all the points in it
+          let lat = 0
+          let lng = 0
+          cluster.points.forEach(point => {
+            lat += point.lat
+            lng += point.lng
+          })
+          lat /= cluster.points.length
+          lng /= cluster.points.length
+          cluster.lat = lat
+          cluster.lng = lng
+          clusters.push(cluster)
+        }
+      })
+
+      // loop through all the clusters and create a marker for each one
+      clusters.forEach(cluster => {
+        // create a marker for the cluster
+        let marker = L.marker([cluster.lat, cluster.lng]).addTo(map)
+
+        // if the cluster has more than one point, add a popup to the marker
+        if (cluster.points.length > 1) {
+          marker.bindPopup(`Cluster with ${cluster.points.length} points`)
+        }
+      })
+    }
+
+  </script>
+
+
+
+</body>
+<style>
+  .header {
+    height: 50px;
+    width: 100vw;
+    background-color: aliceblue;
+    padding-left: 20px;
+    padding-top: 13px;
+    box-sizing: border-box;
+    font-size: large;
+  }
+
+  /* Set the body's font to something nicer */
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .main-body {
+    height: calc(100vh - 50px);
+    width: 100vw;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+  }
+
+  .map-container {
+    grid-area: 1 / 1 / 3 / 4;
+  }
+
+  .selected-points-container {
+    grid-area: 3 / 1 / 4 / 4;
+  }
+
+  .more-information-container {
+    grid-area: 1 / 4 / 4 / 6;
+    background-color: aliceblue;
+    padding: 20px;
+  }
+
+  #map {
+    height: 100%;
+    width: 100%;
+  }
+</style>
+
+</html>

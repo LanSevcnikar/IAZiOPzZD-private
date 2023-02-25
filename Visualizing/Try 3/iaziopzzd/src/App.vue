@@ -28,7 +28,8 @@
 
 <script>
 import * as d3 from 'd3';
-import topojson from 'topojson-client';
+import * as topojson from 'topojson';
+
 
 export default {
   name: 'App',
@@ -51,11 +52,21 @@ export default {
       const width = document.querySelector('.map-container').clientWidth;
       const height = document.querySelector('.map-container').clientHeight;
 
+      const zoom = d3.zoom()
+        .scaleExtent([1, 8])
+        .on('zoom', (event) => {
+          const { transform } = event
+          svg.attr('transform', transform)
+        })
+
       const svg = d3
         .select('.map')
         .append('svg')
         .attr('width', width)
         .attr('height', height);
+
+        svg.call(zoom)
+
 
       const projection = d3.geoMercator()
         .translate([width / 2, height / 2])
@@ -168,5 +179,16 @@ li {
 
 li:hover {
   background-color: #eee;
+}
+
+#map {
+  position: relative;
+  overflow: hidden;
+}
+
+svg {
+  position: absolute;
+  -webkit-mask-image: url('mask.svg');
+  mask-image: url('mask.svg');
 }
 </style>
