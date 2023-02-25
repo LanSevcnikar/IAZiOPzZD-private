@@ -50,8 +50,12 @@
 
         <div v-if="selectedCluster != null" class="selected-cluster-container">
           <div v-for="point in selectedCluster.points" class="selected-cluster">
-            <div class="measuring-point" @click="addOrRemoveFromSelectedPoints(point)"
-              :style="[selectedPoints.includes(point) ? {'background': '#FF0000'} : {'background': '#FFF'}]">
+            <div class="measuring-point" @click="selectedPoint = point">
+              <!-- Make a checkbox that is selected if it is selected -->
+
+              <input type="checkbox" :checked="selectedPoints.includes(point)"
+                @click="addOrRemoveFromSelectedPoints(point)">
+
               <div class="measuring-point-name">
                 {{point.id}}
               </div>
@@ -68,6 +72,14 @@
             </div>
             <br>
           </div>
+        </div>
+        <br>
+        <br>
+        {{selectedPoint}}
+        <div v-if="selectedPoint">
+          <h1>
+            Tukaj potem lahko gre katerikoli data ali katerikoli download gumb ali kaj podobnega
+          </h1>
         </div>
       </div>
     </div>
