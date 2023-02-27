@@ -1,0 +1,19 @@
+Dan/
+merilno
+mesto
+Ljubljana
+Bežigrad
+Ljubljana
+BF Maribor Zagorje Hrastnik Trbovlje Novo mesto Kranj Murska Sobota Iskrba Žerjav Celje Nova Gorica Velenje Koper
+Januar 31 27 39 39 28 35 40 32 39 12 24 44 35 27 31
+Februar 30 27 29 36 28 32 35 30 30 7 23 38 22 25 18
+Marec 35 34 32 42 32 42 34 32 32 17 25 41 31 32 28
+April 19 20 25 25 19 29 20 17 21 12 20 24 19 19 19
+Maj 14 16 21 18 13 18 12 13 14 10 16 17 14 13 13
+Junij 14* 18 19 18 15 19 13 13 17 11 17 18 15 15 16
+Julij 14 16 18 17 14 15 14 12 15 11 16 15 12* 13 14
+Avgust 12 13 16 16 12 13 12 11 12 10 15 14 12 12 12
+September 16 18 21 20 15 16 15 18 17 13 19 17 16 14 16
+Oktober 27 23 31 28 22 27 24 23 29 13 21 28 22 21 17
+November 28 28 37 41 29 37 32 30 38 13 22 39 23 25 22
+December 29 26 30 39 22 34 13* 32 36 6 29 38 31 19 23 

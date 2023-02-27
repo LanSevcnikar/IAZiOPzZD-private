@@ -1,0 +1,28 @@
+Dan/
+merilno
+mesto
+Ljubljana
+Bežigrad
+Ljubljana
+BF
+Ljubljana
+GR Maribor Zagorje Hrastnik Trbovlje Novo
+mesto Kranj Murska
+Sobota Iskrba Žerjav Celje Velenje Nova
+Gorica
+Nova
+Gorica
+Grčna
+Koper
+Januar 54 58 - 54 64 46 60 59 51 59 13 39 68 36 48 - 40
+Februar 18 22 - 22 26 20 26 25 24 26 7 21 30 20 24 - 21
+Marec 20 25 - 23 27 21 28 26 23 23 11 21 32 19 22 - 18
+April 18 20 - 23 19 17 19 18 19 18 11 24 24 17 17 - 18
+Maj 13 15 - 21 19 14 15 14 13 14 10 18 18 12 11 - 13
+Junij 14 16 - 21 14 14 14 13 14 14 12 18 17 12 13 - 15
+Julij 14 17 - 18 14 15 15 15 14 14 13 15 16 14 14 - 16
+Avgust 13 15 - 17 13 13 13 14 13 13 12 15 16 13 12 - 14
+September 19 20 23 23 18 19 18 19 19 20 14 19 22 19 18 - 17
+Oktober 18 20 23 23 24 17 21 21 20 21 9 15 23 15 15 - 13
+November 24 27 28 29 33 23 27 31 26 34 10 23 36 19 25 - 19
+December 64 62 72 55 79 48 63 56 61 54 15 45 78 37 36 41 28
