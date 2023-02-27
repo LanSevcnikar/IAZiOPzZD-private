@@ -1,20 +1,37 @@
-Ljubljana Bežigrad, LJ Bežigrad, LJ Bež.
-Ljubljana Biotehniška fakulteta, Ljubljana BF, LJ BF
-Ljubljana Gospodarsko razstavišče, Ljubljana GR, LJ GR
-Maribor, MB
-Zagorje,
-Hrastnik,
-Trbovlje,
-Novo mesto,
-Kranj,
-Murska Sobota,
-Murska Sobota Cankarjeva, MS Can.
-Iskrba,
-Žerjav,
-Celje,
-Celje Mariborska, CE Mar.
-Nova Gorica,
-Nova Gorica Grčna, NG Grčna
-Velenje,
-Koper,
-Maribor Vrbanski plato, MB Vrb. 
+2013.01 - 2022.12 , 46.063920 , 14.506240 ,  Ljubljana Bežigrad, LJ Bežigrad, LJ Bež.
+2013.01 - 2021.03 , 46.048889 , 14.471739 ,  Ljubljana Biotehniška fakulteta, Ljubljana BF, LJ BF
+2021.03 - 2022.12 , 46.025078 , 14.464107 ,  Ljubljana Vič, LJ Vič
+2016.09 - 2020.01 , 46.060980 , 14.508507 ,  Ljubljana Gospodarsko razstavišče, Ljubljana GR, LJ GR
+2020.02 - 2022.12 , 46.071870 , 14.487510 ,  Ljubljana Celovska cesta, LJ prom.
+2013.01 - 2022.12 , 46.551320 , 15.649840 ,  Maribor, MB, MB Titova
+2020.01 - 2022.12 , 46.570140 , 15.627510 ,  Maribor Vrbanski plato, MB Vrb. 
+2013.01 - 2022.12 , 46.131290 , 14.996170 ,  Zagorje, ZG
+2013.01 - 2022.12 , 46.146370 , 15.084630 ,  Hrastnik, HR
+2013.01 - 2022.12 , 46.159489 , 15.054520 ,  Trbovlje, TR
+2013.01 - 2022.12 , 45.804211 , 15.169690 ,  Novo mesto, NM
+2013.01 - 2022.12 , 46.239208 , 14.355650 ,  Kranj, KR
+2013.01 - 2022.12 , 46.649220 , 16.194120 ,  Murska Sobota, MS, MS Rak.
+2017.09 - 2022.12 , 46.657570 , 16.162810 ,  Murska Sobota Cankarjeva, MS Can., MS Cank.
+2013.01 - 2022.12 , ????????? , ????????? ,  Iskrba,
+2013.01 - 2022.12 , 46.484840 , 14.869470 ,  Žerjav,
+2013.01 - 2022.12 , 46.231020 , 15.260290 ,  Celje, CE, CE bol. Celje Bolnica
+2017.01 - 2021.03 , 46.244430 , 15.277730 ,  Celje Mariborska, CE Mar.
+2021.03 ' 2022.12 , 46.235480 , 15.246240 ,  Celje Ljubljanska, CE Lj
+2013.01 - 2022.12 , 45.955080 , 13.652530 ,  Nova Gorica, NG, NG Vojk.
+2016.12 - 2022.12 , 45.953000 , 13.650800 ,  Nova Gorica Grčna, NG Grčna
+2013.01 - 2022.12 , 46.362274 , 15.110658 ,  Velenje, VE
+2013.01 - 2022.12 , 45.548058 , 13.730188 ,  Koper, KO, KP
+2020.01 - 2022.12 , 46.419952 , 15.869688 ,  Ptuj
+2021.01 - 2021.12 , 46.053130 , 13.613710 ,  Deskle
+2022.01 - 2022.12 , 45.973000 , 13.648410 ,  Solkan
+
+2016: * Dodana LJ GR in NG Grčna
+2017: * Dodana MS Cank. in CE Mar.
+2019: ** Na Vrbanskem platoju so se meritve začele izvajati 15. Novembra 2019
+2020: ** Na merilnem mestu Ljubljana prometna so se meritve v januarju izvajale na lokaciji Gospodarsko razstavišče, od februarja naprej pa nalokaciji Celovška cesta.
+2021: ** V Ljubljani smo meritve 19.3.2021 prestavili iz merilnega mesta Biotehniška na Vič. V Celju na Ljubljanski cesti so se meritve začele 10.3.2021, na Mariborski cesti pa smo jih zaključili s 6.4.2021.
+2021: * MB Titova se pojavi namesto MB in CE Bolnica namesto Celje, I will assume those are the same as they don't say anything, Similar with NG Vojnik
+2022: * Solkan se pojavi, Deskle grejo, MS postane MS Rak.
+
+
+!!! NOT SURE IF MS RAK JE VEDNO BILA V RAK ALI JE NAJPREJ BILA V CENTRU POTEM PA V RAK LETA 2020
