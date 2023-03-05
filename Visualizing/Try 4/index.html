@@ -38,13 +38,41 @@
         </h1>
         <div class="selected-points" v-for="point in selectedPoints">
           {{point}}
-
+        </div>
+        <h1>
+          Selected DataTypes
+        </h1>
+        <div class="selected-data-types" v-for="dataType in selectedDataTypes">
+          {{dataType.description}}
         </div>
       </div>
       <div class="more-information-container">
         <H1>
           More information
         </H1>
+        <!-- In the same row, three input fields containging lat, lon and radius (set by default to Ljubljana and 100km) -->
+        <div class="lat-lon-radius">
+          <!-- bind them to app.location-->
+          <input type="number" v-model="lat" placeholder="Lat" :value="location.lat">
+          <input type="number" v-model="lon" placeholder="Lon" :value="location.lng">
+          <input type="number" v-model="radius" placeholder="Radius" :value="location.rad">
+        </div>
+
+        <!-- A bunch of rows made with v-for containing a checkbox, a name and a hoverable extrta info using app.dataTypes-->
+        <div v-for="dataType in dataTypes" class="data-type">
+          <input type="checkbox" :checked="selectedDataTypes.includes(dataType)"
+            @click="addOrRemoveFromSelectedDataTypes(dataType)">
+          <div class="data-type-name">
+            {{dataType.dataTypeName}}
+          </div>
+          <!-- The descripton should be shown if one hovers the mouse over it as a pop up -->
+        </div>
+
+        <!-- make a button that will show the data points -->
+        <button @click="getDataPoints()">
+          Show points
+        </button>
+
         <!-- This is a VUE3 application so write the code beneath as if Vue 3 -->
         <!-- Make a list of dirs with all elements in the current cluster -->
 

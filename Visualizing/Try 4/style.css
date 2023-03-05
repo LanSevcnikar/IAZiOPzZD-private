@@ -86,3 +86,13 @@ body {
   padding-left: 10px;
   padding-right: 30px;
 }
+
+.data-type{
+  /* The children should be in the same row */
+  display: flex;
+}
+
+.lat-lon-radius {
+  padding-left: 10px;
+  padding-right: 30px;
+}

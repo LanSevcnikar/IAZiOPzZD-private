@@ -10,6 +10,14 @@ let app = createApp({
     return {
       points: [],
       clusters: [],
+      data: [],
+      dataTypes: [],
+      selectedDataTypes: [],
+      location: {
+        lat: LJUBLJANA_LATITUDE,
+        lng: LJUBLJANA_LONGITUDE,
+        rad: 100,
+      },
       map: null,
       mapLoaded: false,
       selectedCluster: null,
@@ -21,10 +29,35 @@ let app = createApp({
   // Add a method that is called when mounted
   mounted() {
     // Create the map
-    
   },
 
   methods: {
+    getDataPoints() {
+      let url = "http://localhost:3000/get-data-points";
+      let body = {
+        location: this.location,
+        dataTypes: this.selectedDataTypes,
+      };
+
+      console.log(body);
+
+      fetch(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(body),
+      })
+        .then((response) => {
+          return response.json();
+        })
+        .then((data) => {
+          this.points = data;
+          console.log(this.points);
+          // this.createClusters();
+        });
+    },
+
     createClusters() {
       this.clusters = [];
 
@@ -51,7 +84,7 @@ let app = createApp({
         });
         lat /= cluster.points.length;
         lng /= cluster.points.length;
-        
+
         // 2. find the center of the other cluster
         let otherLat = 0;
         let otherLng = 0;
@@ -61,14 +94,14 @@ let app = createApp({
         });
         otherLat /= otherCluster.points.length;
         otherLng /= otherCluster.points.length;
-        
+
         // 3. find the distance between the two centers in the pixels on screen
         let point1 = map.latLngToContainerPoint([lat, lng]);
         let point2 = map.latLngToContainerPoint([otherLat, otherLng]);
         let distance = Math.sqrt(
           Math.pow(point1.x - point2.x, 2) + Math.pow(point1.y - point2.y, 2)
-          );
-          
+        );
+
         // 4. return the distance
         return distance;
       }
@@ -76,7 +109,7 @@ let app = createApp({
       //  The clusters should be the points themselves if they are far enough apart
       //  But if they are close enough, they should be merged into one cluster
       //  The distance between points is the distance on screen
-      
+
       // loop through all the points and create a cluster for it and add to that all points that are not already in some cluster and are close enough
       this.points.forEach((point) => {
         // loop through all the points and add them to the cluster if they are close enough and are not already in some other cluster
@@ -91,16 +124,16 @@ let app = createApp({
               if (
                 distanceOnScreen(cluster, { points: [otherPoint] }) <
                 THRESHOLD_DISTANCE
-                ) {
-                  cluster.points.push(otherPoint);
-                }
+              ) {
+                cluster.points.push(otherPoint);
               }
-            });
-            
-            // set the cluster lat and lon to be the average of all the points in it
-            let lat = 0;
-            let lng = 0;
-            cluster.points.forEach((point) => {
+            }
+          });
+
+          // set the cluster lat and lon to be the average of all the points in it
+          let lat = 0;
+          let lng = 0;
+          cluster.points.forEach((point) => {
             lat += point.lat;
             lng += point.lng;
           });
@@ -137,10 +170,20 @@ let app = createApp({
         // otherwise add it
         this.selectedPoints.push(point);
       }
-    }
+    },
+
+    addOrRemoveFromSelectedDataTypes(dataType) {
+      if (this.selectedDataTypes.includes(dataType)) {
+        this.selectedDataTypes.splice(
+          this.selectedDataTypes.indexOf(dataType),
+          1
+        );
+      } else {
+        this.selectedDataTypes.push(dataType);
+      }
+    },
   },
 }).mount("#app");
-
 
 let map = L.map("map").setView(
   [LJUBLJANA_LATITUDE, LJUBLJANA_LONGITUDE],
@@ -154,26 +197,35 @@ L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 }).addTo(map);
 
-app.points = [];
-// create 30 random points with ids as their number and lat and long the Ljubljana lat and long plus/minus 0.075
-for (let i = 0; i < 30; i++) {
-  app.points.push({
-    id: i,
-    lat: 46.052 + Math.random() * 0.15 - 0.075,
-    lng: 14.51 + Math.random() * 0.15 - 0.075,
-  });
-}
+// app.points = [];
+// // create 30 random points with ids as their number and lat and long the Ljubljana lat and long plus/minus 0.075
+// for (let i = 0; i < 30; i++) {
+//   app.points.push({
+//     id: i,
+//     lat: 46.052 + Math.random() * 0.15 - 0.075,
+//     lng: 14.51 + Math.random() * 0.15 - 0.075,
+//   });
+// }
 
-map.on('moveend', () => {
+// Get the available dataTypes from localhost port 3000 on get-data-types
+app.dataTypes = [];
+fetch("http://localhost:3000/get-data-types")
+  .then((response) => response.json())
+  .then((data) => {
+    app.dataTypes = data;
+    app.selectedDataTypes = [data[0], data[7]];
+  });
+
+map.on("moveend", () => {
   // 1. remove all the markers from the map
-  map.eachLayer(layer => {
+  map.eachLayer((layer) => {
     if (layer instanceof L.Marker) {
-      map.removeLayer(layer)
+      map.removeLayer(layer);
     }
-  })
+  });
 
   // 2. create clusters
-  app.createClusters()
-})
+  app.createClusters();
+});
 
 app.createClusters();

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "dataTypeName": "ARSO - povprečen zračni tlak (hPa)",
+    "description": "Povprečen zračni tlak (hPa) po Sloveniji",
+    "endpoint": "arso-vreme",
+    "payload": {
+      "id": 12
+    }
+  },
+  {
+    "id": 2,
+    "dataTypeName": "ARSO - minimalen zračni tlak (hPa)",
+    "description": "Minimalen zračni tlak (hPa) po Sloveniji",
+    "endpoint": "arso-vreme",
+    "payload": {
+      "id": 13
+    }
+  },
+  {
+    "id": 3,
+    "dataTypeName": "ARSO - maksimalen zračni tlak (hPa)",
+    "description": "Maksimalen zračni tlak (hPa) po Sloveniji",
+    "endpoint": "arso-vreme",
+    "payload": {
+      "id": 14
+    }
+  },
+  {
+    "id": 4,
+    "dataTypeName": "ARSO - povprečna temperatura zraka na 2m (°C)",
+    "description": "povprečna temperatura zraka na 2m (°C) po Sloveniji",
+    "endpoint": "arso-vreme",
+    "payload": {
+      "id": 15
+    }
+  },
+  {
+    "id": 5,
+    "dataTypeName": "ARSO - minimalna temperatura zraka na 2m (°C)",
+    "description": "Minimalna temperatura zraka na 2m (°C)po Sloveniji",
+    "endpoint": "arso-vreme",
+    "payload": {
+      "id": 16
+    }
+  },
+  {
+    "id": 6,
+    "dataTypeName": "ARSO - maksimalna temperatura zraka na 2m (°C)",
+    "description": "Maksimalna temperatura zraka na 2m (°C) po Sloveniji",
+    "endpoint": "arso-vreme",
+    "payload": {
+      "id": 17
+    }
+  },
+  {
+    "id": 7,
+    "dataTypeName": "sensor.community - temperature",
+    "description": "Temperature po Evropi (sensor.community)",
+    "endpoint": "sensor-community",
+    "payload": {
+      "type": "temperature"
+    }
+  },
+  {
+    "id": 8,
+    "dataTypeName": "sensor.community - humidity",
+    "description": "Vlažnost po Evropi (sensor.community)",
+    "endpoint": "sensor-community",
+    "payload": {
+      "type": "humidity"
+    }
+  },
+  {
+    "id": 9,
+    "dataTypeName": "sensor.community - PM10",
+    "description": "Ravni PM10 delcev po Evropi (sensor.community)",
+    "endpoint": "sensor-community",
+    "payload": {
+      "type": "PM10"
+    }
+  },
+  {
+    "id": 10,
+    "dataTypeName": "sensor.community - PM25",
+    "description": "Ravni PM2.5 delcev Evropi (sensor.community)",
+    "endpoint": "sensor-community",
+    "payload": {
+      "type": "PM2.5"
+    }
+  }
+]
