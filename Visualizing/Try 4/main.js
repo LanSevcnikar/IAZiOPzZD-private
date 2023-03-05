@@ -18,6 +18,10 @@ let app = createApp({
         lng: LJUBLJANA_LONGITUDE,
         rad: 100,
       },
+      date: {
+        start: "2022-11-01",
+        end: "2022-12-31",
+      },
       map: null,
       mapLoaded: false,
       selectedCluster: null,
@@ -32,7 +36,37 @@ let app = createApp({
   },
 
   methods: {
+    downloadData(){
+      let url = "http://localhost:3000/get-data";
+      let body = {
+        dataPoints: this.selectedPoints,
+        startingDate: this.date.start,
+        endingDate: this.date.end,
+      };
+
+      fetch(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(body),
+      })
+        .then((response) => {
+          return response.json();
+        })
+        .then((data) => {
+          this.data = data;
+          console.log(this.data);
+        });
+    },
+
     getDataPoints() {
+      this.points = [];
+      map.eachLayer((layer) => {
+        if (layer instanceof L.Marker) {
+          map.removeLayer(layer);
+        }
+      });
       let url = "http://localhost:3000/get-data-points";
       let body = {
         location: this.location,
@@ -53,25 +87,19 @@ let app = createApp({
         })
         .then((data) => {
           this.points = data;
-          console.log(this.points);
-          // this.createClusters();
+          // go through each point and rename lon to lng
+          this.points.forEach((point) => {
+            point.lat = parseFloat(point.lat);
+            point.lng = parseFloat(point.lon);
+            delete point.lon;
+          });
+          //console.log(this.points);
+          this.createClusters();
         });
     },
 
     createClusters() {
       this.clusters = [];
-
-      function alreadyInCluster(point) {
-        let alreadyInCluster = false;
-        app.clusters.forEach((cluster) => {
-          cluster.points.forEach((clusterPoint) => {
-            if (clusterPoint.id === point.id) {
-              alreadyInCluster = true;
-            }
-          });
-        });
-        return alreadyInCluster;
-      }
 
       // Create a function distance(cluster, cluster) that calculates the distance between two clusters on screen
       function distanceOnScreen(cluster, otherCluster) {
@@ -113,42 +141,43 @@ let app = createApp({
       // loop through all the points and create a cluster for it and add to that all points that are not already in some cluster and are close enough
       this.points.forEach((point) => {
         // loop through all the points and add them to the cluster if they are close enough and are not already in some other cluster
-        if (!alreadyInCluster(point)) {
-          let cluster = {
+        //console.log(point)
+
+        // loop trhough the clusters and see if the point is close enough to any of them to go in
+        let addedToCluster = false;
+        this.clusters.forEach((cluster) => {
+          if (
+            distanceOnScreen(cluster, { points: [point] }) < THRESHOLD_DISTANCE
+          ) {
+            cluster.points.push(point);
+            addedToCluster = true;
+          }
+        });
+
+        // if the point is not close enough to any of the clusters, create a new cluster for it
+        if (!addedToCluster) {
+          this.clusters.push({
             points: [point],
             lat: point.lat,
             lng: point.lng,
-          };
-          this.points.forEach((otherPoint) => {
-            if (!alreadyInCluster(otherPoint) && otherPoint.id !== point.id) {
-              if (
-                distanceOnScreen(cluster, { points: [otherPoint] }) <
-                THRESHOLD_DISTANCE
-              ) {
-                cluster.points.push(otherPoint);
-              }
-            }
           });
-
-          // set the cluster lat and lon to be the average of all the points in it
-          let lat = 0;
-          let lng = 0;
-          cluster.points.forEach((point) => {
-            lat += point.lat;
-            lng += point.lng;
-          });
-          lat /= cluster.points.length;
-          lng /= cluster.points.length;
-          cluster.lat = lat;
-          cluster.lng = lng;
-          this.clusters.push(cluster);
         }
       });
 
       // loop through all the clusters and create a marker for each one
       this.clusters.forEach((cluster) => {
+        // find the avergae lat and lng
+        let lat = 0;
+        let lng = 0;
+        cluster.points.forEach((point) => {
+          lat += point.lat;
+          lng += point.lng;
+        });
+        lat /= cluster.points.length;
+        lng /= cluster.points.length;
+
         // create a marker for the cluster
-        let marker = L.marker([cluster.lat, cluster.lng]).addTo(map);
+        let marker = L.marker([lat, lng]).addTo(map);
         // Make the marker clickable
         marker.on("click", () => {
           // set the selected cluster to be the cluster that was clicked

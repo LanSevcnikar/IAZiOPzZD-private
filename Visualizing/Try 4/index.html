@@ -33,18 +33,27 @@
         <div id="map"></div>
       </div>
       <div class="selected-points-container">
-        <h1>
-          Selected points
-        </h1>
-        <div class="selected-points" v-for="point in selectedPoints">
-          {{point}}
-        </div>
-        <h1>
+
+        <h3>
           Selected DataTypes
-        </h1>
+        </h3>
         <div class="selected-data-types" v-for="dataType in selectedDataTypes">
           {{dataType.description}}
         </div>
+        <h3>
+          Selected points
+        </h3>
+        <div class="selected-points" v-for="point in selectedPoints">
+          {{point.dataType}} - {{point.dataPointName}}
+        </div>
+        <!-- I want to have a row of three elements, two input fields and a button. The input fields should be date fields -->
+        <div class="date-container">
+          <input type="date" v-model="date.start" :value="date.start">
+          <input type="date" v-model="date.end" :value="date.end">
+          <button @click="downloadData()">
+            Download data
+          </button>
+          </div> 
       </div>
       <div class="more-information-container">
         <H1>
@@ -53,9 +62,9 @@
         <!-- In the same row, three input fields containging lat, lon and radius (set by default to Ljubljana and 100km) -->
         <div class="lat-lon-radius">
           <!-- bind them to app.location-->
-          <input type="number" v-model="lat" placeholder="Lat" :value="location.lat">
-          <input type="number" v-model="lon" placeholder="Lon" :value="location.lng">
-          <input type="number" v-model="radius" placeholder="Radius" :value="location.rad">
+          <input type="number" v-model="location.lat" placeholder="Lat" :value="location.lat">
+          <input type="number" v-model="location.lng" placeholder="Lon" :value="location.lng">
+          <input type="number" v-model="location.rad" placeholder="Radius" :value="location.rad">
         </div>
 
         <!-- A bunch of rows made with v-for containing a checkbox, a name and a hoverable extrta info using app.dataTypes-->
