@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="https://unpkg.com/vue@3.2.47"></script>
+
+  <base target="_top">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Quick Start - Leaflet</title>
+
+  <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+    integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+    integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+  <link rel="stylesheet" href="style.css">
+  </link>
+
+
+</head>
+
+<body>
+  <div id="app">
+    <div class="header">
+      Visualizing data
+    </div>
+    <div class="main-body">
+      <div class="map-container">
+        <div id="map"></div>
+      </div>
+      <div class="selected-points-container">
+
+        <h3>
+          Selected DataTypes
+        </h3>
+        <div class="selected-data-types" v-for="dataType in selectedDataTypes">
+          {{dataType.description}}
+        </div>
+        <h3>
+          Selected points
+        </h3>
+        <div class="selected-points" v-for="point in selectedPoints">
+          {{point.dataType}} - {{point.dataPointName}}
+        </div>
+        <!-- I want to have a row of three elements, two input fields and a button. The input fields should be date fields -->
+        <div class="date-container">
+          <input type="date" v-model="date.start" :value="date.start">
+          <input type="date" v-model="date.end" :value="date.end">
+          <button @click="downloadData()">
+            Download data
+          </button>
+          </div> 
+      </div>
+      <div class="more-information-container">
+        <H1>
+          More information
+        </H1>
+        <!-- In the same row, three input fields containging lat, lon and radius (set by default to Ljubljana and 100km) -->
+        <div class="lat-lon-radius">
+          <!-- bind them to app.location-->
+          <input type="number" v-model="location.lat" placeholder="Lat" :value="location.lat">
+          <input type="number" v-model="location.lng" placeholder="Lon" :value="location.lng">
+          <input type="number" v-model="location.rad" placeholder="Radius" :value="location.rad">
+        </div>
+
+        <!-- A bunch of rows made with v-for containing a checkbox, a name and a hoverable extrta info using app.dataTypes-->
+        <div v-for="dataType in dataTypes" class="data-type">
+          <input type="checkbox" :checked="selectedDataTypes.includes(dataType)"
+            @click="addOrRemoveFromSelectedDataTypes(dataType)">
+          <div class="data-type-name">
+            {{dataType.dataTypeName}}
+          </div>
+          <!-- The descripton should be shown if one hovers the mouse over it as a pop up -->
+        </div>
+
+        <!-- make a button that will show the data points -->
+        <button @click="getDataPoints()">
+          Show points
+        </button>
+
+        <!-- This is a VUE3 application so write the code beneath as if Vue 3 -->
+        <!-- Make a list of dirs with all elements in the current cluster -->
+
+        <div v-if="selectedCluster != null" class="selected-cluster-container">
+          <div v-for="point in selectedCluster.points" class="selected-cluster">
+            <div class="measuring-point" @click="selectedPoint = point">
+              <!-- Make a checkbox that is selected if it is selected -->
+
+              <input type="checkbox" :checked="selectedPoints.includes(point)"
+                @click="addOrRemoveFromSelectedPoints(point)">
+
+              <div class="measuring-point-name">
+                {{point.id}}
+              </div>
+              (
+              <div class="measuring-point-lat-lon">
+                {{point.lat.toFixed(4)}}
+              </div>
+              -
+              <div class="measuring-point-lat-lon">
+                {{point.lng.toFixed(4)}}
+              </div>
+              )
+
+            </div>
+            <br>
+          </div>
+        </div>
+        <br>
+        <br>
+        {{selectedPoint}}
+        <div v-if="selectedPoint">
+          <h1>
+            Tukaj potem lahko gre katerikoli data ali katerikoli download gumb ali kaj podobnega
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="main.js"></script>
+
+</body>
+<style>
+
+</style>
+
+</html>

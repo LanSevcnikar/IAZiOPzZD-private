@@ -100,14 +100,23 @@ app.post("/get-data", (req, res) => {
         })
         .then((data) => {
           console.log(data);
+          res.send(data);
         });
     }
   }
-
-  res.send(data);
 });
 
 // Listen on port 3000
 app.listen(3000, () => {
   console.log("Server listening on port 3000...");
 });
+
+metadata_request = {
+	start_date: "yyyy-mm-dd",
+	end_date: "yyyy-mm-dd",
+	location: {
+		lat: xxxxx,
+		lon: xxxxx,
+	},
+	radius: x,
+}

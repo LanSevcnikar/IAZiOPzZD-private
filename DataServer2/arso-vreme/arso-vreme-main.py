@@ -176,6 +176,7 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         # Send a 200 OK response with the same JSON data
         self.send_response(200)
         self.send_header('Content-Type', 'application/json')
+        # send scrapted data back
         self.end_headers()
         self.wfile.write(json.dumps(scrapedData).encode())
 
