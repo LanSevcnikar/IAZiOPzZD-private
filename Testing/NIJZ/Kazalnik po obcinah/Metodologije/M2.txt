@@ -1,0 +1,22 @@
+ENOTA MERE
+- K3.1: %.
+- K3.2: %.
+- K3.3: %.
+- K3.4: %.
+VIR
+- K3.1: Zbirka Programa Svit, Nacionalni inštitut za javno zdravje. Prebivalstvo, Centralni register prebivalcev. Zavarovane osebe, Zavod za zdravstveno zavarovanje Slovenije. '
+- K3.2: Program Zora, Register raka, Onkološki inštitut.
+- K3.3: Vir podatkov o rezultatih mikrobioloških preskušanj pitne vode so baze NLZOH: Monitoring pitne vode - http://www.mpv.si/, Podatki o načinu oskrbe prebivalcev s pitno vodo (št. uporabnikov na oskrbovalnem/ih območju/ih v naselju) so pridobljeni iz strani upravljavcev vodovodov in/ali občin, Vir podatkov o prebivalcih je SURS. '
+- K3.4: Program DORA, Register raka, Onkološki inštitut. '
+PODATKI
+- K3.1: leto 2014 (Objava 2016) / leto 2015 (Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020) / leto 2019 (objava 2021);
+-
+K3.2: povprečje 1.7.2011-30.6.2014 (Objava 2016) / povprečje 1.7.2012–30.6.2015 (Objava 2017) / povprečje 1.7.2013–30.6.2016 (Objava 2018) / povprečje 1.7.2014–30.6.2017 (Objava 2019) / povprečje 1.7.2015–30.6.2018 (Objava 2020) / povprečje 1.7.2016-30.6.2019 (Objava 2021); ženske, stare 20–64 let
+- K3.3: povprečje 2013–2015 (Objava 2016) / povprečje 2013–sept. 2016 (Objava 2017) / povprečje 2014-2017 (Objava 2018) ; državni monitoring
+-
+K3.4: povprečje 1.1.2019-31.10.2019 (Objava 2020)/ povprečje 1.1.2019-31.10.2020 (Objava 2021) ; ženske, stare 50-69 let
+OPOMBE
+- (...) ni podatka
+- (-) ni pojava
+- (m) podatek za občino temelji na statističnem modelu
+- SSS starostno standardizirana stopnja na slovensko populacijo 1.7.2014

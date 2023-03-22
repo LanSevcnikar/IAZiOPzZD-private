@@ -1,0 +1,79 @@
+ENOTA MERE
+- K4.1: %
+- K4.2: dnevi
+- K4.3: SSS/1000
+- K4.4: SSS/1000
+- K4.5: SSS/100
+- K4.6: SSS/100
+- K4.7: SSS/101
+- K4.8: SSS/1000
+- K4.9: SSS/1000
+- K4.10: SSS/100.000
+- K4.11: SSS/1000
+- K4.12: SSS/100
+- K4.13: %
+- K4.14: SSS/100.000
+- K4.15: SSS/100.000
+- K4.16: SSS/100.000
+- K4.17: SSS/100.000
+- K4.18: SSS/100.000
+
+VIR
+- K4.1: Anketa o zdravju in zdravstvenem varstvu (EHIS), Nacionalni inštitut za javno zdravje.
+' - K4.2: Zbirka NIJZ 3 o začasni odsotnosti z dela zaradi bolezni, poškodb in drugih zdravstveno upravičenih razlogov, Nacionalni inštitut za javno zdravje, Zaposleni prebivalci, baza zavarovancev, ki jo upravlja Zavod za zdravstveno zavarovanje Slovenije '
+' - K4.3: Evidenca bolezni, zastrupitev in poškodb, ki zahtevajo zdravljenje v bolnišnici, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.4: Evidenca bolezni, zastrupitev in poškodb, ki zahtevajo zdravljenje v bolnišnici, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.5: Zbirka podatkov o ambulantno predpisanih zdravilih na recept, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.6: Zbirka podatkov o ambulantno predpisanih zdravilih na recept, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.7: Zbirka podatkov o ambulantno predpisanih zdravilih na recept, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.8: Evidenca bolezni, zastrupitev in poškodb, ki zahtevajo zdravljenje v bolnišnici, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.9: Evidenca bolezni, zastrupitev in poškodb, ki zahtevajo zdravljenje v bolnišnici, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.10: Novi primeri raka, SLORA, Register raka, Onkološki inštitut. Prebivalstvo, Statistični urad Republike Slovenije.'
+' - K4.11: Evidenca bolezni, zastrupitev in poškodb, ki zahtevajo zdravljenje v bolnišnici, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.12: Zbirka podatkov o ambulantno predpisanih zdravilih na recept, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.13: Letna poročila izvajanj pomoči na domu, Inštitut Republike Slovenije za socialno varstvo, Prebivalstvo, Statistični urad Republike Slovenije '
+' - K4.14: Evidenca bolezni, zastrupitev in poškodb, ki zahtevajo zdravljenje v bolnišnici, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.15: Register raka republike Slovenije, Onkološki inštitut Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.16: Register raka republike Slovenije, Onkološki inštitut Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.17: Register raka republike Slovenije, Onkološki inštitut Prebivalstvo, Statistični urad Republike Slovenije. '
+' - K4.18: Register raka republike Slovenije, Onkološki inštitut Prebivalstvo, Statistični urad Republike Slovenije. '
+PODATKI
+-
+K4.1: leto 2014 (Objava 2016)/ leto 2019 (Objava 2021)
+-
+K4.2: leto 2014 (Objava 2016) / leto 2015 (Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020) / leto 2019 (Objava 2021)
+-
+K4.3: povprečje 2011-2014 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017 (Objava 2019) / povprečje 2014-2018 (Objava 2020)/ povprečje 2015-2019 (Objava 2021) ; stari 0-19 let.
+-
+K4.4: povprečje 2011-2014 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017 (Objava 2019) / povprečje 2014-2018 (Objava 2020)/ povprečje 2015-2019 (Objava 2021) ; starejši od 15 let.
+-
+K4.5: leto 2014 (Objava 2016) / leto 2015 (Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020)/ leto 2019 (Objava 2021) ;
+-
+K4.6: leto 2014 (Objava 2016) / leto 2015 (Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020)/ leto 2019 (Objava 2021) ;
+-
+K4.7: leto 2014 (Objava 2016) / leto 2015 (Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020) / leto 2019 (Objava 2021);
+-
+K4.8: povprečje 2011-2014 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017 (Objava 2019) / povprečje 2014-2018 (Objava 2020)/ povprečje 2015-2019 (Objava 2021) ; bolnišnične obravnave, stari 35–74 let
+-
+K4.9: povprečje 2011-2014 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017 (Objava 2019) / povprečje 2014-2018 (Objava 2020)/ povprečje 2015-2019 (Objava 2021) ; bolnišnične obravnave, stari 35–84 let
+-
+K4.10: povprečje 2009-2011 (Objava 2016) / povprečje 2011-2013 (Objava 2017) / povprečje 2012-2014 (Objava 2018) / povprečje 2011-2015 (Objava 2019)/ povprečje 2012-2016 (Objava 2020)/ povprečje 2013-2017 (Objava 2021) ; novo odkriti raki razen nemelanomskega
+-
+K4.11: povprečje 2011-2014 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017 (Objava 2019) / povprečje 2014-2018 (Objava 2020)/ povprečje 2015-2019 (Objava 2021) ; bolnišnične obravnave, stari 65 let in več
+-
+K4.12: leto 2014 (Objava 2016) / leto 2015 (Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020)/ leto 2019 (Objava 2021) ; stari 65 let in več
+-
+K4.13: leto 2014 (Objava 2016) / leto 2015 (Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020)/ leto 2019 (Objava 2021) ; stari 65 let in več
+-
+K4.14: povprečje 2007-2015 (Objava 2017) / povprečje 2008-2016 (Objava 2018) / povprečje 2008-2017 (Objava 2019) / povprečje 2009-2018 (Objava 2020) / povprečje 2010-2019 (Objava 2021)
+- K4.15: povprečje 2010-2014 (Objava 2018) /povprečje 2011-2015 (Objava 2019)/ povprečje 2012-2016 (Objava 2020)/ povprečje 2013-2017 (Objava 2021)
+- K4.16: povprečje 2010-2014 (Objava 2018) /povprečje 2011-2015 (Objava 2019)/ povprečje 2012-2016 (Objava 2020)/ povprečje 2013-2017 (Objava 2021)
+-
+K4.17: povprečje 2010-2014 (Objava 2018) /povprečje 2011-2015 (Objava 2019)/ povprečje 2012-2016 (Objava 2020)/ povprečje 2013-2017 (Objava 2021)
+-
+K4.18: povprečje 2012-2016 (Objava 2020)
+OPOMBE
+- (...) ni podatka
+- (-) ni pojava
+- (m) podatek za občino temelji na statističnem modelu
+- SSS starostno standardizirana stopnja na slovensko populacijo 1.7.2014

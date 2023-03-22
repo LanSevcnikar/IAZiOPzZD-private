@@ -1,0 +1,55 @@
+ENOTA MERE
+- K2.1: indeks
+- K2.2: %
+- K2.3: %
+- K2.4: %
+- K2.5: SSS/1000
+- K2.6: %
+- K2.7: %
+- K2.8: %
+- K2.9: %
+- K2.10: %
+- K2.11: %
+VIR PODATKOV
+- K2.1: Podatkovna zbirka SLOfit šolar (Fakulteta za šport).
+- K2.2: Podatkovna zbirka SLOfit šolar (Fakulteta za šport).
+- K2.3: Anketa o zdravju in zdravstvenem varstvu (EHIS), Nacionalni inštitut za javno zdravje.
+- K2.4: Anketa o zdravju in zdravstvenem varstvu (EHIS), Nacionalni inštitut za javno zdravje.
+- K2.5: Evidenca bolezni, zastrupitev in poškodb, ki zahtevajo zdravljenje v bolnišnici, Nacionalni inštitut za javno zdravje. Prebivalstvo, Statistični urad Republike Slovenije.
+- K2.6: Stanje varnosti cestnega prometa, Javna agencija Republike Slovenije za varnost prometa.
+- K2.7: Anketa o zdravju in zdravstvenem varstvu (EHIS), Nacionalni inštitut za javno zdravje.
+- K2.8: Anketa Z zdravjem povezan vedenjski slog (CINDI), Nacionalni inštitut za javno zdravje
+- K2.9: Anketa Z zdravjem povezan vedenjski slog (CINDI), Nacionalni inštitut za javno zdravje
+- K2.10: Anketa Z zdravjem povezan vedenjski slog (CINDI), Nacionalni inštitut za javno zdravje
+- K2.11: Nacionalna raziskava o tobaku, alkoholu in drugih drogah (ATADD 2018), Nacionalni inštitut za javno zdravje
+
+PODATKI
+
+- K2.1: leto 2014 (Objava 2016) / leto 2015 (Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020)/ leto 2019 (objava 2021) ; otroci in mladostniki, stari 6–14 let
+- K2.2: leto 2014 (Objava 2016) / leto 2015(Objava 2017) / leto 2016 (Objava 2018) / leto 2017 (Objava 2019) / leto 2018 (Objava 2020)/ leto 2019 (Objava 2021) ; otroci in mladostniki, stari 6–14 let
+
+- K2.3: leto 2014 (Objava 2016)/ leto 2019 (Objava 2021); stari 15 let in več
+-
+K2.4: leto 2014 (Objava 2016)/ leto 2019 (Objava 2021); stari 15 let in več
+-
+K2.5: povprečje 2011-2013 (Objava 2016) / povprečje 2012–2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017 (Objava 2019) / povprečje 2014-2018 (Objava 2020) / povprečje 2015-2019 (Objava 2021);
+-
+K2.6: povprečje 2012-2014 (Objava 2016) / povprečje 2013–2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017 (Objava 2019) / povprečje 2014-2018 (Objava 2020)/ povprečje 2015-2019 (Objava 2021 ;
+-
+K2.7: leto 2014 (Objava 2016)
+-
+K2.8: leto 2016 (Objava 2018)
+-
+K2.9: leto 2016 (Objava 2019)
+-
+K2.10: leto 2016 (Objava 2019)
+-
+K2.11: leto 2018 (Objava 2020)
+
+OPOMBE
+- (...) ni podatka
+- (-) ni pojava
+- (m) podatek za občino temelji na statističnem modelu
+- SSS starostno standardizirana stopnja na slovensko populacijo 1.7.2014
+Dejavniki tveganja: K2.1 Telesni fitnes otrok
+Vrednosti indeksa med leti niso primerljive.

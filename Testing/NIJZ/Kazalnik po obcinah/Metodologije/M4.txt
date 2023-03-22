@@ -1,0 +1,40 @@
+ENOTA MERE
+- K5.1: SSS/100.000
+- K5.2: SSS/100.000
+- K5.3: SSS/100.000
+- K5.4: SSS/100.000
+- K5.5: SSS/100.000
+- K5.6: SSS/100.000
+- K5.7: SSS/100.000
+VIR
+- K5.1: Baza umrlih, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije.
+- K5.2: Baza umrlih, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+- K5.3: Baza umrlih, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+- K5.4: Baza umrlih, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+- K5.5: Baza umrlih, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+- K5.6: Baza umrlih, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+- K5.7: Baza umrlih, Nacionalni inštitut za javno zdravje, Prebivalstvo, Statistični urad Republike Slovenije. '
+PODATKI
+-
+K5.1: povprečje 2011-2013 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017; (Objava 2019) / povprečje 2014-2018; (Objava 2020)/ povprečje 2015-2019; (Objava 2021) ;
+-
+K5.2: povprečje 2011-2013 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017; (Objava 2019) / povprečje 2014-2018; (Objava 2020)/ povprečje 2015-2019; (Objava 2021) ; stari 0–74 let
+-
+K5.3: povprečje 2011-2013 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013-2017; (Objava 2019) / povprečje 2014-2018; (Objava 2020)/ povprečje 2015-2019; (Objava 2021) ; stari 0–74 let
+-
+K5.4: povprečje 2011-2013 (Objava 2016) / povprečje 2011-2015 (Objava 2017) ; stari 0–74 let
+-
+K5.5: povprečje 2011-2013 (Objava 2016) / povprečje 2011-2015 (Objava 2017) ; ženske, stare 0–74 let
+-
+K5.6: povprečje 2011-2013 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2014 - 2018 (Objava 2020)/ povprečje 2015 - 2019 (Objava 2021) ; stari 0–74 let
+-
+K5.7: povprečje 2011-2013 (Objava 2016) / povprečje 2011-2015 (Objava 2017) / povprečje 2012-2016 (Objava 2018) / povprečje 2013 - 2017 (Objava 2019) / povprečje 2014 - 2018 (Objava 2020)/ povprečje 2015-2019 (Objava 2021) ;
+OPOMBE
+- (...) ni podatka
+- (-) ni pojava
+- (m) podatek za občino temelji na statističnem modelu
+- SSS starostno standardizirana stopnja na slovensko populacijo 1.7.2014
+Leto: 2017 , Umrljivost: K5.4 Umrljivost zaradi raka debelega črevesja (0-74 let)
+Prelom časovne vrste
+Leto: 2019 , Umrljivost: K5.1 Splošna umrljivost po stalnem bivališču
+Prelom časovne vrste
