@@ -1,0 +1,119 @@
+Aachen
+Aschaffenburg
+Augsburg
+Bamberg
+Bayreuth
+Berlin
+Bielefeld
+Bochum
+Bonn
+Bottrop
+Brandenburg an der Havel
+Braunschweig
+Bremen
+Bremerhaven
+Celle
+Chemnitz
+Cottbus
+Darmstadt
+Dessau-Roßlau
+Dortmund
+Dresden
+Duisburg
+Düsseldorf
+Erfurt
+Erlangen
+Essen
+Esslingen am Neckar
+Flensburg
+Frankenthal (Pfalz)
+Frankfurt (Oder)
+Frankfurt am Main
+Freiburg im Breisgau
+Friedrichshafen
+Fulda
+Fürth
+Gelsenkirchen
+Gera
+Gießen
+Görlitz
+Göttingen
+Hagen
+Halle an der Saale
+Hamburg
+Hamm
+Hanau
+Hannover
+Heidelberg
+Heilbronn
+Herne
+Hildesheim
+Ingolstadt
+Iserlohn
+Jena
+Kaiserslautern
+Karlsruhe
+Kassel
+Kempten (Allgäu)
+Kiel
+Koblenz
+Köln
+Konstanz
+Krefeld
+Landshut
+Leipzig
+Leverkusen
+Lübeck
+Ludwigsburg
+Ludwigshafen am Rhein
+Lüneburg
+Magdeburg
+Mainz
+Mannheim
+Marburg
+Moers
+Mönchengladbach
+Mülheim a.d.Ruhr
+München
+Münster
+Neubrandenburg
+Neumünster
+Neuss
+Neu-Ulm
+Nürnberg
+Oberhausen
+Offenbach am Main
+Offenburg
+Oldenburg (Oldenburg)
+Osnabrück
+Paderborn
+Passau
+Pforzheim
+Plauen
+Potsdam
+Recklinghausen
+Regensburg
+Remscheid
+Reutlingen
+Rostock
+Saarbrücken
+Salzgitter
+Schweinfurt
+Schwerin
+Siegen
+Solingen
+Speyer
+Stralsund
+Stuttgart
+Trier
+Tübingen
+Ulm
+Villingen-Schwenningen
+Weimar
+Wetzlar
+Wiesbaden
+Witten
+Wolfsburg
+Wuppertal
+Würzburg
+Zwickau
