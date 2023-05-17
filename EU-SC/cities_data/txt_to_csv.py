@@ -38,7 +38,7 @@ for city_name in city_names:
         print(f"Error processing {city_name}")
 
 # Save the results to a CSV file
-with open("city_coords.csv", "w", newline="") as f:
+with open("city_coords.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["City", "Latitude", "Longitude"])
     writer.writerows(results)
