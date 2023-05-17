@@ -102,20 +102,20 @@ def process_sensor(data, measurement_type):
 
 
 def process_date_helper(args):
-    url, measurement_type,city_name = args
-    print(url)
+    url, measurement_type,city_name,date = args
+    
     try:
         if 'Not Found' in request.content.decode('utf-8'):
             print('Did not Downloaded ' + url)
     except:
         try:
             request = requests.get(url)
-            fileLocation = 'C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + city_name + '/'
+            fileLocation = 'C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(date) + '/' + str(city_name) + '/'
             fileName = url.replace('/', '_').replace(':', '_')
-            print(fileLocation + fileName)
 
             with open(fileLocation + fileName, 'wb') as f:
                 f.write(request.content)
+                print('.',end='')
 
         except Exception as e:
             print(e)
@@ -137,8 +137,6 @@ def generate_urls(sensors, date):
                 whole_date + '_' + sensor_name + '_sensor_' + sensor_id + '.csv'
             temp_url = temp_url.lower()
             urls.append(temp_url)
-            temp_url = temp_url + '.gz'
-            urls.append(temp_url)
 
     return urls
 
@@ -149,8 +147,14 @@ def process_date(city_name, sensors, measurement_type, date):
     urls = generate_urls(sensors, date)
     data = []
     # create a folder in temp called city name 
-    os.mkdir('C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + city_name)
-    
+    try:
+        os.mkdir('C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(date))
+    except:
+        pass
+    try:
+        os.mkdir('C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(date) + '/' + str(city_name))
+    except:
+        return 
 
 
     # Create a pool of worker processes
@@ -158,7 +162,7 @@ def process_date(city_name, sensors, measurement_type, date):
 
     # Map the process_sensor_helper function to each URL in parallel
 
-    tasks = [(url, measurement_type, city_name) for url in urls]
+    tasks = [(url, measurement_type, city_name, date) for url in urls]
     pool.map(
         process_date_helper,
         tasks
@@ -167,6 +171,7 @@ def process_date(city_name, sensors, measurement_type, date):
     # Close the pool and wait for the worker processes to finish
     pool.close()
     pool.join()
+    print('')
 
     # Filter out the None values and return the average of the remaining data
     # data = [d for d in data if d is not None]
@@ -194,9 +199,10 @@ def get_data_from_sc(city_name, lat, lon, start_date, end_date, radius, measurem
     dates = pd.date_range(start_date, end_date,
                           freq='MS').strftime("%Y-%m").tolist()
 
-    print(dates, len(all_sensors))
+    print(city_name, len(all_sensors))
     # you got rid of for dates
-    process_date(city_name, all_sensors, measurement_type, dates[0])
+    for date in dates:
+        process_date(city_name, all_sensors, measurement_type, date)
     return
 
 
