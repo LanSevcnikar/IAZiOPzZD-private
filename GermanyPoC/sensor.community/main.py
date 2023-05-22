@@ -103,27 +103,33 @@ def process_sensor(data, measurement_type):
 
 def process_date_helper(args):
     url, measurement_type,city_name,date = args
-    
     try:
-        if 'Not Found' in request.content.decode('utf-8'):
-            print('Did not Downloaded ' + url)
-    except:
+        request = requests.get(url, timeout=2)
         try:
-            request = requests.get(url)
-            fileLocation = 'C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(date) + '/' + str(city_name) + '/'
-            fileName = url.replace('/', '_').replace(':', '_')
+            if 'Not Found' in request.content.decode('utf-8'):
+                # throw exception to go to the except block
+                return
+        except:
+            try:
+                fileLocation = 'C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(city_name) + '/' + str(date) + '/'
+                fileName = url.replace('/', '_').replace(':', '_')
 
-            with open(fileLocation + fileName, 'wb') as f:
-                f.write(request.content)
-                print('.',end='')
+                with open(fileLocation + fileName, 'wb') as f:
+                    f.write(request.content)
+                    print('.',end='')
 
-        except Exception as e:
-            print(e)
-            print('Could not download ' + url)
-            return None
-
+            except Exception as e:
+                print(e)
+                print('Could not download ' + url)
+                return None
+    except:
+        pass
 
 def generate_urls(sensors, date):
+    while(len(sensors) > 250):
+        # remover random sensors
+        sensors.pop(np.random.randint(0, len(sensors)))
+
     base_url = 'https://archive.sensor.community/'
     year = date[:4]
     urls = []
@@ -137,6 +143,8 @@ def generate_urls(sensors, date):
                 whole_date + '_' + sensor_name + '_sensor_' + sensor_id + '.csv'
             temp_url = temp_url.lower()
             urls.append(temp_url)
+            temp_url += '.gz'
+            urls.append(temp_url)
 
     return urls
 
@@ -148,11 +156,11 @@ def process_date(city_name, sensors, measurement_type, date):
     data = []
     # create a folder in temp called city name 
     try:
-        os.mkdir('C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(date))
+        os.mkdir('C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(city_name))
     except:
         pass
     try:
-        os.mkdir('C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(date) + '/' + str(city_name))
+        os.mkdir('C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/sensor.community/temp/' + str(city_name) + '/' + str(date))
     except:
         return 
 
