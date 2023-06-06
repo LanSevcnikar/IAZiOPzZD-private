@@ -1,0 +1,2266 @@
+EU27_2020	European Union - 27 countries (from 2020)	4.225.134
+EU28	European Union - 28 countries (2013-2020)	:
+EA19	Euro area - 19 countries  (2015-2022)	2.844.986
+BE	Belgium	30.667
+BE1	Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest	162
+BE10	Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest	162
+BE100	Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad	162
+BE2	Vlaams Gewest	13.599
+BE21	Prov. Antwerpen	2.876
+BE211	Arr. Antwerpen	1.004
+BE212	Arr. Mechelen	512
+BE213	Arr. Turnhout	1.360
+BE22	Prov. Limburg (BE)	2.429
+BE221	Arr. Hasselt (NUTS 2016)	:
+BE222	Arr. Maaseik (NUTS 2016)	:
+BE223	Arr. Tongeren	634
+BE224	Arr. Hasselt	884
+BE225	Arr. Maaseik	911
+BE23	Prov. Oost-Vlaanderen	3.009
+BE231	Arr. Aalst	473
+BE232	Arr. Dendermonde	347
+BE233	Arr. Eeklo	336
+BE234	Arr. Gent	950
+BE235	Arr. Oudenaarde	423
+BE236	Arr. Sint-Niklaas	480
+BE24	Prov. Vlaams-Brabant	2.118
+BE241	Arr. Halle-Vilvoorde	949
+BE242	Arr. Leuven	1.169
+BE25	Prov. West-Vlaanderen	3.167
+BE251	Arr. Brugge	665
+BE252	Arr. Diksmuide	365
+BE253	Arr. Ieper	554
+BE254	Arr. Kortrijk	406
+BE255	Arr. Oostende	293
+BE256	Arr. Roeselare	274
+BE257	Arr. Tielt	332
+BE258	Arr. Veurne	278
+BE3	Région wallonne	16.906
+BE31	Prov. Brabant wallon	1.097
+BE310	Arr. Nivelles	1.097
+BE32	Prov. Hainaut	3.814
+BE321	Arr. Ath (NUTS 2016)	:
+BE322	Arr. Charleroi (NUTS 2016)	:
+BE323	Arr. Mons	589
+BE324	Arr. Mouscron (NUTS 2016)	:
+BE325	Arr. Soignies (NUTS 2016)	:
+BE326	Arr. Thuin (NUTS 2016)	:
+BE327	Arr. Tournai (NUTS 2016)	:
+BE328	Arr. Tournai-Mouscron	715
+BE329	Arr. La Louvière	219
+BE32A	Arr. Ath	672
+BE32B	Arr. Charleroi	476
+BE32C	Arr. Soignies	358
+BE32D	Arr. Thuin	785
+BE33	Prov. Liège	3.858
+BE331	Arr. Huy	661
+BE332	Arr. Liège	796
+BE334	Arr. Waremme	390
+BE335	Arr. Verviers - communes francophones	1.164
+BE336	Bezirk Verviers - Deutschsprachige Gemeinschaft	847
+BE34	Prov. Luxembourg (BE)	4.461
+BE341	Arr. Arlon	319
+BE342	Arr. Bastogne	1.047
+BE343	Arr. Marche-en-Famenne	958
+BE344	Arr. Neufchâteau	1.359
+BE345	Arr. Virton	778
+BE35	Prov. Namur	3.676
+BE351	Arr. Dinant	1.597
+BE352	Arr. Namur	1.168
+BE353	Arr. Philippeville	911
+BG	Bulgaria	110.996
+BG3	Severna i yugoiztochna Bulgaria	68.329
+BG31	Severozapaden	19.068
+BG311	Vidin	3.035
+BG312	Montana	3.629
+BG313	Vratsa	3.620
+BG314	Pleven	4.651
+BG315	Lovech	4.133
+BG32	Severen tsentralen	14.812
+BG321	Veliko Tarnovo	4.661
+BG322	Gabrovo	2.023
+BG323	Ruse	2.868
+BG324	Razgrad	2.414
+BG325	Silistra	2.846
+BG33	Severoiztochen	14.648
+BG331	Varna	3.822
+BG332	Dobrich	4.720
+BG333	Shumen	3.395
+BG334	Targovishte	2.711
+BG34	Yugoiztochen	19.801
+BG341	Burgas	7.751
+BG342	Sliven	3.544
+BG343	Yambol	3.356
+BG344	Stara Zagora	5.150
+BG4	Yugozapadna i yuzhna tsentralna Bulgaria	42.667
+BG41	Yugozapaden	20.301
+BG411	Sofia (stolitsa)	1.342
+BG412	Sofia	7.063
+BG413	Blagoevgrad	6.451
+BG414	Pernik	2.392
+BG415	Kyustendil	3.053
+BG42	Yuzhen tsentralen	22.366
+BG421	Plovdiv	5.961
+BG422	Haskovo	5.532
+BG423	Pazardzhik	4.456
+BG424	Smolyan	3.205
+BG425	Kardzhali	3.212
+CZ	Czechia	78.871
+CZ0	Cesko	78.871
+CZ01	Praha	496
+CZ010	Hlavní mesto Praha	496
+CZ02	Strední Cechy	10.929
+CZ020	Stredoceský kraj	10.929
+CZ03	Jihozápad	17.707
+CZ031	Jihocecký kraj	10.058
+CZ032	Plzenský kraj	7.649
+CZ04	Severozápad	8.649
+CZ041	Karlovarský kraj	3.310
+CZ042	Ústecký kraj	5.339
+CZ05	Severovýchod	12.441
+CZ051	Liberecký kraj	3.163
+CZ052	Královéhradecký kraj	4.759
+CZ053	Pardubický kraj	4.519
+CZ06	Jihovýchod	13.984
+CZ063	Kraj Vysocina	6.796
+CZ064	Jihomoravský kraj	7.188
+CZ07	Strední Morava	9.235
+CZ071	Olomoucký kraj	5.273
+CZ072	Zlínský kraj	3.962
+CZ08	Moravskoslezsko	5.430
+CZ080	Moravskoslezský kraj	5.430
+DK	Denmark	42.925
+DK0	Danmark	42.925
+DK01	Hovedstaden	2.559
+DK011	Byen København	180
+DK012	Københavns omegn	342
+DK013	Nordsjælland	1.449
+DK014	Bornholm	588
+DK02	Sjælland	7.224
+DK021	Østsjælland	808
+DK022	Vest- og Sydsjælland	6.416
+DK03	Syddanmark	12.256
+DK031	Fyn	3.479
+DK032	Sydjylland	8.777
+DK04	Midtjylland	13.007
+DK041	Vestjylland	7.165
+DK042	Østjylland	5.842
+DK05	Nordjylland	7.879
+DK050	Nordjylland	7.879
+DE	Germany (until 1990 former territory of the FRG)	357.569
+DE1	Baden-Württemberg	35.745
+DE11	Stuttgart	10.556
+DE111	Stuttgart, Stadtkreis	207
+DE112	Böblingen	618
+DE113	Esslingen	641
+DE114	Göppingen	642
+DE115	Ludwigsburg	687
+DE116	Rems-Murr-Kreis	858
+DE117	Heilbronn, Stadtkreis	100
+DE118	Heilbronn, Landkreis	1.100
+DE119	Hohenlohekreis	777
+DE11A	Schwäbisch Hall	1.484
+DE11B	Main-Tauber-Kreis	1.304
+DE11C	Heidenheim	627
+DE11D	Ostalbkreis	1.511
+DE12	Karlsruhe	6.917
+DE121	Baden-Baden, Stadtkreis	140
+DE122	Karlsruhe, Stadtkreis	173
+DE123	Karlsruhe, Landkreis	1.085
+DE124	Rastatt	738
+DE125	Heidelberg, Stadtkreis	109
+DE126	Mannheim, Stadtkreis	145
+DE127	Neckar-Odenwald-Kreis	1.126
+DE128	Rhein-Neckar-Kreis	1.062
+DE129	Pforzheim, Stadtkreis	98
+DE12A	Calw	797
+DE12B	Enzkreis	574
+DE12C	Freudenstadt	870
+DE13	Freiburg	9.355
+DE131	Freiburg im Breisgau, Stadtkreis	153
+DE132	Breisgau-Hochschwarzwald	1.378
+DE133	Emmendingen	680
+DE134	Ortenaukreis	1.860
+DE135	Rottweil	769
+DE136	Schwarzwald-Baar-Kreis	1.025
+DE137	Tuttlingen	734
+DE138	Konstanz	818
+DE139	Lörrach	807
+DE13A	Waldshut	1.131
+DE14	Tübingen	8.917
+DE141	Reutlingen	1.092
+DE142	Tübingen, Landkreis	519
+DE143	Zollernalbkreis	918
+DE144	Ulm, Stadtkreis	119
+DE145	Alb-Donau-Kreis	1.359
+DE146	Biberach	1.409
+DE147	Bodenseekreis	665
+DE148	Ravensburg	1.632
+DE149	Sigmaringen	1.204
+DE2	Bayern	70.543
+DE21	Oberbayern	17.528
+DE211	Ingolstadt, Kreisfreie Stadt	133
+DE212	München, Kreisfreie Stadt	311
+DE213	Rosenheim, Kreisfreie Stadt	37
+DE214	Altötting	569
+DE215	Berchtesgadener Land	840
+DE216	Bad Tölz-Wolfratshausen	1.111
+DE217	Dachau	579
+DE218	Ebersberg	549
+DE219	Eichstätt	1.214
+DE21A	Erding	871
+DE21B	Freising	800
+DE21C	Fürstenfeldbruck	435
+DE21D	Garmisch-Partenkirchen	1.012
+DE21E	Landsberg am Lech	804
+DE21F	Miesbach	866
+DE21G	Mühldorf am Inn	805
+DE21H	München, Landkreis	664
+DE21I	Neuburg-Schrobenhausen	740
+DE21J	Pfaffenhofen an der Ilm	761
+DE21K	Rosenheim, Landkreis	1.439
+DE21L	Starnberg	488
+DE21M	Traunstein	1.534
+DE21N	Weilheim-Schongau	966
+DE22	Niederbayern	10.328
+DE221	Landshut, Kreisfreie Stadt	66
+DE222	Passau, Kreisfreie Stadt	70
+DE223	Straubing, Kreisfreie Stadt	68
+DE224	Deggendorf	861
+DE225	Freyung-Grafenau	984
+DE226	Kelheim	1.065
+DE227	Landshut, Landkreis	1.348
+DE228	Passau, Landkreis	1.530
+DE229	Regen	975
+DE22A	Rottal-Inn	1.281
+DE22B	Straubing-Bogen	1.202
+DE22C	Dingolfing-Landau	878
+DE23	Oberpfalz	9.691
+DE231	Amberg, Kreisfreie Stadt	50
+DE232	Regensburg, Kreisfreie Stadt	81
+DE233	Weiden in der Oberpfalz, Kreisfreie Stadt	71
+DE234	Amberg-Sulzbach	1.256
+DE235	Cham	1.520
+DE236	Neumarkt in der Oberpfalz	1.344
+DE237	Neustadt an der Waldnaab	1.428
+DE238	Regensburg, Landkreis	1.392
+DE239	Schwandorf	1.465
+DE23A	Tirschenreuth	1.084
+DE24	Oberfranken	7.232
+DE241	Bamberg, Kreisfreie Stadt	55
+DE242	Bayreuth, Kreisfreie Stadt	67
+DE243	Coburg, Kreisfreie Stadt	48
+DE244	Hof, Kreisfreie Stadt	58
+DE245	Bamberg, Landkreis	1.168
+DE246	Bayreuth, Landkreis	1.274
+DE247	Coburg, Landkreis	590
+DE248	Forchheim	643
+DE249	Hof, Landkreis	893
+DE24A	Kronach	652
+DE24B	Kulmbach	658
+DE24C	Lichtenfels	520
+DE24D	Wunsiedel im Fichtelgebirge	606
+DE25	Mittelfranken	7.243
+DE251	Ansbach, Kreisfreie Stadt	100
+DE252	Erlangen, Kreisfreie Stadt	77
+DE253	Fürth, Kreisfreie Stadt	63
+DE254	Nürnberg, Kreisfreie Stadt	186
+DE255	Schwabach, Kreisfreie Stadt	41
+DE256	Ansbach, Landkreis	1.971
+DE257	Erlangen-Höchstadt	565
+DE258	Fürth, Landkreis	307
+DE259	Nürnberger Land	800
+DE25A	Neustadt an der Aisch-Bad Windsheim	1.267
+DE25B	Roth	895
+DE25C	Weißenburg-Gunzenhausen	971
+DE26	Unterfranken	8.530
+DE261	Aschaffenburg, Kreisfreie Stadt	62
+DE262	Schweinfurt, Kreisfreie Stadt	36
+DE263	Würzburg, Kreisfreie Stadt	88
+DE264	Aschaffenburg, Landkreis	699
+DE265	Bad Kissingen	1.137
+DE266	Rhön-Grabfeld	1.022
+DE267	Haßberge	956
+DE268	Kitzingen	684
+DE269	Miltenberg	716
+DE26A	Main-Spessart	1.321
+DE26B	Schweinfurt, Landkreis	841
+DE26C	Würzburg, Landkreis	968
+DE27	Schwaben	9.991
+DE271	Augsburg, Kreisfreie Stadt	147
+DE272	Kaufbeuren, Kreisfreie Stadt	40
+DE273	Kempten (Allgäu), Kreisfreie Stadt	63
+DE274	Memmingen, Kreisfreie Stadt	70
+DE275	Aichach-Friedberg	780
+DE276	Augsburg, Landkreis	1.071
+DE277	Dillingen an der Donau	792
+DE278	Günzburg	762
+DE279	Neu-Ulm	516
+DE27A	Lindau (Bodensee)	323
+DE27B	Ostallgäu	1.394
+DE27C	Unterallgäu	1.230
+DE27D	Donau-Ries	1.275
+DE27E	Oberallgäu	1.528
+DE3	Berlin	891
+DE30	Berlin	891
+DE300	Berlin	891
+DE4	Brandenburg	29.656
+DE40	Brandenburg	29.656
+DE401	Brandenburg an der Havel, Kreisfreie Stadt	230
+DE402	Cottbus, Kreisfreie Stadt	166
+DE403	Frankfurt (Oder), Kreisfreie Stadt	148
+DE404	Potsdam, Kreisfreie Stadt	188
+DE405	Barnim	1.480
+DE406	Dahme-Spreewald	2.274
+DE407	Elbe-Elster	1.900
+DE408	Havelland	1.727
+DE409	Märkisch-Oderland	2.159
+DE40A	Oberhavel	1.808
+DE40B	Oberspreewald-Lausitz	1.223
+DE40C	Oder-Spree	2.257
+DE40D	Ostprignitz-Ruppin	2.527
+DE40E	Potsdam-Mittelmark	2.592
+DE40F	Prignitz	2.139
+DE40G	Spree-Neiße	1.657
+DE40H	Teltow-Fläming	2.104
+DE40I	Uckermark	3.077
+DE5	Bremen	420
+DE50	Bremen	420
+DE501	Bremen, Kreisfreie Stadt	326
+DE502	Bremerhaven, Kreisfreie Stadt	94
+DE6	Hamburg	755
+DE60	Hamburg	755
+DE600	Hamburg	755
+DE7	Hessen	21.115
+DE71	Darmstadt	7.445
+DE711	Darmstadt, Kreisfreie Stadt	122
+DE712	Frankfurt am Main, Kreisfreie Stadt	248
+DE713	Offenbach am Main, Kreisfreie Stadt	45
+DE714	Wiesbaden, Kreisfreie Stadt	204
+DE715	Bergstraße	720
+DE716	Darmstadt-Dieburg	659
+DE717	Groß-Gerau	453
+DE718	Hochtaunuskreis	482
+DE719	Main-Kinzig-Kreis	1.398
+DE71A	Main-Taunus-Kreis	222
+DE71B	Odenwaldkreis	624
+DE71C	Offenbach, Landkreis	356
+DE71D	Rheingau-Taunus-Kreis	811
+DE71E	Wetteraukreis	1.101
+DE72	Gießen	5.382
+DE721	Gießen, Landkreis	855
+DE722	Lahn-Dill-Kreis	1.067
+DE723	Limburg-Weilburg	738
+DE724	Marburg-Biedenkopf	1.263
+DE725	Vogelsbergkreis	1.459
+DE73	Kassel	8.288
+DE731	Kassel, Kreisfreie Stadt	107
+DE732	Fulda	1.380
+DE733	Hersfeld-Rotenburg	1.097
+DE734	Kassel, Landkreis	1.293
+DE735	Schwalm-Eder-Kreis	1.538
+DE736	Waldeck-Frankenberg	1.848
+DE737	Werra-Meißner-Kreis	1.025
+DE8	Mecklenburg-Vorpommern	23.293
+DE80	Mecklenburg-Vorpommern	23.293
+DE803	Rostock, Kreisfreie Stadt	181
+DE804	Schwerin, Kreisfreie Stadt	131
+DE80J	Mecklenburgische Seenplatte	5.496
+DE80K	Landkreis Rostock	3.431
+DE80L	Vorpommern-Rügen	3.214
+DE80M	Nordwestmecklenburg	2.127
+DE80N	Vorpommern-Greifswald	3.946
+DE80O	Ludwigslust-Parchim	4.767
+DE9	Niedersachsen	47.710
+DE91	Braunschweig	8.116
+DE911	Braunschweig, Kreisfreie Stadt	193
+DE912	Salzgitter, Kreisfreie Stadt	224
+DE913	Wolfsburg, Kreisfreie Stadt	205
+DE914	Gifhorn	1.568
+DE915	Göttingen (NUTS 2013)	:
+DE916	Goslar	967
+DE917	Helmstedt	676
+DE918	Northeim	1.269
+DE919	Osterode am Harz (NUTS 2013)	:
+DE91A	Peine	537
+DE91B	Wolfenbüttel	724
+DE91C	Göttingen	1.753
+DE92	Hannover	9.065
+DE922	Diepholz	1.991
+DE923	Hameln-Pyrmont	798
+DE925	Hildesheim	1.208
+DE926	Holzminden	694
+DE927	Nienburg (Weser)	1.401
+DE928	Schaumburg	676
+DE929	Region Hannover	2.297
+DE93	Lüneburg	15.542
+DE931	Celle	1.551
+DE932	Cuxhaven	2.059
+DE933	Harburg	1.249
+DE934	Lüchow-Dannenberg	1.227
+DE935	Lüneburg, Landkreis	1.328
+DE936	Osterholz	653
+DE937	Rotenburg (Wümme)	2.075
+DE938	Heidekreis	1.881
+DE939	Stade	1.267
+DE93A	Uelzen	1.463
+DE93B	Verden	789
+DE94	Weser-Ems	14.987
+DE941	Delmenhorst, Kreisfreie Stadt	62
+DE942	Emden, Kreisfreie Stadt	112
+DE943	Oldenburg (Oldenburg), Kreisfreie Stadt	103
+DE944	Osnabrück, Kreisfreie Stadt	120
+DE945	Wilhelmshaven, Kreisfreie Stadt	107
+DE946	Ammerland	731
+DE947	Aurich	1.287
+DE948	Cloppenburg	1.420
+DE949	Emsland	2.884
+DE94A	Friesland (DE)	610
+DE94B	Grafschaft Bentheim	982
+DE94C	Leer	1.086
+DE94D	Oldenburg, Landkreis	1.065
+DE94E	Osnabrück, Landkreis	2.122
+DE94F	Vechta	814
+DE94G	Wesermarsch	825
+DE94H	Wittmund	657
+DEA	Nordrhein-Westfalen	34.110
+DEA1	Düsseldorf	5.291
+DEA11	Düsseldorf, Kreisfreie Stadt	217
+DEA12	Duisburg, Kreisfreie Stadt	233
+DEA13	Essen, Kreisfreie Stadt	210
+DEA14	Krefeld, Kreisfreie Stadt	138
+DEA15	Mönchengladbach, Kreisfreie Stadt	170
+DEA16	Mülheim an der Ruhr, Kreisfreie Stadt	91
+DEA17	Oberhausen, Kreisfreie Stadt	77
+DEA18	Remscheid, Kreisfreie Stadt	75
+DEA19	Solingen, Kreisfreie Stadt	90
+DEA1A	Wuppertal, Kreisfreie Stadt	168
+DEA1B	Kleve	1.233
+DEA1C	Mettmann	407
+DEA1D	Rhein-Kreis Neuss	576
+DEA1E	Viersen	563
+DEA1F	Wesel	1.043
+DEA2	Köln	7.365
+DEA22	Bonn, Kreisfreie Stadt	141
+DEA23	Köln, Kreisfreie Stadt	405
+DEA24	Leverkusen, Kreisfreie Stadt	79
+DEA26	Düren	942
+DEA27	Rhein-Erft-Kreis	705
+DEA28	Euskirchen	1.249
+DEA29	Heinsberg	628
+DEA2A	Oberbergischer Kreis	919
+DEA2B	Rheinisch-Bergischer Kreis	437
+DEA2C	Rhein-Sieg-Kreis	1.153
+DEA2D	Städteregion Aachen	707
+DEA3	Münster	6.918
+DEA31	Bottrop, Kreisfreie Stadt	101
+DEA32	Gelsenkirchen, Kreisfreie Stadt	105
+DEA33	Münster, Kreisfreie Stadt	303
+DEA34	Borken	1.421
+DEA35	Coesfeld	1.112
+DEA36	Recklinghausen	761
+DEA37	Steinfurt	1.796
+DEA38	Warendorf	1.319
+DEA4	Detmold	6.524
+DEA41	Bielefeld, Kreisfreie Stadt	259
+DEA42	Gütersloh	969
+DEA43	Herford	450
+DEA44	Höxter	1.201
+DEA45	Lippe	1.246
+DEA46	Minden-Lübbecke	1.152
+DEA47	Paderborn	1.247
+DEA5	Arnsberg	8.012
+DEA51	Bochum, Kreisfreie Stadt	146
+DEA52	Dortmund, Kreisfreie Stadt	281
+DEA53	Hagen, Kreisfreie Stadt	160
+DEA54	Hamm, Kreisfreie Stadt	226
+DEA55	Herne, Kreisfreie Stadt	51
+DEA56	Ennepe-Ruhr-Kreis	410
+DEA57	Hochsauerlandkreis	1.960
+DEA58	Märkischer Kreis	1.061
+DEA59	Olpe	712
+DEA5A	Siegen-Wittgenstein	1.133
+DEA5B	Soest	1.329
+DEA5C	Unna	543
+DEB	Rheinland-Pfalz	19.853
+DEB1	Koblenz	8.075
+DEB11	Koblenz, Kreisfreie Stadt	105
+DEB12	Ahrweiler	787
+DEB13	Altenkirchen (Westerwald)	642
+DEB14	Bad Kreuznach	864
+DEB15	Birkenfeld	777
+DEB16	Cochem-Zell (NUTS 2013)	:
+DEB17	Mayen-Koblenz	818
+DEB18	Neuwied	627
+DEB19	Rhein-Hunsrück-Kreis (NUTS 2013)	:
+DEB1A	Rhein-Lahn-Kreis	782
+DEB1B	Westerwaldkreis	989
+DEB1C	Cochem-Zell	720
+DEB1D	Rhein-Hunsrück-Kreis	964
+DEB2	Trier	4.926
+DEB21	Trier, Kreisfreie Stadt	117
+DEB22	Bernkastel-Wittlich	1.168
+DEB23	Eifelkreis Bitburg-Prüm	1.627
+DEB24	Vulkaneifel	912
+DEB25	Trier-Saarburg	1.102
+DEB3	Rheinhessen-Pfalz	6.852
+DEB31	Frankenthal (Pfalz), Kreisfreie Stadt	44
+DEB32	Kaiserslautern, Kreisfreie Stadt	140
+DEB33	Landau in der Pfalz, Kreisfreie Stadt	83
+DEB34	Ludwigshafen am Rhein, Kreisfreie Stadt	77
+DEB35	Mainz, Kreisfreie Stadt	98
+DEB36	Neustadt an der Weinstraße, Kreisfreie Stadt	117
+DEB37	Pirmasens, Kreisfreie Stadt	61
+DEB38	Speyer, Kreisfreie Stadt	43
+DEB39	Worms, Kreisfreie Stadt	109
+DEB3A	Zweibrücken, Kreisfreie Stadt	71
+DEB3B	Alzey-Worms	588
+DEB3C	Bad Dürkheim	595
+DEB3D	Donnersbergkreis	645
+DEB3E	Germersheim	463
+DEB3F	Kaiserslautern, Landkreis	640
+DEB3G	Kusel	574
+DEB3H	Südliche Weinstraße	640
+DEB3I	Rhein-Pfalz-Kreis	305
+DEB3J	Mainz-Bingen	605
+DEB3K	Südwestpfalz	954
+DEC	Saarland	2.571
+DEC0	Saarland	2.571
+DEC01	Regionalverband Saarbrücken	411
+DEC02	Merzig-Wadern	557
+DEC03	Neunkirchen	250
+DEC04	Saarlouis	459
+DEC05	Saarpfalz-Kreis	418
+DEC06	St. Wendel	476
+DED	Sachsen	18.450
+DED2	Dresden	7.944
+DED21	Dresden, Kreisfreie Stadt	328
+DED2C	Bautzen	2.396
+DED2D	Görlitz	2.111
+DED2E	Meißen	1.455
+DED2F	Sächsische Schweiz-Osterzgebirge	1.654
+DED4	Chemnitz	6.528
+DED41	Chemnitz, Kreisfreie Stadt	221
+DED42	Erzgebirgskreis	1.828
+DED43	Mittelsachsen	2.117
+DED44	Vogtlandkreis	1.412
+DED45	Zwickau	950
+DED5	Leipzig	3.978
+DED51	Leipzig, Kreisfreie Stadt	298
+DED52	Leipzig	1.651
+DED53	Nordsachsen	2.029
+DEE	Sachsen-Anhalt	20.454
+DEE0	Sachsen-Anhalt	20.454
+DEE01	Dessau-Roßlau, Kreisfreie Stadt	245
+DEE02	Halle (Saale), Kreisfreie Stadt	135
+DEE03	Magdeburg, Kreisfreie Stadt	201
+DEE04	Altmarkkreis Salzwedel	2.293
+DEE05	Anhalt-Bitterfeld	1.454
+DEE06	Jerichower Land	1.577
+DEE07	Börde	2.367
+DEE08	Burgenlandkreis (DE)	1.414
+DEE09	Harz	2.105
+DEE0A	Mansfeld-Südharz	1.449
+DEE0B	Saalekreis	1.434
+DEE0C	Salzlandkreis	1.427
+DEE0D	Stendal	2.423
+DEE0E	Wittenberg	1.930
+DEF	Schleswig-Holstein	15.802
+DEF0	Schleswig-Holstein	15.802
+DEF01	Flensburg, Kreisfreie Stadt	57
+DEF02	Kiel, Kreisfreie Stadt	119
+DEF03	Lübeck, Kreisfreie Stadt	214
+DEF04	Neumünster, Kreisfreie Stadt	72
+DEF05	Dithmarschen	1.428
+DEF06	Herzogtum Lauenburg	1.263
+DEF07	Nordfriesland	2.083
+DEF08	Ostholstein	1.393
+DEF09	Pinneberg	664
+DEF0A	Plön	1.083
+DEF0B	Rendsburg-Eckernförde	2.189
+DEF0C	Schleswig-Flensburg	2.071
+DEF0D	Segeberg	1.344
+DEF0E	Steinburg	1.056
+DEF0F	Stormarn	766
+DEG	Thüringen	16.201
+DEG0	Thüringen	16.201
+DEG01	Erfurt, Kreisfreie Stadt	270
+DEG02	Gera, Kreisfreie Stadt	152
+DEG03	Jena, Kreisfreie Stadt	115
+DEG04	Suhl, Kreisfreie Stadt	103
+DEG05	Weimar, Kreisfreie Stadt	84
+DEG06	Eichsfeld	943
+DEG07	Nordhausen	714
+DEG09	Unstrut-Hainich-Kreis	980
+DEG0A	Kyffhäuserkreis	1.038
+DEG0B	Schmalkalden-Meiningen	1.211
+DEG0C	Gotha	936
+DEG0D	Sömmerda	807
+DEG0E	Hildburghausen	938
+DEG0F	Ilm-Kreis	844
+DEG0G	Weimarer Land	804
+DEG0H	Sonneberg	434
+DEG0I	Saalfeld-Rudolstadt	1.036
+DEG0J	Saale-Holzland-Kreis	815
+DEG0K	Saale-Orla-Kreis	1.151
+DEG0L	Greiz	846
+DEG0M	Altenburger Land	569
+DEG0N	Eisenach, Kreisfreie Stadt	104
+DEG0P	Wartburgkreis	1.307
+EE	Estonia	45.336
+EE0	Eesti	45.336
+EE00	Eesti	45.336
+EE001	Põhja-Eesti	4.327
+EE004	Lääne-Eesti	11.204
+EE006	Kesk-Eesti (NUTS 2016)	:
+EE007	Kirde-Eesti (NUTS 2016)	:
+EE008	Lõuna-Eesti	17.216
+EE009	Kesk-Eesti	9.135
+EE00A	Kirde-Eesti	3.454
+IE	Ireland	69.947
+IE0	Éire/Ireland	69.947
+IE04	Northern and Western	25.796
+IE041	Border	11.513
+IE042	West	14.283
+IE05	Southern	29.685
+IE051	Mid-West	10.236
+IE052	South-East (IE)	7.196
+IE053	South-West (IE)	12.253
+IE06	Eastern and Midland	14.466
+IE061	Dublin	926
+IE062	Mid-East	6.889
+IE063	Midland	6.651
+IE01	Border, Midland and Western (NUTS 2013)	:
+IE011	Border (NUTS 2013)	:
+IE012	Midland (NUTS 2013)	:
+IE013	West (NUTS 2013)	:
+IE02	Southern and Eastern (NUTS 2013)	:
+IE021	Dublin (NUTS 2013)	:
+IE022	Mid-East (NUTS 2013)	:
+IE023	Mid-West (NUTS 2013)	:
+IE024	South-East (NUTS 2013)	:
+IE025	South-West (NUTS 2013)	:
+EL	Greece	131.694
+EL3	Attiki	3.817
+EL30	Attiki	3.817
+EL301	Voreios Tomeas Athinon	134
+EL302	Dytikos Tomeas Athinon	68
+EL303	Kentrikos Tomeas Athinon	88
+EL304	Notios Tomeas Athinon	71
+EL305	Anatoliki Attiki	1.515
+EL306	Dytiki Attiki	1.005
+EL307	Peiraias, Nisoi	936
+EL4	Nisia Aigaiou, Kriti	17.505
+EL41	Voreio Aigaio	3.848
+EL411	Lesvos, Limnos	2.161
+EL412	Ikaria, Samos	780
+EL413	Chios	907
+EL42	Notio Aigaio	5.311
+EL421	Kalymnos, Karpathos, Kasos, Kos, Rodos	2.712
+EL422	Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros, Syros, Tinos	2.599
+EL43	Kriti	8.346
+EL431	Irakleio	2.642
+EL432	Lasithi	1.828
+EL433	Rethymni	1.497
+EL434	Chania	2.379
+EL5	Voreia Ellada	51.638
+EL51	Anatoliki Makedonia, Thraki	14.186
+EL511	Evros	4.247
+EL512	Xanthi	1.799
+EL513	Rodopi	2.550
+EL514	Drama	3.468
+EL515	Thasos, Kavala	2.122
+EL52	Kentriki Makedonia	18.838
+EL521	Imathia	1.704
+EL522	Thessaloniki	3.683
+EL523	Kilkis	2.524
+EL524	Pella	2.507
+EL525	Pieria	1.524
+EL526	Serres	3.972
+EL527	Chalkidiki	2.924
+EL53	Dytiki Makedonia	9.462
+EL531	Grevena, Kozani	5.812
+EL532	Kastoria	1.724
+EL533	Florina	1.926
+EL54	Ipeiros	9.152
+EL541	Arta, Preveza	2.644
+EL542	Thesprotia	1.516
+EL543	Ioannina	4.992
+EL6	Kentriki Ellada	58.734
+EL61	Thessalia	14.050
+EL611	Karditsa, Trikala	6.023
+EL612	Larisa	5.387
+EL613	Magnisia	2.640
+EL62	Ionia Nisia	2.301
+EL621	Zakynthos	407
+EL622	Kerkyra	637
+EL623	Ithaki, Kefallinia	903
+EL624	Lefkada	354
+EL63	Dytiki Ellada	11.314
+EL631	Aitoloakarnania	5.419
+EL632	Achaia	3.273
+EL633	Ileia	2.622
+EL64	Sterea Ellada	15.560
+EL641	Voiotia	2.955
+EL642	Evvoia	4.167
+EL643	Evrytania	1.870
+EL644	Fthiotida	4.442
+EL645	Fokida	2.126
+EL65	Peloponnisos	15.509
+EL651	Argolida, Arkadia	6.576
+EL652	Korinthia	2.295
+EL653	Lakonia, Messinia	6.638
+ES	Spain	505.983
+ES1	Noroeste (ES)	45.498
+ES11	Galicia	29.571
+ES111	A Coruña	7.949
+ES112	Lugo	9.855
+ES113	Ourense	7.273
+ES114	Pontevedra	4.494
+ES12	Principado de Asturias	10.601
+ES120	Asturias	10.601
+ES13	Cantabria	5.326
+ES130	Cantabria	5.326
+ES2	Noreste (ES)	70.387
+ES21	País Vasco	7.229
+ES211	Araba/Álava	3.037
+ES212	Gipuzkoa	1.980
+ES213	Bizkaia	2.212
+ES22	Comunidad Foral de Navarra	10.391
+ES220	Navarra	10.391
+ES23	La Rioja	5.045
+ES230	La Rioja	5.045
+ES24	Aragón	47.722
+ES241	Huesca	15.637
+ES242	Teruel	14.810
+ES243	Zaragoza	17.275
+ES3	Comunidad de Madrid	8.031
+ES30	Comunidad de Madrid	8.031
+ES300	Madrid	8.031
+ES4	Centro (ES)	215.317
+ES41	Castilla y León	94.225
+ES411	Ávila	8.050
+ES412	Burgos	14.291
+ES413	León	15.581
+ES414	Palencia	8.052
+ES415	Salamanca	12.350
+ES416	Segovia	6.924
+ES417	Soria	10.306
+ES418	Valladolid	8.110
+ES419	Zamora	10.561
+ES42	Castilla-la Mancha	79.458
+ES421	Albacete	14.927
+ES422	Ciudad Real	19.814
+ES423	Cuenca	17.140
+ES424	Guadalajara	12.210
+ES425	Toledo	15.367
+ES43	Extremadura	41.634
+ES431	Badajoz	21.766
+ES432	Cáceres	19.868
+ES5	Este (ES)	60.355
+ES51	Cataluña	32.110
+ES511	Barcelona	7.729
+ES512	Girona	5.909
+ES513	Lleida	12.169
+ES514	Tarragona	6.303
+ES52	Comunitat Valenciana	23.255
+ES521	Alicante/Alacant	5.817
+ES522	Castellón/Castelló	6.632
+ES523	Valencia/València	10.806
+ES53	Illes Balears	4.990
+ES531	Eivissa, Formentera	655
+ES532	Mallorca	3.640
+ES533	Menorca	695
+ES6	Sur (ES)	98.948
+ES61	Andalucía	87.600
+ES611	Almería	8.775
+ES612	Cádiz	7.436
+ES613	Córdoba	13.772
+ES614	Granada	12.648
+ES615	Huelva	10.128
+ES616	Jaén	13.496
+ES617	Málaga	7.309
+ES618	Sevilla	14.036
+ES62	Región de Murcia	11.314
+ES620	Murcia	11.314
+ES63	Ciudad de Ceuta	20
+ES630	Ceuta	20
+ES64	Ciudad de Melilla	14
+ES640	Melilla	14
+ES7	Canarias	7.447
+ES70	Canarias	7.447
+ES703	El Hierro	269
+ES704	Fuerteventura	1.660
+ES705	Gran Canaria	1.560
+ES706	La Gomera	370
+ES707	La Palma	708
+ES708	Lanzarote	846
+ES709	Tenerife	2.034
+FR	France	638.475
+FR1	Île de France	12.070
+FR10	Île de France	12.070
+FR101	Paris	105
+FR102	Seine-et-Marne	5.927
+FR103	Yvelines	2.307
+FR104	Essonne	1.820
+FR105	Hauts-de-Seine	176
+FR106	Seine-Saint-Denis	237
+FR107	Val-de-Marne	245
+FR108	Val-d'Oise	1.253
+FRB	Centre - Val de Loire	39.529
+FRB0	Centre - Val de Loire	39.529
+FRB01	Cher	7.306
+FRB02	Eure-et-Loir	5.932
+FRB03	Indre	6.899
+FRB04	Indre-et-Loire	6.157
+FRB05	Loir-et-Cher	6.422
+FRB06	Loiret	6.813
+FRC	Bourgogne - Franche-Comté	48.062
+FRC1	Bourgogne	31.754
+FRC11	Côte-d'Or	8.802
+FRC12	Nièvre	6.875
+FRC13	Saône-et-Loire	8.615
+FRC14	Yonne	7.462
+FRC2	Franche-Comté	16.308
+FRC21	Doubs	5.256
+FRC22	Jura	5.050
+FRC23	Haute-Saône	5.391
+FRC24	Territoire de Belfort	611
+FRD	Normandie	30.113
+FRD1	Basse-Normandie	17.758
+FRD11	Calvados	5.605
+FRD12	Manche	6.007
+FRD13	Orne	6.146
+FRD2	Haute-Normandie	12.355
+FRD21	Eure	6.034
+FRD22	Seine-Maritime	6.321
+FRE	Hauts-de-France	31.949
+FRE1	Nord-Pas-de-Calais	12.444
+FRE11	Nord	5.750
+FRE12	Pas-de-Calais	6.694
+FRE2	Picardie	19.505
+FRE21	Aisne	7.419
+FRE22	Oise	5.890
+FRE23	Somme	6.196
+FRF	Grand Est	57.718
+FRF1	Alsace	8.329
+FRF11	Bas-Rhin	4.797
+FRF12	Haut-Rhin	3.532
+FRF2	Champagne-Ardenne	25.720
+FRF21	Ardennes	5.245
+FRF22	Aube	6.028
+FRF23	Marne	8.190
+FRF24	Haute-Marne	6.257
+FRF3	Lorraine	23.669
+FRF31	Meurthe-et-Moselle	5.285
+FRF32	Meuse	6.235
+FRF33	Moselle	6.252
+FRF34	Vosges	5.897
+FRG	Pays-de-la-Loire	32.376
+FRG0	Pays-de-la-Loire	32.376
+FRG01	Loire-Atlantique	6.912
+FRG02	Maine-et-Loire	7.232
+FRG03	Mayenne	5.213
+FRG04	Sarthe	6.246
+FRG05	Vendée	6.773
+FRH	Bretagne	27.471
+FRH0	Bretagne	27.471
+FRH01	Côtes-d'Armor	6.988
+FRH02	Finistère	6.765
+FRH03	Ille-et-Vilaine	6.839
+FRH04	Morbihan	6.879
+FRI	Nouvelle-Aquitaine	84.827
+FRI1	Aquitaine	41.804
+FRI11	Dordogne	9.222
+FRI12	Gironde	10.160
+FRI13	Landes	9.352
+FRI14	Lot-et-Garonne	5.385
+FRI15	Pyrénées-Atlantiques	7.685
+FRI2	Limousin	17.056
+FRI21	Corrèze	5.899
+FRI22	Creuse	5.600
+FRI23	Haute-Vienne	5.557
+FRI3	Poitou-Charentes	25.967
+FRI31	Charente	5.974
+FRI32	Charente-Maritime	6.914
+FRI33	Deux-Sèvres	6.040
+FRI34	Vienne	7.039
+FRJ	Occitanie	73.246
+FRJ1	Languedoc-Roussillon	27.643
+FRJ11	Aude	6.323
+FRJ12	Gard	5.875
+FRJ13	Hérault	6.162
+FRJ14	Lozère	5.176
+FRJ15	Pyrénées-Orientales	4.107
+FRJ2	Midi-Pyrénées	45.603
+FRJ21	Ariège	4.911
+FRJ22	Aveyron	8.773
+FRJ23	Haute-Garonne	6.358
+FRJ24	Gers	6.301
+FRJ25	Lot	5.226
+FRJ26	Hautes-Pyrénées	4.521
+FRJ27	Tarn	5.782
+FRJ28	Tarn-et-Garonne	3.731
+FRK	Auvergne - Rhône-Alpes	71.134
+FRK1	Auvergne	26.172
+FRK11	Allier	7.379
+FRK12	Cantal	5.774
+FRK13	Haute-Loire	5.004
+FRK14	Puy-de-Dôme	8.015
+FRK2	Rhône-Alpes	44.962
+FRK21	Ain	5.785
+FRK22	Ardèche	5.566
+FRK23	Drôme	6.559
+FRK24	Isère	7.879
+FRK25	Loire	4.804
+FRK26	Rhône	3.259
+FRK27	Savoie	6.270
+FRK28	Haute-Savoie	4.840
+FRL	Provence-Alpes-Côte d'Azur	31.839
+FRL0	Provence-Alpes-Côte d'Azur	31.839
+FRL01	Alpes-de-Haute-Provence	6.995
+FRL02	Hautes-Alpes	5.691
+FRL03	Alpes-Maritimes	4.296
+FRL04	Bouches-du-Rhône	5.247
+FRL05	Var	6.032
+FRL06	Vaucluse	3.578
+FRM	Corse	8.726
+FRM0	Corse	8.726
+FRM01	Corse-du-Sud	4.019
+FRM02	Haute-Corse	4.707
+FRY	RUP FR - Régions ultrapériphériques françaises	89.415
+FRY1	Guadeloupe	1.685
+FRY10	Guadeloupe	1.685
+FRY2	Martinique	1.108
+FRY20	Martinique	1.108
+FRY3	Guyane	83.751
+FRY30	Guyane	83.751
+FRY4	La Réunion	2.504
+FRY40	La Réunion	2.504
+FRY5	Mayotte	367
+FRY50	Mayotte	367
+FR2	Bassin Parisien (NUTS 2013)	:
+FR21	Champagne-Ardenne (NUTS 2013)	:
+FR211	Ardennes (NUTS 2013)	:
+FR212	Aube (NUTS 2013)	:
+FR213	Marne (NUTS 2013)	:
+FR214	Haute-Marne (NUTS 2013)	:
+FR22	Picardie (NUTS 2013)	:
+FR221	Aisne (NUTS 2013)	:
+FR222	Oise (NUTS 2013)	:
+FR223	Somme (NUTS 2013)	:
+FR23	Haute-Normandie (NUTS 2013)	:
+FR231	Eure (NUTS 2013)	:
+FR232	Seine-Maritime (NUTS 2013)	:
+FR24	Centre (FR) (NUTS 2013)	:
+FR241	Cher (NUTS 2013)	:
+FR242	Eure-et-Loir (NUTS 2013)	:
+FR243	Indre (NUTS 2013)	:
+FR244	Indre-et-Loire (NUTS 2013)	:
+FR245	Loir-et-Cher (NUTS 2013)	:
+FR246	Loiret (NUTS 2013)	:
+FR25	Basse-Normandie (NUTS 2013)	:
+FR251	Calvados (NUTS 2013)	:
+FR252	Manche (NUTS 2013)	:
+FR253	Orne (NUTS 2013)	:
+FR26	Bourgogne (NUTS 2013)	:
+FR261	Côte-d'Or (NUTS 2013)	:
+FR262	Nièvre (NUTS 2013)	:
+FR263	Saône-et-Loire (NUTS 2013)	:
+FR264	Yonne (NUTS 2013)	:
+FR3	Nord-Pas-de-Calais (NUTS 2013)	:
+FR30	Nord-Pas-de-Calais (NUTS 2013)	:
+FR301	Nord (FR) (NUTS 2013)	:
+FR302	Pas-de-Calais (NUTS 2013)	:
+FR4	Est (FR) (NUTS 2013)	:
+FR41	Lorraine (NUTS 2013)	:
+FR411	Meurthe-et-Moselle (NUTS 2013)	:
+FR412	Meuse (NUTS 2013)	:
+FR413	Moselle (NUTS 2013)	:
+FR414	Vosges (NUTS 2013)	:
+FR42	Alsace (NUTS 2013)	:
+FR421	Bas-Rhin (NUTS 2013)	:
+FR422	Haut-Rhin (NUTS 2013)	:
+FR43	Franche-Comté (NUTS 2013)	:
+FR431	Doubs (NUTS 2013)	:
+FR432	Jura (NUTS 2013)	:
+FR433	Haute-Saône (NUTS 2013)	:
+FR434	Territoire de Belfort (NUTS 2013)	:
+FR5	Ouest (FR) (NUTS 2013)	:
+FR51	Pays de la Loire (NUTS 2013)	:
+FR511	Loire-Atlantique (NUTS 2013)	:
+FR512	Maine-et-Loire (NUTS 2013)	:
+FR513	Mayenne (NUTS 2013)	:
+FR514	Sarthe (NUTS 2013)	:
+FR515	Vendée (NUTS 2013)	:
+FR52	Bretagne (NUTS 2013)	:
+FR521	Côtes-d'Armor (NUTS 2013)	:
+FR522	Finistère (NUTS 2013)	:
+FR523	Ille-et-Vilaine (NUTS 2013)	:
+FR524	Morbihan (NUTS 2013)	:
+FR53	Poitou-Charentes (NUTS 2013)	:
+FR531	Charente (NUTS 2013)	:
+FR532	Charente-Maritime (NUTS 2013)	:
+FR533	Deux-Sèvres (NUTS 2013)	:
+FR534	Vienne (NUTS 2013)	:
+FR6	Sud-Ouest (FR) (NUTS 2013)	:
+FR61	Aquitaine (NUTS 2013)	:
+FR611	Dordogne (NUTS 2013)	:
+FR612	Gironde (NUTS 2013)	:
+FR613	Landes (NUTS 2013)	:
+FR614	Lot-et-Garonne (NUTS 2013)	:
+FR615	Pyrénées-Atlantiques (NUTS 2013)	:
+FR62	Midi-Pyrénées (NUTS 2013)	:
+FR621	Ariège (NUTS 2013)	:
+FR622	Aveyron (NUTS 2013)	:
+FR623	Haute-Garonne (NUTS 2013)	:
+FR624	Gers (NUTS 2013)	:
+FR625	Lot (NUTS 2013)	:
+FR626	Hautes-Pyrénées (NUTS 2013)	:
+FR627	Tarn (NUTS 2013)	:
+FR628	Tarn-et-Garonne (NUTS 2013)	:
+FR63	Limousin (NUTS 2013)	:
+FR631	Corrèze (NUTS 2013)	:
+FR632	Creuse (NUTS 2013)	:
+FR633	Haute-Vienne (NUTS 2013)	:
+FR7	Centre-Est (FR) (NUTS 2013)	:
+FR71	Rhône-Alpes (NUTS 2013)	:
+FR711	Ain (NUTS 2013)	:
+FR712	Ardèche (NUTS 2013)	:
+FR713	Drôme (NUTS 2013)	:
+FR714	Isère (NUTS 2013)	:
+FR715	Loire (NUTS 2013)	:
+FR716	Rhône (NUTS 2013)	:
+FR717	Savoie (NUTS 2013)	:
+FR718	Haute-Savoie (NUTS 2013)	:
+FR72	Auvergne (NUTS 2013)	:
+FR721	Allier (NUTS 2013)	:
+FR722	Cantal (NUTS 2013)	:
+FR723	Haute-Loire (NUTS 2013)	:
+FR724	Puy-de-Dôme (NUTS 2013)	:
+FR8	Méditerranée (NUTS 2013)	:
+FR81	Languedoc-Roussillon (NUTS 2013)	:
+FR811	Aude (NUTS 2013)	:
+FR812	Gard (NUTS 2013)	:
+FR813	Hérault (NUTS 2013)	:
+FR814	Lozère (NUTS 2013)	:
+FR815	Pyrénées-Orientales (NUTS 2013)	:
+FR82	Provence-Alpes-Côte d'Azur (NUTS 2013)	:
+FR821	Alpes-de-Haute-Provence (NUTS 2013)	:
+FR822	Hautes-Alpes (NUTS 2013)	:
+FR823	Alpes-Maritimes (NUTS 2013)	:
+FR824	Bouches-du-Rhône (NUTS 2013)	:
+FR825	Var (NUTS 2013)	:
+FR826	Vaucluse (NUTS 2013)	:
+FR83	Corse (NUTS 2013)	:
+FR831	Corse-du-Sud (NUTS 2013)	:
+FR832	Haute-Corse (NUTS 2013)	:
+FRA	Départements d'outre-mer (NUTS 2013)	:
+FRA1	Guadeloupe (NUTS 2013)	:
+FRA10	Guadeloupe (NUTS 2013)	:
+FRA2	Martinique (NUTS 2013)	:
+FRA20	Martinique (NUTS 2013)	:
+FRA3	Guyane (NUTS 2013)	:
+FRA30	Guyane (NUTS 2013)	:
+FRA4	La Réunion (NUTS 2013)	:
+FRA40	La Réunion (NUTS 2013)	:
+FRA5	Mayotte (NUTS 2013)	:
+FRA50	Mayotte (NUTS 2013)	:
+HR	Croatia	56.594
+HR0	Hrvatska	56.594
+HR02	Panonska Hrvatska	23.220
+HR021	Bjelovarsko-bilogorska zupanija	2.640
+HR022	Viroviticko-podravska zupanija	2.024
+HR023	Pozesko-slavonska zupanija	1.823
+HR024	Brodsko-posavska zupanija	2.030
+HR025	Osjecko-baranjska zupanija	4.155
+HR026	Vukovarsko-srijemska zupanija	2.454
+HR027	Karlovacka zupanija	3.626
+HR028	Sisacko-moslavacka zupanija	4.468
+HR03	Jadranska Hrvatska	24.705
+HR031	Primorsko-goranska zupanija	3.588
+HR032	Licko-senjska zupanija	5.353
+HR033	Zadarska zupanija	3.646
+HR034	Sibensko-kninska zupanija	2.984
+HR035	Splitsko-dalmatinska zupanija	4.540
+HR036	Istarska zupanija	2.813
+HR037	Dubrovacko-neretvanska zupanija	1.781
+HR04	Kontinentalna Hrvatska (NUTS 2016)	:
+HR041	Grad Zagreb (NUTS 2016)	:
+HR042	Zagrebacka zupanija (NUTS 2016)	:
+HR043	Krapinsko-zagorska zupanija (NUTS 2016)	:
+HR044	Varazdinska zupanija (NUTS 2016)	:
+HR045	Koprivnicko-krizevacka zupanija (NUTS 2016)	:
+HR046	Medimurska zupanija (NUTS 2016)	:
+HR047	Bjelovarsko-bilogorska zupanija (NUTS 2016)	:
+HR048	Viroviticko-podravska zupanija (NUTS 2016)	:
+HR049	Pozesko-slavonska zupanija (NUTS 2016)	:
+HR04A	Brodsko-posavska zupanija (NUTS 2016)	:
+HR04B	Osjecko-baranjska zupanija (NUTS 2016)	:
+HR04C	Vukovarsko-srijemska zupanija (NUTS 2016)	:
+HR04D	Karlovacka zupanija (NUTS 2016)	:
+HR04E	Sisacko-moslavacka zupanija (NUTS 2016)	:
+HR05	Grad Zagreb	641
+HR050	Grad Zagreb	641
+HR06	Sjeverna Hrvatska	8.028
+HR061	Medimurska zupanija	729
+HR062	Varazdinska zupanija	1.262
+HR063	Koprivnicko-krizevacka zupanija	1.748
+HR064	Krapinsko-zagorska zupanija	1.229
+HR065	Zagrebacka zupanija	3.060
+IT	Italy	302.079
+ITC	Nord-Ovest	57.928
+ITC1	Piemonte	25.387
+ITC11	Torino	6.827
+ITC12	Vercelli	2.082
+ITC13	Biella	913
+ITC14	Verbano-Cusio-Ossola	2.261
+ITC15	Novara	1.340
+ITC16	Cuneo	6.895
+ITC17	Asti	1.510
+ITC18	Alessandria	3.559
+ITC2	Valle d'Aosta/Vallée d'Aoste	3.261
+ITC20	Valle d'Aosta/Vallée d'Aoste	3.261
+ITC3	Liguria	5.416
+ITC31	Imperia	1.155
+ITC32	Savona	1.546
+ITC33	Genova	1.834
+ITC34	La Spezia	881
+ITC4	Lombardia	23.864
+ITC41	Varese	1.198
+ITC42	Como	1.279
+ITC43	Lecco	815
+ITC44	Sondrio	3.196
+ITC46	Bergamo	2.746
+ITC47	Brescia	4.786
+ITC48	Pavia	2.969
+ITC49	Lodi	783
+ITC4A	Cremona	1.770
+ITC4B	Mantova	2.341
+ITC4C	Milano	1.576
+ITC4D	Monza e della Brianza	405
+ITH	Nord-Est	62.327
+ITH1	Provincia Autonoma di Bolzano/Bozen	7.398
+ITH10	Bolzano-Bozen	7.398
+ITH2	Provincia Autonoma di Trento	6.207
+ITH20	Trento	6.207
+ITH3	Veneto	18.407
+ITH31	Verona	3.096
+ITH32	Vicenza	2.723
+ITH33	Belluno	3.672
+ITH34	Treviso	2.480
+ITH35	Venezia	2.473
+ITH36	Padova	2.144
+ITH37	Rovigo	1.819
+ITH4	Friuli-Venezia Giulia	7.862
+ITH41	Pordenone	2.275
+ITH42	Udine	4.907
+ITH43	Gorizia	467
+ITH44	Trieste	213
+ITH5	Emilia-Romagna	22.453
+ITH51	Piacenza	2.586
+ITH52	Parma	3.448
+ITH53	Reggio nell'Emilia	2.291
+ITH54	Modena	2.688
+ITH55	Bologna	3.703
+ITH56	Ferrara	2.635
+ITH57	Ravenna	1.859
+ITH58	Forlì-Cesena	2.378
+ITH59	Rimini	865
+ITI	Centro (IT)	58.085
+ITI1	Toscana	22.988
+ITI11	Massa-Carrara	1.155
+ITI12	Lucca	1.773
+ITI13	Pistoia	964
+ITI14	Firenze	3.514
+ITI15	Prato	366
+ITI16	Livorno	1.214
+ITI17	Pisa	2.445
+ITI18	Arezzo	3.233
+ITI19	Siena	3.821
+ITI1A	Grosseto	4.503
+ITI2	Umbria	8.464
+ITI21	Perugia	6.337
+ITI22	Terni	2.127
+ITI3	Marche	9.401
+ITI31	Pesaro e Urbino	2.568
+ITI32	Ancona	1.963
+ITI33	Macerata	2.779
+ITI34	Ascoli Piceno	1.228
+ITI35	Fermo	863
+ITI4	Lazio	17.232
+ITI41	Viterbo	3.615
+ITI42	Rieti	2.751
+ITI43	Roma	5.363
+ITI44	Latina	2.256
+ITI45	Frosinone	3.247
+ITF	Sud	73.800
+ITF1	Abruzzo	10.833
+ITF11	L'Aquila	5.049
+ITF12	Teramo	1.954
+ITF13	Pescara	1.230
+ITF14	Chieti	2.600
+ITF2	Molise	4.461
+ITF21	Isernia	1.535
+ITF22	Campobasso	2.926
+ITF3	Campania	13.670
+ITF31	Caserta	2.651
+ITF32	Benevento	2.080
+ITF33	Napoli	1.179
+ITF34	Avellino	2.806
+ITF35	Salerno	4.954
+ITF4	Puglia	19.541
+ITF43	Taranto	2.467
+ITF44	Brindisi	1.861
+ITF45	Lecce	2.799
+ITF46	Foggia	7.008
+ITF47	Bari	3.863
+ITF48	Barletta-Andria-Trani	1.543
+ITF5	Basilicata	10.073
+ITF51	Potenza	6.594
+ITF52	Matera	3.479
+ITF6	Calabria	15.222
+ITF61	Cosenza	6.710
+ITF62	Crotone	1.736
+ITF63	Catanzaro	2.415
+ITF64	Vibo Valentia	1.151
+ITF65	Reggio di Calabria	3.210
+ITG	Isole	49.939
+ITG1	Sicilia	25.833
+ITG11	Trapani	2.470
+ITG12	Palermo	5.009
+ITG13	Messina	3.266
+ITG14	Agrigento	3.053
+ITG15	Caltanissetta	2.138
+ITG16	Enna	2.575
+ITG17	Catania	3.574
+ITG18	Ragusa	1.624
+ITG19	Siracusa	2.124
+ITG2	Sardegna	24.106
+ITG25	Sassari (NUTS 2016)	:
+ITG26	Nuoro (NUTS 2016)	:
+ITG27	Cagliari (NUTS 2016)	:
+ITG28	Oristano (NUTS 2016)	:
+ITG29	Olbia-Tempio (NUTS 2016)	:
+ITG2A	Ogliastra (NUTS 2016)	:
+ITG2B	Medio Campidano (NUTS 2016)	:
+ITG2C	Carbonia-Iglesias (NUTS 2016)	:
+ITG2D	Sassari	7.689
+ITG2E	Nuoro	5.642
+ITG2F	Cagliari	1.248
+ITG2G	Oristano	2.992
+ITG2H	Sud Sardegna	6.535
+CY	Cyprus	9.253
+CY0	Kypros	9.253
+CY00	Kypros	9.253
+CY000	Kypros	9.253
+LV	Latvia	64.586
+LV0	Latvija	64.586
+LV00	Latvija	64.586
+LV003	Kurzeme	13.603
+LV005	Latgale	14.547
+LV006	Riga	304
+LV007	Pieriga	10.140
+LV008	Vidzeme	15.252
+LV009	Zemgale	10.740
+LT	Lithuania	65.284
+LT0	Lietuva	65.284
+LT01	Sostines regionas	9.730
+LT011	Vilniaus apskritis	9.730
+LT02	Vidurio ir vakaru Lietuvos regionas	55.554
+LT021	Alytaus apskritis	5.418
+LT022	Kauno apskritis	8.086
+LT023	Klaipedos apskritis	5.222
+LT024	Marijampoles apskritis	4.465
+LT025	Panevezio apskritis	7.878
+LT026	Siauliu apskritis	8.537
+LT027	Taurages apskritis	4.408
+LT028	Telsiu apskritis	4.349
+LT029	Utenos apskritis	7.191
+LT00	Lietuva (NUTS 2013)	:
+LT001	Alytaus apskritis (NUTS 2013)	:
+LT002	Kauno apskritis (NUTS 2013)	:
+LT003	Klaipedos apskritis (NUTS 2013)	:
+LT004	Marijampoles apskritis (NUTS 2013)	:
+LT005	Panevezio apskritis (NUTS 2013)	:
+LT006	Siauliu apskritis (NUTS 2013)	:
+LT007	Taurages apskritis (NUTS 2013)	:
+LT008	Telsiu apskritis (NUTS 2013)	:
+LT009	Utenos apskritis (NUTS 2013)	:
+LT00A	Vilniaus apskritis (NUTS 2013)	:
+LU	Luxembourg	2.595
+LU0	Luxembourg	2.595
+LU00	Luxembourg	2.595
+LU000	Luxembourg	2.595
+HU	Hungary	93.012
+HU1	Közép-Magyarország	6.916
+HU11	Budapest	525
+HU110	Budapest	525
+HU12	Pest	6.391
+HU120	Pest	6.391
+HU10	Közép-Magyarország (NUTS 2013)	:
+HU101	Budapest (NUTS 2013)	:
+HU102	Pest (NUTS 2013)	:
+HU2	Dunántúl	36.611
+HU21	Közép-Dunántúl	11.086
+HU211	Fejér	4.359
+HU212	Komárom-Esztergom	2.264
+HU213	Veszprém	4.463
+HU22	Nyugat-Dunántúl	11.328
+HU221	Gyor-Moson-Sopron	4.208
+HU222	Vas	3.336
+HU223	Zala	3.784
+HU23	Dél-Dunántúl	14.197
+HU231	Baranya	4.429
+HU232	Somogy	6.065
+HU233	Tolna	3.703
+HU3	Alföld és Észak	49.485
+HU31	Észak-Magyarország	13.426
+HU311	Borsod-Abaúj-Zemplén	7.245
+HU312	Heves	3.637
+HU313	Nógrád	2.544
+HU32	Észak-Alföld	17.723
+HU321	Hajdú-Bihar	6.209
+HU322	Jász-Nagykun-Szolnok	5.582
+HU323	Szabolcs-Szatmár-Bereg	5.932
+HU33	Dél-Alföld	18.336
+HU331	Bács-Kiskun	8.444
+HU332	Békés	5.630
+HU333	Csongrád	4.262
+MT	Malta	316
+MT0	Malta	316
+MT00	Malta	316
+MT001	Malta	247
+MT002	Gozo and Comino/Ghawdex u Kemmuna	69
+NL	Netherlands	37.378
+NL1	Noord-Nederland	9.082
+NL11	Groningen	2.405
+NL111	Oost-Groningen	851
+NL112	Delfzijl en omgeving	273
+NL113	Overig Groningen	1.281
+NL12	Friesland (NL)	3.997
+NL121	Noord-Friesland (NUTS 2013)	:
+NL122	Zuidwest-Friesland (NUTS 2013)	:
+NL123	Zuidoost-Friesland (NUTS 2013)	:
+NL124	Noord-Friesland	1.606
+NL125	Zuidwest-Friesland	1.385
+NL126	Zuidoost-Friesland	1.006
+NL13	Drenthe	2.680
+NL131	Noord-Drenthe	1.061
+NL132	Zuidoost-Drenthe	924
+NL133	Zuidwest-Drenthe	695
+NL2	Oost-Nederland	10.971
+NL21	Overijssel	3.421
+NL211	Noord-Overijssel	1.492
+NL212	Zuidwest-Overijssel	425
+NL213	Twente	1.504
+NL22	Gelderland	5.137
+NL221	Veluwe	1.861
+NL224	Zuidwest-Gelderland	756
+NL225	Achterhoek	1.561
+NL226	Arnhem/Nijmegen	959
+NL23	Flevoland	2.413
+NL230	Flevoland	2.413
+NL3	West-Nederland	10.034
+NL31	Utrecht	1.449
+NL310	Utrecht	1.449
+NL32	Noord-Holland	3.403
+NL321	Kop van Noord-Holland	1.515
+NL322	Alkmaar en omgeving (NUTS 2013)	:
+NL323	IJmond	173
+NL324	Agglomeratie Haarlem	137
+NL325	Zaanstreek	128
+NL326	Groot-Amsterdam (NUTS 2013)	:
+NL327	Het Gooi en Vechtstreek	273
+NL328	Alkmaar en omgeving	302
+NL329	Groot-Amsterdam	875
+NL33	Zuid-Holland	3.247
+NL332	Agglomeratie 's-Gravenhage	263
+NL333	Delft en Westland	155
+NL337	Agglomeratie Leiden en Bollenstreek	298
+NL338	Oost-Zuid-Holland (NUTS 2013)	:
+NL339	Groot-Rijnmond (NUTS 2013)	:
+NL33A	Zuidoost-Zuid-Holland	513
+NL33B	Oost-Zuid-Holland	521
+NL33C	Groot-Rijnmond	1.497
+NL34	Zeeland	1.935
+NL341	Zeeuwsch-Vlaanderen	749
+NL342	Overig Zeeland	1.186
+NL4	Zuid-Nederland	7.291
+NL41	Noord-Brabant	5.082
+NL411	West-Noord-Brabant	1.303
+NL412	Midden-Noord-Brabant	933
+NL413	Noordoost-Noord-Brabant	1.388
+NL414	Zuidoost-Noord-Brabant	1.458
+NL42	Limburg (NL)	2.209
+NL421	Noord-Limburg	854
+NL422	Midden-Limburg	695
+NL423	Zuid-Limburg	660
+AT	Austria	83.878
+AT1	Ostösterreich	23.558
+AT11	Burgenland (AT)	3.964
+AT111	Mittelburgenland	701
+AT112	Nordburgenland	1.792
+AT113	Südburgenland	1.471
+AT12	Niederösterreich	19.179
+AT121	Mostviertel-Eisenwurzen	3.356
+AT122	Niederösterreich-Süd	3.368
+AT123	Sankt Pölten	1.230
+AT124	Waldviertel	4.615
+AT125	Weinviertel	2.412
+AT126	Wiener Umland/Nordteil	2.723
+AT127	Wiener Umland/Südteil	1.475
+AT13	Wien	415
+AT130	Wien	415
+AT2	Südösterreich	25.935
+AT21	Kärnten	9.537
+AT211	Klagenfurt-Villach	2.030
+AT212	Oberkärnten	4.132
+AT213	Unterkärnten	3.375
+AT22	Steiermark	16.398
+AT221	Graz	1.212
+AT222	Liezen	3.319
+AT223	Östliche Obersteiermark	3.210
+AT224	Oststeiermark	3.329
+AT225	West- und Südsteiermark	2.267
+AT226	Westliche Obersteiermark	3.061
+AT3	Westösterreich	34.385
+AT31	Oberösterreich	11.981
+AT311	Innviertel	2.823
+AT312	Linz-Wels	1.744
+AT313	Mühlviertel	2.660
+AT314	Steyr-Kirchdorf	2.238
+AT315	Traunviertel	2.516
+AT32	Salzburg	7.154
+AT321	Lungau	1.020
+AT322	Pinzgau-Pongau	4.396
+AT323	Salzburg und Umgebung	1.738
+AT33	Tirol	12.648
+AT331	Außerfern	1.237
+AT332	Innsbruck	2.095
+AT333	Osttirol	2.020
+AT334	Tiroler Oberland	3.320
+AT335	Tiroler Unterland	3.976
+AT34	Vorarlberg	2.602
+AT341	Bludenz-Bregenzer Wald	1.876
+AT342	Rheintal-Bodenseegebiet	726
+PL	Poland	311.928
+PL1	Region Centralny (NUTS 2013)	:
+PL11	Lódzkie (NUTS 2013)	:
+PL113	Miasto Lódz (NUTS 2013)	:
+PL114	Lódzki (NUTS 2013)	:
+PL115	Piotrkowski (NUTS 2013)	:
+PL116	Sieradzki (NUTS 2013)	:
+PL117	Skierniewicki (NUTS 2013)	:
+PL12	Mazowieckie (NUTS 2013)	:
+PL127	Miasto Warszawa (NUTS 2013)	:
+PL128	Radomski (NUTS 2013)	:
+PL129	Warszawski wschodni (NUTS 2013)	:
+PL12A	Warszawski zachodni (NUTS 2013)	:
+PL12B	Ciechanowski (NUTS 2013)	:
+PL12C	Plocki (NUTS 2013)	:
+PL12D	Ostrolecki (NUTS 2013)	:
+PL12E	Siedlecki (NUTS 2013)	:
+PL2	Makroregion Poludniowy	27.516
+PL21	Malopolskie	15.183
+PL213	Miasto Kraków	327
+PL214	Krakowski	4.054
+PL217	Tarnowski	2.605
+PL218	Nowosadecki	3.525
+PL219	Nowotarski	2.632
+PL21A	Oswiecimski	2.040
+PL22	Slaskie	12.333
+PL224	Czestochowski	3.049
+PL225	Bielski	2.353
+PL227	Rybnicki	1.352
+PL228	Bytomski	1.576
+PL229	Gliwicki	879
+PL22A	Katowicki	380
+PL22B	Sosnowiecki	1.800
+PL22C	Tyski	944
+PL3	Region Wschodni (NUTS 2013)	:
+PL31	Lubelskie (NUTS 2013)	:
+PL311	Bialski (NUTS 2013)	:
+PL312	Chelmsko-zamojski (NUTS 2013)	:
+PL314	Lubelski (NUTS 2013)	:
+PL315	Pulawski (NUTS 2013)	:
+PL32	Podkarpackie (NUTS 2013)	:
+PL323	Krosnienski (NUTS 2013)	:
+PL324	Przemyski (NUTS 2013)	:
+PL325	Rzeszowski (NUTS 2013)	:
+PL326	Tarnobrzeski (NUTS 2013)	:
+PL33	Swietokrzyskie (NUTS 2013)	:
+PL331	Kielecki (NUTS 2013)	:
+PL332	Sandomiersko-jedrzejowski (NUTS 2013)	:
+PL34	Podlaskie (NUTS 2013)	:
+PL343	Bialostocki (NUTS 2013)	:
+PL344	Lomzynski (NUTS 2013)	:
+PL345	Suwalski (NUTS 2013)	:
+PL4	Makroregion Pólnocno-Zachodni	66.257
+PL41	Wielkopolskie	29.826
+PL411	Pilski	6.459
+PL414	Koninski	6.397
+PL415	Miasto Poznan	262
+PL416	Kaliski	5.786
+PL417	Leszczynski	5.995
+PL418	Poznanski	4.927
+PL42	Zachodniopomorskie	22.443
+PL424	Miasto Szczecin	301
+PL426	Koszalinski	4.365
+PL427	Szczecinecko-pyrzycki	10.339
+PL428	Szczecinski	7.438
+PL43	Lubuskie	13.988
+PL431	Gorzowski	6.113
+PL432	Zielonogórski	7.875
+PL5	Makroregion Poludniowo-Zachodni	29.359
+PL51	Dolnoslaskie	19.947
+PL514	Miasto Wroclaw	293
+PL515	Jeleniogórski	5.569
+PL516	Legnicko-Glogowski	3.473
+PL517	Walbrzyski	4.180
+PL518	Wroclawski	6.432
+PL52	Opolskie	9.412
+PL523	Nyski	4.092
+PL524	Opolski	5.320
+PL6	Makroregion Pólnocny	60.153
+PL61	Kujawsko-Pomorskie	17.972
+PL613	Bydgosko-Torunski	2.916
+PL616	Grudziadzki	4.054
+PL617	Inowroclawski	4.006
+PL618	Swiecki	3.340
+PL619	Wloclawski	3.656
+PL62	Warminsko-Mazurskie	24.011
+PL621	Elblaski	7.334
+PL622	Olsztynski	10.330
+PL623	Elcki	6.347
+PL63	Pomorskie	18.170
+PL633	Trojmiejski	414
+PL634	Gdanski	4.303
+PL636	Slupski	5.246
+PL637	Chojnicki	4.105
+PL638	Starogardzki	4.102
+PL7	Makroregion Centralny	29.928
+PL71	Lódzkie	18.219
+PL711	Miasto Lódz	293
+PL712	Lódzki	2.206
+PL713	Piotrkowski	5.971
+PL714	Sieradzki	5.667
+PL715	Skierniewicki	4.082
+PL72	Swietokrzyskie	11.709
+PL721	Kielecki	5.031
+PL722	Sandomiersko-jedrzejowski	6.678
+PL8	Makroregion Wschodni	63.156
+PL81	Lubelskie	25.123
+PL811	Bialski	5.977
+PL812	Chelmsko-zamojski	9.291
+PL814	Lubelski	4.221
+PL815	Pulawski	5.634
+PL82	Podkarpackie	17.846
+PL821	Krosnienski	5.537
+PL822	Przemyski	4.293
+PL823	Rzeszowski	3.551
+PL824	Tarnobrzeski	4.465
+PL84	Podlaskie	20.187
+PL841	Bialostocki	5.133
+PL842	Lomzynski	8.817
+PL843	Suwalski	6.237
+PL9	Makroregion Województwo Mazowieckie	35.559
+PL91	Warszawski stoleczny	6.104
+PL911	Miasto Warszawa	517
+PL912	Warszawski wschodni	3.124
+PL913	Warszawski zachodni	2.463
+PL92	Mazowiecki regionalny	29.455
+PL921	Radomski	5.763
+PL922	Ciechanowski	5.255
+PL923	Plocki	3.352
+PL924	Ostrolecki	6.505
+PL925	Siedlecki	6.044
+PL926	Zyrardowski	2.536
+PT	Portugal	92.227
+PT1	Continente	89.103
+PT11	Norte	21.287
+PT111	Alto Minho	2.219
+PT112	Cávado	1.246
+PT119	Ave	1.451
+PT11A	Área Metropolitana do Porto	2.041
+PT11B	Alto Tâmega	2.922
+PT11C	Tâmega e Sousa	1.832
+PT11D	Douro	4.032
+PT11E	Terras de Trás-os-Montes	5.544
+PT15	Algarve	4.997
+PT150	Algarve	4.997
+PT16	Centro (PT)	28.200
+PT16B	Oeste	2.220
+PT16D	Região de Aveiro	1.693
+PT16E	Região de Coimbra	4.336
+PT16F	Região de Leiria	2.449
+PT16G	Viseu Dão Lafões	3.238
+PT16H	Beira Baixa	4.615
+PT16I	Médio Tejo	3.344
+PT16J	Beiras e Serra da Estrela	6.305
+PT17	Área Metropolitana de Lisboa	3.015
+PT170	Área Metropolitana de Lisboa	3.015
+PT18	Alentejo	31.604
+PT181	Alentejo Litoral	5.309
+PT184	Baixo Alentejo	8.543
+PT185	Lezíria do Tejo	4.275
+PT186	Alto Alentejo	6.084
+PT187	Alentejo Central	7.393
+PT2	Região Autónoma dos Açores (PT)	2.322
+PT20	Região Autónoma dos Açores (PT)	2.322
+PT200	Região Autónoma dos Açores (PT)	2.322
+PT3	Região Autónoma da Madeira (PT)	802
+PT30	Região Autónoma da Madeira (PT)	802
+PT300	Região Autónoma da Madeira (PT)	802
+RO	Romania	238.398
+RO1	Macroregiunea unu	68.252
+RO11	Nord-Vest	34.160
+RO111	Bihor	7.539
+RO112	Bistrita-Nasaud	5.358
+RO113	Cluj	6.672
+RO114	Maramures	6.303
+RO115	Satu Mare	4.420
+RO116	Salaj	3.868
+RO12	Centru	34.092
+RO121	Alba	6.250
+RO122	Brasov	5.361
+RO123	Covasna	3.707
+RO124	Harghita	6.637
+RO125	Mures	6.705
+RO126	Sibiu	5.432
+RO2	Macroregiunea doi	72.627
+RO21	Nord-Est	36.853
+RO211	Bacau	6.622
+RO212	Botosani	4.987
+RO213	Iasi	5.477
+RO214	Neamt	5.897
+RO215	Suceava	8.553
+RO216	Vaslui	5.317
+RO22	Sud-Est	35.774
+RO221	Braila	4.766
+RO222	Buzau	6.101
+RO223	Constanta	7.104
+RO224	Galati	4.465
+RO225	Tulcea	8.484
+RO226	Vrancea	4.854
+RO3	Macroregiunea trei	36.271
+RO31	Sud - Muntenia	34.467
+RO311	Arges	6.822
+RO312	Calarasi	5.087
+RO313	Dâmbovita	4.056
+RO314	Giurgiu	3.544
+RO315	Ialomita	4.455
+RO316	Prahova	4.715
+RO317	Teleorman	5.788
+RO32	Bucuresti - Ilfov	1.804
+RO321	Bucuresti	240
+RO322	Ilfov	1.564
+RO4	Macroregiunea patru	61.248
+RO41	Sud-Vest Oltenia	29.206
+RO411	Dolj	7.425
+RO412	Gorj	5.572
+RO413	Mehedinti	4.942
+RO414	Olt	5.503
+RO415	Vâlcea	5.764
+RO42	Vest	32.042
+RO421	Arad	7.746
+RO422	Caras-Severin	8.532
+RO423	Hunedoara	7.072
+RO424	Timis	8.692
+SI	Slovenia	20.273
+SI0	Slovenija	20.273
+SI03	Vzhodna Slovenija	12.433
+SI031	Pomurska	1.337
+SI032	Podravska	2.170
+SI033	Koroska	1.041
+SI034	Savinjska	2.301
+SI035	Zasavska	485
+SI036	Posavska	968
+SI037	Jugovzhodna Slovenija	2.675
+SI038	Primorsko-notranjska	1.456
+SI04	Zahodna Slovenija	7.840
+SI041	Osrednjeslovenska	2.334
+SI042	Gorenjska	2.137
+SI043	Goriska	2.325
+SI044	Obalno-kraska	1.044
+SK	Slovakia	49.035
+SK0	Slovensko	49.035
+SK01	Bratislavský kraj	2.053
+SK010	Bratislavský kraj	2.053
+SK02	Západné Slovensko	14.992
+SK021	Trnavský kraj	4.146
+SK022	Trenciansky kraj	4.502
+SK023	Nitriansky kraj	6.344
+SK03	Stredné Slovensko	16.263
+SK031	Zilinský kraj	6.809
+SK032	Banskobystrický kraj	9.454
+SK04	Východné Slovensko	15.727
+SK041	Presovský kraj	8.973
+SK042	Kosický kraj	6.754
+FI	Finland	338.411
+FI1	Manner-Suomi	336.830
+FI19	Länsi-Suomi	64.763
+FI193	Keski-Suomi	19.949
+FI194	Etelä-Pohjanmaa	13.999
+FI195	Pohjanmaa	7.934
+FI196	Satakunta	8.268
+FI197	Pirkanmaa	14.613
+FI1B	Helsinki-Uusimaa	9.568
+FI1B1	Helsinki-Uusimaa	9.568
+FI1C	Etelä-Suomi	35.379
+FI1C1	Varsinais-Suomi	10.910
+FI1C2	Kanta-Häme	5.708
+FI1C3	Päijät-Häme	6.255
+FI1C4	Kymenlaakso	5.634
+FI1C5	Etelä-Karjala	6.872
+FI1D	Pohjois- ja Itä-Suomi	227.120
+FI1D1	Etelä-Savo	19.130
+FI1D2	Pohjois-Savo	20.366
+FI1D3	Pohjois-Karjala	21.584
+FI1D4	Kainuu (NUTS 2013)	:
+FI1D5	Keski-Pohjanmaa	5.219
+FI1D6	Pohjois-Pohjanmaa (NUTS 2013)	:
+FI1D7	Lappi	98.983
+FI1D8	Kainuu	22.688
+FI1D9	Pohjois-Pohjanmaa	39.150
+FI2	Åland	1.581
+FI20	Åland	1.581
+FI200	Åland	1.581
+SE	Sweden	447.424
+SE1	Östra Sverige	50.307
+SE11	Stockholm	7.153
+SE110	Stockholms län	7.153
+SE12	Östra Mellansverige	43.154
+SE121	Uppsala län	8.608
+SE122	Södermanlands län	7.026
+SE123	Östergötlands län	12.229
+SE124	Örebro län	9.633
+SE125	Västmanlands län	5.658
+SE2	Södra Sverige	84.685
+SE21	Småland med öarna	35.879
+SE211	Jönköpings län	11.693
+SE212	Kronobergs län	9.384
+SE213	Kalmar län	11.636
+SE214	Gotlands län	3.166
+SE22	Sydsverige	14.341
+SE221	Blekinge län	3.039
+SE224	Skåne län	11.302
+SE23	Västsverige	34.465
+SE231	Hallands län	5.687
+SE232	Västra Götalands län	28.778
+SE3	Norra Sverige	312.432
+SE31	Norra Mellansverige	71.640
+SE311	Värmlands län	21.789
+SE312	Dalarnas län	30.222
+SE313	Gävleborgs län	19.629
+SE32	Mellersta Norrland	76.709
+SE321	Västernorrlands län	22.957
+SE322	Jämtlands län	53.752
+SE33	Övre Norrland	164.083
+SE331	Västerbottens län	58.875
+SE332	Norrbottens län	105.208
+IS	Iceland	102.679
+IS0	Ísland	102.679
+IS00	Ísland	102.679
+IS001	Höfudborgarsvædi	1.044
+IS002	Landsbyggd	101.635
+LI	Liechtenstein	160
+LI0	Liechtenstein	160
+LI00	Liechtenstein	160
+LI000	Liechtenstein	160
+NO	Norway	384.486
+NO0	Norge	384.486
+NO01	Oslo og Akershus (statistical region 2016)	:
+NO011	Oslo (statistical region 2016)	:
+NO012	Akershus (statistical region 2016)	:
+NO02	Innlandet	52.072
+NO020	Innlandet	52.072
+NO021	Hedmark (statistical region 2016)	:
+NO022	Oppland (statistical region 2016)	:
+NO03	Sør-Østlandet (statistical region 2016)	:
+NO031	Østfold (statistical region 2016)	:
+NO032	Buskerud (statistical region 2016)	:
+NO033	Vestfold (statistical region 2016)	:
+NO034	Telemark (statistical region 2016)	:
+NO04	Agder og Rogaland (statistical region 2016)	:
+NO041	Aust-Agder (statistical region 2016)	:
+NO042	Vest-Agder (statistical region 2016)	:
+NO043	Rogaland (statistical region 2016)	:
+NO05	Vestlandet (statistical region 2016)	:
+NO051	Hordaland (statistical region 2016)	:
+NO052	Sogn og Fjordane (statistical region 2016)	:
+NO053	Møre og Romsdal (statistical region 2016)	:
+NO06	Trøndelag	42.202
+NO060	Trøndelag	42.202
+NO061	Sør-Trøndelag (statistical region 2016)	:
+NO062	Nord-Trøndelag (statistical region 2016)	:
+NO07	Nord-Norge	112.985
+NO071	Nordland	38.155
+NO072	Troms (statistical region 2016)	:
+NO073	Finnmark (statistical region 2016)	:
+NO074	Troms og Finnmark	74.830
+NO08	Oslo og Viken	25.047
+NO081	Oslo	454
+NO082	Viken	24.593
+NO09	Agder og Sør-Østlandet	33.900
+NO091	Vestfold og Telemark	17.466
+NO092	Agder	16.434
+NO0A	Vestlandet	57.604
+NO0A1	Rogaland	9.377
+NO0A2	Vestland	33.871
+NO0A3	Møre og Romsdal	14.356
+NO0B	Jan Mayen and Svalbard	60.676
+NO0B1	Jan Mayen	377
+NO0B2	Svalbard	60.299
+CH	Switzerland	41.287
+CH0	Schweiz/Suisse/Svizzera	41.287
+CH01	Région lémanique	8.717
+CH011	Vaud	3.212
+CH012	Valais	5.223
+CH013	Genève	282
+CH02	Espace Mittelland	10.061
+CH021	Bern	5.959
+CH022	Freiburg	1.671
+CH023	Solothurn	789
+CH024	Neuchâtel	803
+CH025	Jura	839
+CH03	Nordwestschweiz	1.958
+CH031	Basel-Stadt	37
+CH032	Basel-Landschaft	517
+CH033	Aargau	1.404
+CH04	Zürich	1.728
+CH040	Zürich	1.728
+CH05	Ostschweiz	11.529
+CH051	Glarus	686
+CH052	Schaffhausen	298
+CH053	Appenzell Ausserrhoden	243
+CH054	Appenzell Innerrhoden	172
+CH055	St. Gallen	2.033
+CH056	Graubünden	7.107
+CH057	Thurgau	990
+CH06	Zentralschweiz	4.482
+CH061	Luzern	1.493
+CH062	Uri	1.076
+CH063	Schwyz	907
+CH064	Obwalden	491
+CH065	Nidwalden	276
+CH066	Zug	239
+CH07	Ticino	2.812
+CH070	Ticino	2.812
+UK	United Kingdom	244.423
+UKC	North East (UK)	8.593
+UKC1	Tees Valley and Durham	3.027
+UKC11	Hartlepool and Stockton-on-Tees	299
+UKC12	South Teesside	299
+UKC13	Darlington	197
+UKC14	Durham CC	2.232
+UKC2	Northumberland and Tyne and Wear	5.566
+UKC21	Northumberland	5.026
+UKC22	Tyneside	403
+UKC23	Sunderland	137
+UKD	North West (UK)	14.164
+UKD1	Cumbria	6.822
+UKD11	West Cumbria	2.073
+UKD12	East Cumbria	4.749
+UKD3	Greater Manchester	1.276
+UKD33	Manchester	116
+UKD34	Greater Manchester South West	203
+UKD35	Greater Manchester South East	229
+UKD36	Greater Manchester North West	328
+UKD37	Greater Manchester North East	400
+UKD4	Lancashire	3.076
+UKD41	Blackburn with Darwen	137
+UKD42	Blackpool	35
+UKD44	Lancaster & Wyre	858
+UKD45	Mid Lancashire	1.005
+UKD46	East Lancashire	491
+UKD47	Chorley & West Lancashire	550
+UKD6	Cheshire	2.264
+UKD61	Warrington	181
+UKD62	Cheshire East	1.166
+UKD63	Cheshire West and Chester	917
+UKD7	Merseyside	726
+UKD71	East Merseyside	302
+UKD72	Liverpool	112
+UKD73	Sefton	155
+UKD74	Wirral	157
+UKE	Yorkshire and The Humber	15.409
+UKE1	East Yorkshire and Northern Lincolnshire	3.515
+UKE11	Kingston upon Hull, City of	71
+UKE12	East Riding of Yorkshire	2.406
+UKE13	North and North East Lincolnshire	1.038
+UKE2	North Yorkshire	8.312
+UKE21	York	272
+UKE22	North Yorkshire CC	8.040
+UKE3	South Yorkshire	1.552
+UKE31	Barnsley, Doncaster and Rotherham	1.184
+UKE32	Sheffield	368
+UKE4	West Yorkshire	2.030
+UKE41	Bradford	366
+UKE42	Leeds	552
+UKE44	Calderdale and Kirklees	773
+UKE45	Wakefield	339
+UKF	East Midlands (UK)	15.643
+UKF1	Derbyshire and Nottinghamshire	4.788
+UKF11	Derby	78
+UKF12	East Derbyshire	502
+UKF13	South and West Derbyshire	2.049
+UKF14	Nottingham	75
+UKF15	North Nottinghamshire	1.475
+UKF16	South Nottinghamshire	609
+UKF2	Leicestershire, Rutland and Northamptonshire	4.918
+UKF21	Leicester	73
+UKF22	Leicestershire CC and Rutland	2.478
+UKF24	West Northamptonshire	1.380
+UKF25	North Northamptonshire	987
+UKF3	Lincolnshire	5.937
+UKF30	Lincolnshire	5.937
+UKG	West Midlands (UK)	13.004
+UKG1	Herefordshire, Worcestershire and Warwickshire	5.899
+UKG11	Herefordshire, County of	2.180
+UKG12	Worcestershire	1.741
+UKG13	Warwickshire	1.978
+UKG2	Shropshire and Staffordshire	6.203
+UKG21	Telford and Wrekin	290
+UKG22	Shropshire CC	3.197
+UKG23	Stoke-on-Trent	93
+UKG24	Staffordshire CC	2.623
+UKG3	West Midlands	902
+UKG31	Birmingham	268
+UKG32	Solihull	178
+UKG33	Coventry	99
+UKG36	Dudley	98
+UKG37	Sandwell	86
+UKG38	Walsall	104
+UKG39	Wolverhampton	69
+UKH	East of England	19.136
+UKH1	East Anglia	12.580
+UKH11	Peterborough	343
+UKH12	Cambridgeshire CC	3.053
+UKH14	Suffolk	3.802
+UKH15	Norwich & East Norfolk	766
+UKH16	North & West Norfolk	2.403
+UKH17	Breckland & South Norfolk	2.213
+UKH2	Bedfordshire and Hertfordshire	2.878
+UKH21	Luton	43
+UKH23	Hertfordshire	1.643
+UKH24	Bedford	476
+UKH25	Central Bedfordshire	716
+UKH3	Essex	3.678
+UKH31	Southend-on-Sea	42
+UKH32	Thurrock	163
+UKH34	Essex Haven Gateway	1.283
+UKH35	West Essex	1.011
+UKH36	Heart of Essex	854
+UKH37	Essex Thames Gateway	325
+UKI	London	1.572
+UKI3	Inner London - West	109
+UKI31	Camden & City of London	25
+UKI32	Westminster	21
+UKI33	Kensington and Chelsea & Hammersmith and Fulham	29
+UKI34	Wandsworth	34
+UKI4	Inner London - East	210
+UKI41	Hackney & Newham	55
+UKI42	Tower Hamlets	20
+UKI43	Haringey & Islington	44
+UKI44	Lewisham & Southwark	64
+UKI45	Lambeth	27
+UKI5	Outer London - East and North East	433
+UKI51	Bexley & Greenwich	108
+UKI52	Barking & Dagenham and Havering	148
+UKI53	Redbridge & Waltham Forest	95
+UKI54	Enfield	82
+UKI6	Outer London - South	355
+UKI61	Bromley	150
+UKI62	Croydon	86
+UKI63	Merton, Kingston upon Thames & Sutton	119
+UKI7	Outer London - West and North West	465
+UKI71	Barnet	87
+UKI72	Brent	43
+UKI73	Ealing	56
+UKI74	Harrow & Hillingdon	166
+UKI75	Hounslow & Richmond upon Thames	113
+UKJ	South East (UK)	19.090
+UKJ1	Berkshire, Buckinghamshire and Oxfordshire	5.744
+UKJ11	Berkshire	1.264
+UKJ12	Milton Keynes	309
+UKJ13	Buckinghamshire CC	1.565
+UKJ14	Oxfordshire	2.606
+UKJ2	Surrey, East and West Sussex	5.457
+UKJ21	Brighton and Hove	83
+UKJ22	East Sussex CC	1.713
+UKJ25	West Surrey	1.000
+UKJ26	East Surrey	670
+UKJ27	West Sussex (South West)	1.082
+UKJ28	West Sussex (North East)	909
+UKJ3	Hampshire and Isle of Wight	4.149
+UKJ31	Portsmouth	40
+UKJ32	Southampton	50
+UKJ34	Isle of Wight	380
+UKJ35	South Hampshire	235
+UKJ36	Central Hampshire	2.556
+UKJ37	North Hampshire	888
+UKJ4	Kent	3.740
+UKJ41	Medway	194
+UKJ43	Kent Thames Gateway	546
+UKJ44	East Kent	1.084
+UKJ45	Mid Kent	974
+UKJ46	West Kent	942
+UKK	South West (UK)	23.894
+UKK1	Gloucestershire, Wiltshire and Bristol/Bath area	7.471
+UKK11	Bristol, City of	110
+UKK12	Bath and North East Somerset, North Somerset and South Gloucestershire	1.223
+UKK13	Gloucestershire	2.653
+UKK14	Swindon	230
+UKK15	Wiltshire CC	3.255
+UKK2	Dorset and Somerset	6.147
+UKK21	Bournemouth and Poole (NUTS 2016)	:
+UKK22	Dorset CC (NUTS 2016)	:
+UKK23	Somerset	3.452
+UKK24	Bournemouth, Christchurch and Poole	174
+UKK25	Dorset	2.521
+UKK3	Cornwall and Isles of Scilly	3.566
+UKK30	Cornwall and Isles of Scilly	3.566
+UKK4	Devon	6.710
+UKK41	Plymouth	80
+UKK42	Torbay	63
+UKK43	Devon CC	6.567
+UKL	Wales	20.781
+UKL1	West Wales and The Valleys	13.131
+UKL11	Isle of Anglesey	714
+UKL12	Gwynedd	2.548
+UKL13	Conwy and Denbighshire	1.969
+UKL14	South West Wales	5.779
+UKL15	Central Valleys	536
+UKL16	Gwent Valleys	512
+UKL17	Bridgend and Neath Port Talbot	693
+UKL18	Swansea	380
+UKL2	East Wales	7.650
+UKL21	Monmouthshire and Newport	1.041
+UKL22	Cardiff and Vale of Glamorgan	473
+UKL23	Flintshire and Wrexham	941
+UKL24	Powys	5.195
+UKM	Scotland	78.802
+UKM2	Eastern Scotland (NUTS 2013)	:
+UKM21	Angus and Dundee City (NUTS 2013)	:
+UKM22	Clackmannanshire and Fife (NUTS 2013)	:
+UKM23	East Lothian and Midlothian (NUTS 2013)	:
+UKM24	Scottish Borders (NUTS 2013)	:
+UKM25	Edinburgh, City of (NUTS 2013)	:
+UKM26	Falkirk (NUTS 2013)	:
+UKM27	Perth & Kinross and Stirling (NUTS 2013)	:
+UKM28	West Lothian (NUTS 2013)	:
+UKM3	South Western Scotland (NUTS 2013)	:
+UKM31	East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond (NUTS 2013)	:
+UKM32	Dumfries & Galloway (NUTS 2013)	:
+UKM33	East Ayrshire and North Ayrshire mainland (NUTS 2013)	:
+UKM34	Glasgow City (NUTS 2013)	:
+UKM35	Inverclyde, East Renfrewshire and Renfrewshire (NUTS 2013)	:
+UKM36	North Lanarkshire (NUTS 2013)	:
+UKM37	South Ayrshire (NUTS 2013)	:
+UKM38	South Lanarkshire (NUTS 2013)	:
+UKM5	North Eastern Scotland	6.504
+UKM50	Aberdeen City and Aberdeenshire	6.504
+UKM6	Highlands and Islands	41.046
+UKM61	Caithness & Sutherland and Ross & Cromarty	13.064
+UKM62	Inverness & Nairn and Moray, Badenoch & Strathspey	7.939
+UKM63	Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute	14.469
+UKM64	Eilean Siar (Western Isles)	3.092
+UKM65	Orkney Islands	1.013
+UKM66	Shetland Islands	1.469
+UKM7	Eastern Scotland	13.389
+UKM71	Angus and Dundee City	2.245
+UKM72	Clackmannanshire and Fife	1.484
+UKM73	East Lothian and Midlothian	1.034
+UKM75	Edinburgh, City of	263
+UKM76	Falkirk	297
+UKM77	Perth & Kinross and Stirling	7.637
+UKM78	West Lothian	429
+UKM8	West Central Scotland	1.978
+UKM81	East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond	733
+UKM82	Glasgow City	175
+UKM83	Inverclyde, East Renfrewshire and Renfrewshire	598
+UKM84	North Lanarkshire	472
+UKM9	Southern Scotland	15.885
+UKM91	Scottish Borders	4.739
+UKM92	Dumfries & Galloway	6.438
+UKM93	East Ayrshire and North Ayrshire mainland	1.710
+UKM94	South Ayrshire	1.224
+UKM95	South Lanarkshire	1.774
+UKN	Northern Ireland (UK)	14.335
+UKN0	Northern Ireland (UK)	14.335
+UKN01	Belfast (NUTS 2013)	:
+UKN02	Outer Belfast (NUTS 2013)	:
+UKN03	East of Northern Ireland (NUTS 2013)	:
+UKN04	North of Northern Ireland (NUTS 2013)	:
+UKN05	West and South of Northern Ireland (NUTS 2013)	:
+UKN06	Belfast	138
+UKN07	Armagh City, Banbridge and Craigavon	1.437
+UKN08	Newry, Mourne and Down	1.683
+UKN09	Ards and North Down	567
+UKN0A	Derry City and Strabane	1.252
+UKN0B	Mid Ulster	1.958
+UKN0C	Causeway Coast and Glens	1.986
+UKN0D	Antrim and Newtownabbey	728
+UKN0E	Lisburn and Castlereagh	511
+UKN0F	Mid and East Antrim	1.062
+UKN0G	Fermanagh and Omagh	3.013
+UKN10	Derry City and Strabane (NUTS 2016)	:
+UKN11	Mid Ulster (NUTS 2016)	:
+UKN12	Causeway Coast and Glens (NUTS 2016)	:
+UKN13	Antrim and Newtownabbey (NUTS 2016)	:
+UKN14	Lisburn and Castlereagh (NUTS 2016)	:
+UKN15	Mid and East Antrim (NUTS 2016)	:
+UKN16	Fermanagh and Omagh (NUTS 2016)	:
+ME	Montenegro	13.882
+ME0	Crna Gora	13.882
+ME00	Crna Gora	13.882
+ME000	Crna Gora	13.882
+MK	North Macedonia	25.435
+MK0	Severna Makedonija	25.435
+MK00	Severna Makedonija	25.435
+MK001	Vardarski	4.063
+MK002	Istocen	3.537
+MK003	Jugozapaden	3.604
+MK004	Jugoistocen	2.767
+MK005	Pelagoniski	4.910
+MK006	Poloski	2.431
+MK007	Severoistocen	2.310
+MK008	Skopski	1.813
+AL	Albania	28.791
+AL0	Shqipëria	28.791
+AL01	Veri	10.820
+AL011	Dibër	1.661
+AL012	Durrës	3.528
+AL013	Kukës	2.469
+AL014	Lezhë	2.392
+AL015	Shkodër	770
+AL02	Qender	4.967
+AL021	Elbasan	3.314
+AL022	Tiranë	1.653
+AL03	Jug	13.004
+AL031	Berat	1.882
+AL032	Fier	2.879
+AL033	Gjirokastër	2.705
+AL034	Korcë	1.801
+AL035	Vlorë	3.737
+TR	Türkiye	780.270
+TR1	Istanbul	5.340
+TR10	Istanbul	5.340
+TR100	Istanbul	5.340
+TR2	Bati Marmara	42.906
+TR21	Tekirdag, Edirne, Kirklareli	18.839
+TR211	Tekirdag	6.386
+TR212	Edirne	5.920
+TR213	Kirklareli	6.533
+TR22	Balikesir, Çanakkale	24.067
+TR221	Balikesir	14.367
+TR222	Çanakkale	9.700
+TR3	Ege	89.180
+TR31	Izmir	11.802
+TR310	Izmir	11.802
+TR32	Aydin, Denizli, Mugla	32.027
+TR321	Aydin	7.803
+TR322	Denizli	11.804
+TR323	Mugla	12.420
+TR33	Manisa, Afyonkarahisar, Kütahya, Usak	45.351
+TR331	Manisa	13.236
+TR332	Afyonkarahisar	14.730
+TR333	Kütahya	12.016
+TR334	Usak	5.369
+TR4	Dogu Marmara	49.324
+TR41	Bursa, Eskisehir, Bilecik	29.108
+TR411	Bursa	10.893
+TR412	Eskisehir	13.907
+TR413	Bilecik	4.308
+TR42	Kocaeli, Sakarya, Düzce, Bolu, Yalova	20.216
+TR421	Kocaeli	3.600
+TR422	Sakarya	4.896
+TR423	Düzce	2.574
+TR424	Bolu	8.340
+TR425	Yalova	806
+TR5	Bati Anadolu	75.007
+TR51	Ankara	25.460
+TR510	Ankara	25.460
+TR52	Konya, Karaman	49.547
+TR521	Konya	40.678
+TR522	Karaman	8.869
+TR6	Akdeniz	89.110
+TR61	Antalya, Isparta, Burdur	36.562
+TR611	Antalya	20.486
+TR612	Isparta	8.942
+TR613	Burdur	7.134
+TR62	Adana, Mersin	29.251
+TR621	Adana	13.906
+TR622	Mersin	15.345
+TR63	Hatay, Kahramanmaras, Osmaniye	23.297
+TR631	Hatay	5.640
+TR632	Kahramanmaras	14.463
+TR633	Osmaniye	3.194
+TR7	Orta Anadolu	91.644
+TR71	Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir	31.862
+TR711	Kirikkale	4.570
+TR712	Aksaray	7.995
+TR713	Nigde	7.367
+TR714	Nevsehir	5.394
+TR715	Kirsehir	6.536
+TR72	Kayseri, Sivas, Yozgat	59.782
+TR721	Kayseri	17.118
+TR722	Sivas	28.583
+TR723	Yozgat	14.081
+TR8	Bati Karadeniz	74.038
+TR81	Zonguldak, Karabük, Bartin	9.538
+TR811	Zonguldak	3.333
+TR812	Karabük	4.105
+TR813	Bartin	2.100
+TR82	Kastamonu, Çankiri, Sinop	26.497
+TR821	Kastamonu	13.177
+TR822	Çankiri	7.488
+TR823	Sinop	5.832
+TR83	Samsun, Tokat, Çorum, Amasya	38.003
+TR831	Samsun	9.433
+TR832	Tokat	10.072
+TR833	Çorum	12.794
+TR834	Amasya	5.704
+TR9	Dogu Karadeniz	35.058
+TR90	Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane	35.058
+TR901	Trabzon	4.631
+TR902	Ordu	5.902
+TR903	Giresun	6.782
+TR904	Rize	3.936
+TR905	Artvin	7.368
+TR906	Gümüshane	6.439
+TRA	Kuzeydogu Anadolu	70.766
+TRA1	Erzurum, Erzincan, Bayburt	40.818
+TRA11	Erzurum	25.338
+TRA12	Erzincan	11.741
+TRA13	Bayburt	3.739
+TRA2	Agri, Kars, Igdir, Ardahan	29.948
+TRA21	Agri	11.381
+TRA22	Kars	9.959
+TRA23	Igdir	3.483
+TRA24	Ardahan	5.125
+TRB	Ortadogu Anadolu	81.819
+TRB1	Malatya, Elazig, Bingöl, Tunceli	37.339
+TRB11	Malatya	12.110
+TRB12	Elazig	9.339
+TRB13	Bingöl	8.259
+TRB14	Tunceli	7.631
+TRB2	Van, Mus, Bitlis, Hakkari	44.480
+TRB21	Van	20.568
+TRB22	Mus	8.071
+TRB23	Bitlis	8.850
+TRB24	Hakkari	6.991
+TRC	Güneydogu Anadolu	76.078
+TRC1	Gaziantep, Adiyaman, Kilis	15.734
+TRC11	Gaziantep	6.844
+TRC12	Adiyaman	7.529
+TRC13	Kilis	1.361
+TRC2	Sanliurfa, Diyarbakir	34.511
+TRC21	Sanliurfa	19.301
+TRC22	Diyarbakir	15.210
+TRC3	Mardin, Batman, Sirnak, Siirt	25.833
+TRC31	Mardin	8.697
+TRC32	Batman	4.661
+TRC33	Sirnak	6.998
+TRC34	Siirt	5.477

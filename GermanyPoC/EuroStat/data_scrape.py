@@ -6,8 +6,8 @@ import os
 import glob
 import re
 
-input_file = "C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/EuroStat/og_data.xlsx"
-output_file = "C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/EuroStat/data.csv"
+input_file = "C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/EuroStat/Germany14Causes.xlsx"
+output_file = "C:/Users/sevcn/Documents/programming/projects/IAZiOPzZD-private/GermanyPoC/EuroStat/JurijDataGermany14Causes.csv"
 
 # there is only one file called raw_data.xlsx
 # read it in
@@ -55,6 +55,7 @@ with open(output_file, 'w', encoding='utf-8') as f:
 
         # loop through the locations that are on the cells A13:A67
         for i in range(11, 67):
+            print(i)
             location = df[sheet].iloc[i, 0]
             # loop through the years that are on the collumns B:T
             for j in range(1, 20):

@@ -1,0 +1,514 @@
+GEO (Codes)	GEO (Labels)	
+EU27_2020	European Union - 27 countries (from 2020)	446.735.291
+EU28	European Union - 28 countries (2013-2020)	:
+EU27_2007	European Union - 27 countries (2007-2013)	:
+BE	Belgium	11.617.623
+BE1	Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest	1.228.655
+BE10	Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest	1.228.655
+BE2	Vlaams Gewest	6.709.787
+BE21	Prov. Antwerpen	1.890.627
+BE22	Prov. Limburg (BE)	888.913
+BE23	Prov. Oost-Vlaanderen	1.545.469
+BE24	Prov. Vlaams-Brabant	1.173.956
+BE25	Prov. West-Vlaanderen	1.210.822
+BE3	Région wallonne	3.679.181
+BE31	Prov. Brabant wallon	410.619
+BE32	Prov. Hainaut	1.354.667
+BE33	Prov. Liège	1.116.087
+BE34	Prov. Luxembourg (BE)	294.400
+BE35	Prov. Namur	503.408
+BG	Bulgaria	6.838.937
+BG3	Severna i yugoiztochna Bulgaria	3.377.299
+BG31	Severozapaden	702.773
+BG32	Severen tsentralen	750.795
+BG33	Severoiztochen	913.468
+BG34	Yugoiztochen	1.010.263
+BG4	Yugozapadna i yuzhna tsentralna Bulgaria	3.461.638
+BG41	Yugozapaden	2.070.760
+BG42	Yuzhen tsentralen	1.390.878
+CZ	Czechia	10.516.707
+CZ0	Cesko	10.516.707
+CZ01	Praha	1.275.406
+CZ02	Strední Cechy	1.386.824
+CZ03	Jihozápad	1.215.754
+CZ04	Severozápad	1.082.108
+CZ05	Severovýchod	1.494.671
+CZ06	Jihovýchod	1.688.593
+CZ07	Strední Morava	1.195.362
+CZ08	Moravskoslezsko	1.177.989
+DK	Denmark	5.873.420
+DK0	Danmark	5.873.420
+DK01	Hovedstaden	1.867.948
+DK02	Sjælland	843.513
+DK03	Syddanmark	1.228.362
+DK04	Midtjylland	1.341.857
+DK05	Nordjylland	591.740
+DE	Germany (until 1990 former territory of the FRG)	83.237.124
+DE1	Baden-Württemberg	11.124.642
+DE11	Stuttgart	4.150.949
+DE12	Karlsruhe	2.812.482
+DE13	Freiburg	2.285.156
+DE14	Tübingen	1.876.055
+DE2	Bayern	13.176.989
+DE21	Oberbayern	4.729.243
+DE22	Niederbayern	1.253.441
+DE23	Oberpfalz	1.116.741
+DE24	Oberfranken	1.061.929
+DE25	Mittelfranken	1.777.143
+DE26	Unterfranken	1.320.513
+DE27	Schwaben	1.917.979
+DE3	Berlin	3.677.472
+DE30	Berlin	3.677.472
+DE4	Brandenburg	2.537.868
+DE40	Brandenburg	2.537.868
+DE5	Bremen	676.463
+DE50	Bremen	676.463
+DE6	Hamburg	1.853.935
+DE60	Hamburg	1.853.935
+DE7	Hessen	6.295.017
+DE71	Darmstadt	4.026.564
+DE72	Gießen	1.050.765
+DE73	Kassel	1.217.688
+DE8	Mecklenburg-Vorpommern	1.611.160
+DE80	Mecklenburg-Vorpommern	1.611.160
+DE9	Niedersachsen	8.027.031
+DE91	Braunschweig	1.591.424
+DE92	Hannover	2.149.859
+DE93	Lüneburg	1.731.531
+DE94	Weser-Ems	2.554.217
+DEA	Nordrhein-Westfalen	17.924.591
+DEA1	Düsseldorf	5.197.679
+DEA2	Köln	4.472.956
+DEA3	Münster	2.631.237
+DEA4	Detmold	2.057.480
+DEA5	Arnsberg	3.565.239
+DEB	Rheinland-Pfalz	4.106.485
+DEB1	Koblenz	1.503.189
+DEB2	Trier	536.772
+DEB3	Rheinhessen-Pfalz	2.066.524
+DEC	Saarland	982.348
+DEC0	Saarland	982.348
+DED	Sachsen	4.043.002
+DED2	Dresden	1.583.267
+DED4	Chemnitz	1.402.126
+DED5	Leipzig	1.057.609
+DEE	Sachsen-Anhalt	2.169.253
+DEE0	Sachsen-Anhalt	2.169.253
+DEF	Schleswig-Holstein	2.922.005
+DEF0	Schleswig-Holstein	2.922.005
+DEG	Thüringen	2.108.863
+DEG0	Thüringen	2.108.863
+EE	Estonia	1.331.796
+EE0	Eesti	1.331.796
+EE00	Eesti	1.331.796
+IE	Ireland	5.060.004
+IE0	Éire/Ireland	5.060.004
+IE04	Northern and Western	894.601
+IE05	Southern	1.670.658
+IE06	Eastern and Midland	2.494.745
+EL	Greece	10.459.782
+EL3	Attiki	3.806.550
+EL30	Attiki	3.806.550
+EL4	Nisia Aigaiou, Kriti	1.146.379
+EL41	Voreio Aigaio	195.229
+EL42	Notio Aigaio	327.517
+EL43	Kriti	623.633
+EL5	Voreia Ellada	2.924.672
+EL51	Anatoliki Makedonia, Thraki	560.826
+EL52	Kentriki Makedonia	1.790.686
+EL53	Dytiki Makedonia	253.954
+EL54	Ipeiros	319.206
+EL6	Kentriki Ellada	2.582.181
+EL61	Thessalia	686.344
+EL62	Ionia Nisia	204.081
+EL63	Dytiki Ellada	646.621
+EL64	Sterea Ellada	507.072
+EL65	Peloponnisos	538.063
+ES	Spain	47.432.893
+ES1	Noroeste (ES)	4.282.058
+ES11	Galicia	2.691.456
+ES12	Principado de Asturias	1.006.234
+ES13	Cantabria	584.368
+ES2	Noreste (ES)	4.466.148
+ES21	País Vasco	2.176.918
+ES22	Comunidad Foral de Navarra	659.155
+ES23	La Rioja	315.916
+ES24	Aragón	1.314.159
+ES3	Comunidad de Madrid	6.769.373
+ES30	Comunidad de Madrid	6.769.373
+ES4	Centro (ES)	5.479.984
+ES41	Castilla y León	2.376.687
+ES42	Castilla-la Mancha	2.049.980
+ES43	Extremadura	1.053.317
+ES5	Este (ES)	13.975.722
+ES51	Cataluña	7.679.192
+ES52	Comunitat Valenciana	5.072.550
+ES53	Illes Balears	1.223.980
+ES6	Sur (ES)	10.207.371
+ES61	Andalucía	8.519.106
+ES62	Región de Murcia	1.522.516
+ES63	Ciudad de Ceuta	82.513
+ES64	Ciudad de Melilla	83.236
+ES7	Canarias	2.252.237
+ES70	Canarias	2.252.237
+FR	France	67.871.925
+FR1	Île de France	12.329.432
+FR10	Île de France	12.329.432
+FRB	Centre - Val de Loire	2.572.636
+FRB0	Centre - Val de Loire	2.572.636
+FRC	Bourgogne - Franche-Comté	2.791.006
+FRC1	Bourgogne	1.614.708
+FRC2	Franche-Comté	1.176.298
+FRD	Normandie	3.319.743
+FRD1	Basse-Normandie	1.468.032
+FRD2	Haute-Normandie	1.851.711
+FRE	Hauts-de-France	5.985.483
+FRE1	Nord-Pas-de-Calais	4.063.753
+FRE2	Picardie	1.921.730
+FRF	Grand Est	5.561.482
+FRF1	Alsace	1.930.273
+FRF2	Champagne-Ardenne	1.312.778
+FRF3	Lorraine	2.318.431
+FRG	Pays-de-la-Loire	3.882.895
+FRG0	Pays-de-la-Loire	3.882.895
+FRH	Bretagne	3.412.207
+FRH0	Bretagne	3.412.207
+FRI	Nouvelle-Aquitaine	6.086.584
+FRI1	Aquitaine	3.534.811
+FRI2	Limousin	722.658
+FRI3	Poitou-Charentes	1.829.115
+FRJ	Occitanie	6.060.331
+FRJ1	Languedoc-Roussillon	2.917.252
+FRJ2	Midi-Pyrénées	3.143.079
+FRK	Auvergne - Rhône-Alpes	8.156.391
+FRK1	Auvergne	1.371.196
+FRK2	Rhône-Alpes	6.785.195
+FRL	Provence-Alpes-Côte d'Azur	5.139.817
+FRL0	Provence-Alpes-Côte d'Azur	5.139.817
+FRM	Corse	348.830
+FRM0	Corse	348.830
+FRY	RUP FR - Régions ultrapériphériques françaises	2.225.088
+FRY1	Guadeloupe	407.810
+FRY2	Martinique	352.205
+FRY3	Guyane	296.058
+FRY4	La Réunion	869.993
+FRY5	Mayotte	299.022
+FRX	Not regionalised/Unknown NUTS 1	:
+FRXX	Not regionalised/Unknown NUTS 2	:
+HR	Croatia	3.862.305
+HR0	Hrvatska	3.862.305
+HR02	Panonska Hrvatska	1.013.572
+HR03	Jadranska Hrvatska	1.296.210
+HR04	Kontinentalna Hrvatska (NUTS 2016)	:
+HR05	Grad Zagreb	766.824
+HR06	Sjeverna Hrvatska	785.699
+IT	Italy	59.030.133
+ITC	Nord-Ovest	15.831.941
+ITC1	Piemonte	4.256.350
+ITC2	Valle d'Aosta/Vallée d'Aoste	123.360
+ITC3	Liguria	1.509.227
+ITC4	Lombardia	9.943.004
+ITH	Nord-Est	11.541.332
+ITH1	Provincia Autonoma di Bolzano/Bozen	532.616
+ITH2	Provincia Autonoma di Trento	540.958
+ITH3	Veneto	4.847.745
+ITH4	Friuli-Venezia Giulia	1.194.647
+ITH5	Emilia-Romagna	4.425.366
+ITI	Centro (IT)	11.724.035
+ITI1	Toscana	3.663.191
+ITI2	Umbria	858.812
+ITI3	Marche	1.487.150
+ITI4	Lazio	5.714.882
+ITF	Sud	13.512.083
+ITF1	Abruzzo	1.275.950
+ITF2	Molise	292.150
+ITF3	Campania	5.624.420
+ITF4	Puglia	3.922.941
+ITF5	Basilicata	541.168
+ITF6	Calabria	1.855.454
+ITG	Isole	6.420.742
+ITG1	Sicilia	4.833.329
+ITG2	Sardegna	1.587.413
+CY	Cyprus	904.705
+CY0	Kypros	904.705
+CY00	Kypros	904.705
+LV	Latvia	1.875.757
+LV0	Latvija	1.875.757
+LV00	Latvija	1.875.757
+LT	Lithuania	2.805.998
+LT0	Lietuva	2.805.998
+LT01	Sostines regionas	817.950
+LT02	Vidurio ir vakaru Lietuvos regionas	1.988.048
+LU	Luxembourg	645.397
+LU0	Luxembourg	645.397
+LU00	Luxembourg	645.397
+HU	Hungary	9.689.010
+HU1	Közép-Magyarország	3.031.887
+HU11	Budapest	1.706.851
+HU12	Pest	1.325.036
+HU2	Dunántúl	2.917.713
+HU21	Közép-Dunántúl	1.056.295
+HU22	Nyugat-Dunántúl	997.119
+HU23	Dél-Dunántúl	864.299
+HU3	Alföld és Észak	3.739.410
+HU31	Észak-Magyarország	1.102.064
+HU32	Észak-Alföld	1.423.751
+HU33	Dél-Alföld	1.213.595
+HUX	Not regionalised/Unknown NUTS 1	:
+HUXX	Not regionalised/Unknown NUTS 2	:
+MT	Malta	520.971
+MT0	Malta	520.971
+MT00	Malta	520.971
+NL	Netherlands	17.590.672
+NL1	Noord-Nederland	1.741.932
+NL11	Groningen	590.170
+NL12	Friesland (NL)	654.019
+NL13	Drenthe	497.743
+NL2	Oost-Nederland	3.717.153
+NL21	Overijssel	1.171.910
+NL22	Gelderland	2.110.472
+NL23	Flevoland	434.771
+NL3	West-Nederland	8.420.411
+NL31	Utrecht	1.369.873
+NL32	Noord-Holland	2.909.827
+NL33	Zuid-Holland	3.753.944
+NL34	Zeeland	386.767
+NL4	Zuid-Nederland	3.711.176
+NL41	Noord-Brabant	2.592.874
+NL42	Limburg (NL)	1.118.302
+AT	Austria	8.978.929
+AT1	Ostösterreich	3.927.972
+AT11	Burgenland (AT)	297.583
+AT12	Niederösterreich	1.698.796
+AT13	Wien	1.931.593
+AT2	Südösterreich	1.817.435
+AT21	Kärnten	564.513
+AT22	Steiermark	1.252.922
+AT3	Westösterreich	3.233.522
+AT31	Oberösterreich	1.505.140
+AT32	Salzburg	562.606
+AT33	Tirol	764.102
+AT34	Vorarlberg	401.674
+PL	Poland	37.654.247
+PL2	Makroregion Poludniowy	7.782.639
+PL21	Malopolskie	3.368.893
+PL22	Slaskie	4.413.746
+PL4	Makroregion Pólnocno-Zachodni	6.113.303
+PL41	Wielkopolskie	3.471.812
+PL42	Zachodniopomorskie	1.652.230
+PL43	Lubuskie	989.261
+PL5	Makroregion Poludniowo-Zachodni	3.774.014
+PL51	Dolnoslaskie	2.845.944
+PL52	Opolskie	928.070
+PL6	Makroregion Pólnocny	5.726.607
+PL61	Kujawsko-Pomorskie	2.027.014
+PL62	Warminsko-Mazurskie	1.380.968
+PL63	Pomorskie	2.318.625
+PL7	Makroregion Centralny	3.601.331
+PL71	Lódzkie	2.404.078
+PL72	Swietokrzyskie	1.197.253
+PL8	Makroregion Wschodni	5.258.331
+PL81	Lubelskie	2.055.257
+PL82	Podkarpackie	2.067.289
+PL84	Podlaskie	1.135.785
+PL9	Makroregion Województwo Mazowieckie	5.398.022
+PL91	Warszawski stoleczny	3.108.755
+PL92	Mazowiecki regionalny	2.289.267
+PT	Portugal	10.352.042
+PT1	Continente	9.864.372
+PT11	Norte	3.587.882
+PT15	Algarve	465.701
+PT16	Centro (PT)	2.235.752
+PT17	Área Metropolitana de Lisboa	2.869.627
+PT18	Alentejo	705.410
+PT2	Região Autónoma dos Açores (PT)	236.488
+PT20	Região Autónoma dos Açores (PT)	236.488
+PT3	Região Autónoma da Madeira (PT)	251.182
+PT30	Região Autónoma da Madeira (PT)	251.182
+RO	Romania	19.042.455
+RO1	Macroregiunea unu	4.796.893
+RO11	Nord-Vest	2.523.549
+RO12	Centru	2.273.344
+RO2	Macroregiunea doi	5.583.443
+RO21	Nord-Est	3.221.819
+RO22	Sud-Est	2.361.624
+RO3	Macroregiunea trei	5.123.077
+RO31	Sud - Muntenia	2.854.809
+RO32	Bucuresti - Ilfov	2.268.268
+RO4	Macroregiunea patru	3.539.042
+RO41	Sud-Vest Oltenia	1.869.563
+RO42	Vest	1.669.479
+SI	Slovenia	2.107.180
+SI0	Slovenija	2.107.180
+SI03	Vzhodna Slovenija	1.103.787
+SI04	Zahodna Slovenija	1.003.393
+SK	Slovakia	5.434.712
+SK0	Slovensko	5.434.712
+SK01	Bratislavský kraj	723.714
+SK02	Západné Slovensko	1.812.542
+SK03	Stredné Slovensko	1.310.511
+SK04	Východné Slovensko	1.587.945
+FI	Finland	5.548.241
+FI1	Manner-Suomi	5.517.897
+FI19	Länsi-Suomi	1.382.245
+FI1B	Helsinki-Uusimaa	1.714.741
+FI1C	Etelä-Suomi	1.146.312
+FI1D	Pohjois- ja Itä-Suomi	1.274.599
+FI2	Åland	30.344
+FI20	Åland	30.344
+SE	Sweden	10.452.326
+SE1	Östra Sverige	4.167.429
+SE11	Stockholm	2.415.139
+SE12	Östra Mellansverige	1.752.290
+SE2	Södra Sverige	4.525.044
+SE21	Småland med öarna	878.580
+SE22	Sydsverige	1.561.362
+SE23	Västsverige	2.085.102
+SE3	Norra Sverige	1.759.853
+SE31	Norra Mellansverige	859.350
+SE32	Mellersta Norrland	376.247
+SE33	Övre Norrland	524.256
+EFTA	European Free Trade Association	:
+IS	Iceland	376.248
+IS0	Ísland	376.248
+IS00	Ísland	376.248
+LI	Liechtenstein	39.308
+LI0	Liechtenstein	39.308
+LI00	Liechtenstein	39.308
+NO	Norway	5.425.270
+NO0	Norge	5.425.270
+NO01	Oslo og Akershus (statistical region 2016)	:
+NO02	Innlandet	371.253
+NO03	Sør-Østlandet (statistical region 2016)	:
+NO04	Agder og Rogaland (statistical region 2016)	:
+NO05	Vestlandet (statistical region 2016)	:
+NO06	Trøndelag	474.131
+NO07	Nord-Norge	481.926
+NO08	Oslo og Viken	1.969.057
+NO09	Agder og Sør-Østlandet	735.966
+NO0A	Vestlandet	1.392.937
+NO0B	Jan Mayen and Svalbard	0
+CH	Switzerland	8.738.791
+CH0	Schweiz/Suisse/Svizzera	8.738.791
+CH01	Région lémanique	1.685.625
+CH02	Espace Mittelland	1.907.491
+CH03	Nordwestschweiz	1.191.939
+CH04	Zürich	1.564.662
+CH05	Ostschweiz	1.203.715
+CH06	Zentralschweiz	833.178
+CH07	Ticino	352.181
+UK	United Kingdom	:
+UKC	North East (UK)	:
+UKC1	Tees Valley and Durham	:
+UKC2	Northumberland and Tyne and Wear	:
+UKD	North West (UK)	:
+UKD1	Cumbria	:
+UKD3	Greater Manchester	:
+UKD4	Lancashire	:
+UKD6	Cheshire	:
+UKD7	Merseyside	:
+UKE	Yorkshire and The Humber	:
+UKE1	East Yorkshire and Northern Lincolnshire	:
+UKE2	North Yorkshire	:
+UKE3	South Yorkshire	:
+UKE4	West Yorkshire	:
+UKF	East Midlands (UK)	:
+UKF1	Derbyshire and Nottinghamshire	:
+UKF2	Leicestershire, Rutland and Northamptonshire	:
+UKF3	Lincolnshire	:
+UKG	West Midlands (UK)	:
+UKG1	Herefordshire, Worcestershire and Warwickshire	:
+UKG2	Shropshire and Staffordshire	:
+UKG3	West Midlands	:
+UKH	East of England	:
+UKH1	East Anglia	:
+UKH2	Bedfordshire and Hertfordshire	:
+UKH3	Essex	:
+UKI	London	:
+UKI3	Inner London - West	:
+UKI4	Inner London - East	:
+UKI5	Outer London - East and North East	:
+UKI6	Outer London - South	:
+UKI7	Outer London - West and North West	:
+UKJ	South East (UK)	:
+UKJ1	Berkshire, Buckinghamshire and Oxfordshire	:
+UKJ2	Surrey, East and West Sussex	:
+UKJ3	Hampshire and Isle of Wight	:
+UKJ4	Kent	:
+UKK	South West (UK)	:
+UKK1	Gloucestershire, Wiltshire and Bristol/Bath area	:
+UKK2	Dorset and Somerset	:
+UKK3	Cornwall and Isles of Scilly	:
+UKK4	Devon	:
+UKL	Wales	:
+UKL1	West Wales and The Valleys	:
+UKL2	East Wales	:
+UKM	Scotland	:
+UKM5	North Eastern Scotland	:
+UKM6	Highlands and Islands	:
+UKM7	Eastern Scotland	:
+UKM8	West Central Scotland	:
+UKM9	Southern Scotland	:
+UKN	Northern Ireland (UK)	:
+UKN0	Northern Ireland (UK)	:
+ME	Montenegro	617.683
+ME0	Crna Gora	617.683
+ME00	Crna Gora	617.683
+MK	North Macedonia	1.837.114
+MK0	Severna Makedonija	1.837.114
+MK00	Severna Makedonija	1.837.114
+MKX	Not regionalised/Unknown level 1	:
+MKXX	Not regionalised/Unknown level 2	:
+AL	Albania	:
+AL0	Shqipëria	:
+AL01	Veri	:
+AL02	Qender	:
+AL03	Jug	:
+ALX	Not regionalised/Unknown level 1	:
+ALXX	Not regionalised/Unknown level 2	:
+RS	Serbia	6.797.105
+RS1	Srbija - sever	3.502.101
+RS11	Beogradski region	1.684.567
+RS12	Region Vojvodine	1.817.534
+RS2	Srbija - jug	3.295.004
+RS21	Region Sumadije i Zapadne Srbije	1.854.641
+RS22	Region Juzne i Istocne Srbije	1.440.363
+TR	Türkiye	:
+TR1	Istanbul	:
+TR10	Istanbul	:
+TR2	Bati Marmara	:
+TR21	Tekirdag, Edirne, Kirklareli	:
+TR22	Balikesir, Çanakkale	:
+TR3	Ege	:
+TR31	Izmir	:
+TR32	Aydin, Denizli, Mugla	:
+TR33	Manisa, Afyonkarahisar, Kütahya, Usak	:
+TR4	Dogu Marmara	:
+TR41	Bursa, Eskisehir, Bilecik	:
+TR42	Kocaeli, Sakarya, Düzce, Bolu, Yalova	:
+TR5	Bati Anadolu	:
+TR51	Ankara	:
+TR52	Konya, Karaman	:
+TR6	Akdeniz	:
+TR61	Antalya, Isparta, Burdur	:
+TR62	Adana, Mersin	:
+TR63	Hatay, Kahramanmaras, Osmaniye	:
+TR7	Orta Anadolu	:
+TR71	Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir	:
+TR72	Kayseri, Sivas, Yozgat	:
+TR8	Bati Karadeniz	:
+TR81	Zonguldak, Karabük, Bartin	:
+TR82	Kastamonu, Çankiri, Sinop	:
+TR83	Samsun, Tokat, Çorum, Amasya	:
+TR9	Dogu Karadeniz	:
+TR90	Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane	:
+TRA	Kuzeydogu Anadolu	:
+TRA1	Erzurum, Erzincan, Bayburt	:
+TRA2	Agri, Kars, Igdir, Ardahan	:
+TRB	Ortadogu Anadolu	:
+TRB1	Malatya, Elazig, Bingöl, Tunceli	:
+TRB2	Van, Mus, Bitlis, Hakkari	:
+TRC	Güneydogu Anadolu	:
+TRC1	Gaziantep, Adiyaman, Kilis	:
+TRC2	Sanliurfa, Diyarbakir	:
+TRC3	Mardin, Batman, Sirnak, Siirt	:
