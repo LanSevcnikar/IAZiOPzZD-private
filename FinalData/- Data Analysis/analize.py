@@ -39,6 +39,24 @@ output_label.pack()
 control_label = tk.Label(window, text="Select Control Variables:")
 control_label.pack()
 
+# for each possible input variable and for each possible output variable, print the partial correlation
+with open('correlations.txt', 'a') as f:
+    data = []
+    for input_variable in df.columns[df.columns.str.startswith("1 - ")]:
+        for output_variable in df.columns[df.columns.str.startswith("3 - ")]:
+            control_variables = ['2 - Euro per inhabitant']
+            temp_df = df.dropna(subset=[input_variable] + control_variables + [output_variable])
+            print(f"Number of rows: {len(temp_df)}")
+            correlation = pg.partial_corr(data=temp_df, x=input_variable, y=output_variable, method='pearson', covar=control_variables)['r'][0]
+            # calculate the statistical significance of the partial correlation
+            output = (f"Partial correlation between {input_variable} and {output_variable}: {correlation} with r2 of ???\n")
+            data += [(correlation, output)]
+    sorted_data = sorted(data, key = lambda x: x[0])
+    for d in sorted_data:
+        f.write(d[1])
+
+
+
 print(df.columns[df.columns.str.startswith("1 - ")])
 
 # Variable selection comboboxes
