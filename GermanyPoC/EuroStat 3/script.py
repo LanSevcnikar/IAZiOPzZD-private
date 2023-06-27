@@ -65,7 +65,7 @@ data = [i for i in data if i[1] != data[0][1]]
 # remove all data where the value before last is more than 1000
 data = [i for i in data if int(i[-2]) < 10000]
 # remove all data where the last value is more than 4000000
-data = [i for i in data if int(i[-1]) < 5000000]
+data = [i for i in data if int(i[-1]) < 10000000]
 
 # write to csv
 with open('data.csv', 'w', encoding='utf-8') as f2:
