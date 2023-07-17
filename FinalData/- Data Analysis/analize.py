@@ -101,9 +101,22 @@ def calculate_correlation(df):
     partial_corr = pg.partial_corr(data=df, x=input_variables[0], y=output_variables[0], covar=control_variables, method='pearson')['r'][0]
     print(f"Partial correlation between death_rate and pollution_level controlling for {control_variables}: ", partial_corr)
 
+    pollutant = input_variables[0].split(" - ")[1]
+    death_rate = output_variables[0].split(" - ")[1]
+
     # Visualize the data, only the input and output
     sns.pairplot(df, x_vars=input_variables, y_vars=output_variables, height=5, aspect=1, kind='reg')
+    # change the title of the plot
+    plt.title(f"Partial correlation between {pollutant} and {death_rate} controlling for {control_variables[0]}")
+    # change the axis
+
     
+    # output the equation of the regression line
+    print(f"Regression line: {death_rate} = {partial_corr} * {pollutant} + ???")
+
+    plt.xlabel(f"{pollutant} (µg/m3)")
+    plt.ylabel(f"{death_rate} (Standardized rate)")
+
     # beneath the plot, write the partial correlation
     plt.figtext(0.5, 0.01, f"Partial correlation between {input_variables[0]} and {output_variables[0]} controlling for {control_variables}: {partial_corr}", wrap=True, horizontalalignment='center', fontsize=12)
 

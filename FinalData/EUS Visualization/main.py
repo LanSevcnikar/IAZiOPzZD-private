@@ -126,7 +126,7 @@ for i in range(len(cities)):
         rows = find_nuts(city_geo['latitude'], city_geo['longitude'])
         # print(len(rows), city_geo['name'], city_geo['country'],city_temp[0], city_temp[1], city_geo['latitude'], city_geo['longitude'])
         for row in rows:
-            data.append([row['LEVL_CODE'], row['NUTS_ID'], city_temp[0], city_temp[1], city_geo['latitude'], city_geo['longitude']])
+            data.append([row['LEVL_CODE'], row['NUTS_ID'], city_temp[0], unidecode(city_temp[1]), city_geo['latitude'], city_geo['longitude']])
         break
 
 df = pd.DataFrame(data)

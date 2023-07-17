@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from unidecode import unidecode
 
 nuts_all_values = {}
 nuts_avg_values = {}
@@ -20,17 +21,21 @@ for pollutant in ["1", "5", "7", "8", "10", "38"]:
 
 
     combined_data = pd.read_csv(f"combined-{pollutant}.csv", encoding='utf-8', sep=';')
+    # unicode decode all City 
+    combined_data["City"] = combined_data["City"].apply(unidecode)
     # find all the unique cities
     cities = combined_data["City"].unique()
+    for i in range(len(cities)):
+        cities[i] = unidecode(cities[i])
 
     city_to_nuts = {}
-    cities_to_NUTS = pd.read_csv(f"../EUS Visualization/cities_eus.csv", encoding='utf-8', sep=';')
+    cities_to_NUTS = pd.read_csv(f"../EUS Visualization/cities_nuts.csv", encoding='utf-8', sep=';')
     
     print("Both cities and cities_to_NUTS have been read")
 
     i = 0
     while i < len(cities):
-        city = cities[i]
+        city = (cities[i])
         i += 1
         # find all the rows with name same and level 2
         rows = cities_to_NUTS.loc[(cities_to_NUTS['name'] == city) & (cities_to_NUTS['NUTS level'] == 2)]
@@ -48,6 +53,10 @@ for pollutant in ["1", "5", "7", "8", "10", "38"]:
         nuts_all_values[city_to_nuts[city]] = []
         nuts_avg_values[city_to_nuts[city]] = -1
 
+    print("NUTS all values and NUTS avg values have been created")
+
+
+
     for index, row in combined_data.iterrows():
         try:
             value = float(row["Concentration"])
@@ -61,7 +70,7 @@ for pollutant in ["1", "5", "7", "8", "10", "38"]:
             quit()
             continue
 
-    
+    print("NUTS all values has been populated")
 
     for city in cities:
         sum = 0
@@ -72,10 +81,14 @@ for pollutant in ["1", "5", "7", "8", "10", "38"]:
             sum += float(value)
             count += 1
 
-        avg = sum / count
+        try:    
+            avg = sum / count
+        except ZeroDivisionError:
+            avg = -1
+            print("Zero Division Error")
         nuts_avg_values[city_to_nuts[city]] = avg
         
         output_data.append([city_to_nuts[city], city, avg, pollutant_dict[pollutant], count, len(nuts_all_values[city_to_nuts[city]]), "µg/m3"])
- 
+    
     df = pd.DataFrame(output_data)
     df.to_csv(f"pollutants_temp.csv", index=False, encoding='utf-8', sep=';')

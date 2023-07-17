@@ -1,56 +1,56 @@
 Albania
  Albania Shqipëria 
-English name	Endonym	Notes
-Name	Language
-Durazzo	Durrës	Albanian	Italian name.
+English 	Endonym	Notes
+	Language
+Durazzo	Durrës	Albanian	Italian .
 Tirana	Tiranë	Albanian	Tirana is Albanian for "the Tirana"
 Algeria
- Algeria Al-Jazā'ir (الجزائر) 
-English name	Endonym	Notes
-Name	Language
-Algiers	Al-Jazā'ir (الجَزائر)	Standard Arabic	
-Constantine	Qusanṭīnah (قسنطينة)	Standard Arabic	
-Oran	Wahrān (وَهران)	Standard Arabic	
+ Algeria Al-Jazā'ir  
+English 	Endonym	Notes
+	Language
+Algiers	Al-Jazā'ir 	Standard Arabic	
+Constantine	Qusanṭīnah 	Standard Arabic	
+Oran	Wahrān 	Standard Arabic	
 Armenia
- Armenia Hayastan (Հայաստան) 
-English name	Endonym	Notes
-Name	Language
-Ararat Plain	Araratyan dasht (Արարատյան դաշտ)	Armenian	
+ Armenia Hayastan  
+English 	Endonym	Notes
+	Language
+Ararat Plain	Araratyan dasht 	Armenian	
 Iğdır Ovası	Turkish	
-Yerevan	Erevan (Երևան/ Երեւան)	Armenian	Armenian place pronounced like English name
+Yerevan	Erevan 	Armenian	Armenian place pronounced like English 
 Australia
-Several places in Australia have additional names in various Aboriginal languages.
+Several places in Australia have additional s in various Aboriginal languages.
 
  Australia 
-English name	Endonym	Notes
-Name	Language
-Ayers Rock	Uluru	Pitjantjatjara	Dated
-Rose Hill	Parramatta	Dharug	Archaic
+English 	Endonym	Notes
+	Language
+Ayers Rock	Uluru	Pitjantjatjara	
+Rose Hill	Parramatta	Dharug	
 Tasmania	Lutruwita	Nuenonne / Palawa kani	
 Austria
-See also: List of English exonyms for German toponyms
+See also: List of English exonyms for  toponyms
  Austria Österreich 
-English name	Endonym	Notes
-Name	Language
-Ammergau Alps	Ammergebirge[4]	German	
-Bavarian Prealps	Bayerische Voralpen[4]	German	
-Brenner Pass	Brennerpass[4]	German	
-Carinthia	Kärnten[5][4]	German	
-Carpathian Basin	Karpatenbecken[4]	German	
-Danube river	Donau[5]	German	
-Drava	Drau[4]	German	
-Drave	Drau[4]	German	Dated
-Lake Constance	Bodensee[5][4]	German	
-Northern Limestone Alps	Nördliche Kalkalpen[4]	German	
-Southern Limestone Alps	Südliche Kalkalpen[4]	German	
-Styria	Steiermark[5][4]	German	
-Tyrol	Tirol[4]	German	
-Vienna	Wien[5]	German	
-Wetterstein	Wettersteingebirge[4]	German	
+English 	Endonym	Notes
+	Language
+Ammergau Alps	Ammergebirge[4]		
+Bavarian Prealps	Bayerische Voralpen[4]		
+Brenner Pass	Brennerpass[4]		
+Carinthia	Kärnten[5][4]		
+Carpathian Basin	Karpatenbecken[4]		
+Danube river	Donau[5]		
+Drava	Drau[4]		
+Drave	Drau[4]		
+Lake Constance	Bodensee[5][4]		
+Northern Limestone Alps	Nördliche Kalkalpen[4]		
+Southern Limestone Alps	Südliche Kalkalpen[4]		
+Styria	Steiermark[5][4]		
+Tyrol	Tirol[4]		
+Vienna	Wien[5]		
+Wetterstein	Wettersteingebirge[4]		
 Azerbaijan
  Azerbaijan Azərbaycan 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Baku	Bakı	Azeri	
 Barda	Bərdə	Azeri	
 Caucasus	Qafqaz	Azeri	
@@ -58,169 +58,169 @@ Ganja	Gəncə	Azeri
 Lachin	Laçın	Azeri	
 Sumgait	Sumqayıt	Azeri	
 Belgium
-Historically, English borrowed French names for many places in Dutch-speaking areas of Belgium. With a few exceptions this practice is no longer followed by most sources.[6]
+Historically English borrowed  s for many places in Dutch-speaking areas of Belgium. With a few exceptions this practice is no longer foled by most sources.[6]
 
  Belgium België/ Belgique 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Antwerp	Antwerpen	Dutch	
-Bruges	Brugge	Dutch	French name
+Bruges	Brugge	Dutch	 
 Brussels	Brussel	Dutch	
-Bruxelles	French	
-Courtrai	Kortrijk	Dutch	Archaic, French name
-Filford	Vilvoorde	Dutch	Archaic
+Bruxelles		
+Courtrai	Kortrijk	Dutch	  
+Filford	Vilvoorde	Dutch	
 Flanders	Vlaanderen	Dutch	
-Gaunt	Gent	Dutch	Archaic
+Gaunt	Gent	Dutch	
 Ghent	Gent	Dutch	
-Louvain	Leuven	Dutch	Archaic, French name
-Mechlin	Mechelen	Dutch	Archaic
+Louvain	Leuven	Dutch	  
+Mechlin	Mechelen	Dutch	
 Ostend	Oostende	Dutch	
-Wallonia	Wallonie	French	
-Ypres	Ieper	Dutch	French name
+Wallonia	Wallonie		
+Ypres	Ieper	Dutch	 
 Bosnia & Herzegovina
- Bosnia & Herzegovina Bosna & Hercegovina (Босна & Херцеговина) 
-English name	Endonym	Notes
-Name	Language
-Bosnia	Bosna (Босна)	Bosnian	
-Herzegovina	Hercegovina (Херцеговина)	Bosnian	German spelling, English name pronounced the same
-Narenta	Neretva (Неретва)	Bosnian	Italian name, sometimes used in English
+ Bosnia & Herzegovina Bosna & Hercegovina  
+English 	Endonym	Notes
+	Language
+Bosnia	Bosna 	Bosnian	
+Herzegovina	Hercegovina 	Bosnian	 spelling English  pronounced the same
+Narenta	Neretva 	Bosnian	Italian  sometimes used in English
 Bulgaria
- Bulgaria Balgariya (България) 
-English name	Endonym	Notes
-Name	Language
-Balkan Mountains	Stara Planina (Стара Планина)	Bulgarian	
-Danube river	Dunav (Дунав)	Bulgarian	
-Philippopolis	Plovdiv (Пловдив)	Bulgarian	Archaic
-Rhodope Mountains	Rodopi (Родопи)	Bulgarian	
-Sofia	Sofiya (София)	Bulgarian	
-Southern Dobruja	Dobrudzha (Добруджа)	Bulgarian	Bulgarian half of former Dobruja region
-Thrace	Trakiya (Тракия)	Bulgarian	
+ Bulgaria Balgariya  
+English 	Endonym	Notes
+	Language
+Balkan Mountains	Stara Planina 	Bulgarian	
+Danube river	Dunav 	Bulgarian	
+Philippopolis	Plovdiv 	Bulgarian	
+Rhodope Mountains	Rodopi 	Bulgarian	
+Sofia	Sofiya 	Bulgarian	
+Southern Dobruja	Dobrudzha 	Bulgarian	Bulgarian half of former Dobruja region
+Thrace	Trakiya 	Bulgarian	
 Canada
-Numerous places in the predominantly French speaking province of Quebec have historically had English exonyms; in most cases, the exonym was a straight translation of the place's French name, with only one major city which ever had an English exonym that was entirely different from its original French name. With a few exceptions, such as Quebec City, these are no longer widely used. Exonyms are also commonly seen with regard to First Nations and Inuit peoples and communities; although government and media sources have evolved in recent years toward using these places' native endonyms, common usage may still favour the older exonyms.
+Numerous places in the predominantly  speaking province of Quebec have historically had English exonyms; in most cases the exonym was a straight translation of the place's   with only one major city which ever had an English exonym that was entirely different from its original  . With a few exceptions such as Quebec City these are no longer widely used. Exonyms are also commonly seen with regard to First Nations and Inuit peoples and communities; although government and media sources have evolved in recent years toward using these places' native endonyms common usage may still favour the older exonyms.
 
  Canada 
-English name	Endonym	Notes
-Name	Language
-Arctic Red River	Tsiigehtchic	Gwich'in	Archaic
+English 	Endonym	Notes
+	Language
+Arctic Red River	Tsiigehtchic	Gwich'in	
 Big Trout Lake	Kitchenuhmaykoosib	Oji-Cree	
 Cambridge Bay	Iqaluktuuttiaq	Inuinnaqtun	
-Chesterfield Inlet	Igluligaarjuk (ᐃᒡᓗᓕᒑᕐᔪᒃ)	Inuktitut	
-Fort Franklin	Délįnę	Sahtu	Archaic
+Chesterfield Inlet	Igluligaarjuk 	Inuktitut	
+Fort Franklin	Délįnę	Sahtu	
 Fort Hope	Eabametoong	Ojibwe	
-Fort Norman	Tulita	Sahtu	Archaic
-Fraserville	Rivière-du-Loup	French	Archaic
-Frobisher Bay	Iqaluit (ᐃᖃᓗᐃᑦ)	Inuktitut	Archaic
-Gjoa Haven	Uqsuqtuuq (ᐅᖅᓱᖅᑑᖅ)	Inuktitut	
-Holman	Ulukhaktok	Inuinnaqtun	Archaic
-Harrington Lake	Lac Mousseau	French	
-Iroquois River	Rivière Richelieu	French	Archaic
-Island of Orleans	Île d'Orléans	French	
+Fort Norman	Tulita	Sahtu	
+Fraserville	Rivière-du-Loup		
+Frobisher Bay	Iqaluit 	Inuktitut	
+Gjoa Haven	Uqsuqtuuq 	Inuktitut	
+Holman	Ulukhaktok	Inuinnaqtun	
+Harrington Lake	Lac Mousseau		
+Iroquois River	Rivière Richelieu		
+Island of Orleans	Île d'Orléans		
 Lansdowne House	Neskantaga	Oji-Cree	
-Mount Royal	Mont-Royal	French	
-Quebec City	Québec	French	
-Queen Charlotte Island	Haida Gwaii	Haida	Archaic
-Rankin Inlet	Kangiqliniq (ᑲᖏᕿᓂᖅ)	Inuktitut	
-Saint Andrew	Saint-André-d'Argenteuil	French	Archaic
-Saint John	Saint-Jean-sur-Richelieu	French	Archaic
-Summer Beaver	Nibinamik (ᓃᐱᓇᒥᐦᐠ)	Ojibwe	
-The River Ouse	La Rivière Grand	French	Archaic
+Mount Royal	Mont-Royal		
+Quebec City	Québec		
+Queen Charlotte Island	Haida Gwaii	Haida	
+Rankin Inlet	Kangiqliniq 	Inuktitut	
+Saint Andrew	Saint-André-d'Argenteuil		
+Saint John	Saint-Jean-sur-Richelieu		
+Summer Beaver	Nibinamik 	Ojibwe	
+The River Ouse	La Rivière Grand		
 Kenhionhata:tie	Mohawk	
-Three Rivers	Trois-Rivières	French	Archaic
-Two Mountains	Deux-Montagnes	French	Archaic
-Whale Cove	Tikiraqjuaq (ᑎᑭᕋᕐᔪᐊᖅ)	Inuktitut	
+Three Rivers	Trois-Rivières		
+Two Mountains	Deux-Montagnes		
+Whale Cove	Tikiraqjuaq 	Inuktitut	
 Cambodia
-During the Khmer Rogue period (1975–1979), the country was known in English as Democratic Kampuchea, closer to the endonym than its modern English exonym. The English exonym of Cambodia is based on the French exonym, Cambodge. The endonym is sometimes used in English, but the exonym is far more common.
+During the Khmer Rogue period  the country was known in English as Democratic Kampuchea closer to the endonym than its modern English exonym. The English exonym of Cambodia is based on the  exonym Cambodge. The endonym is sometimes used in English but the exonym is far more common.
 
- Cambodia Kampuchea (កម្ពុជា) 
-English name	Endonym	Notes
-Name	Language
-Mekong River	Tonle Mekongk (ទន្លេមេគង្គ)	Khmer	
-Sihanoukville	Krong Preah Sihanouk (ក្រុងព្រះសីហនុ)	Khmer	
-Kampong Som (កំពង់សោម)	Khmer	
+ Cambodia Kampuchea  
+English 	Endonym	Notes
+	Language
+Mekong River	Tonle Mekongk 	Khmer	
+Sihanoukville	Krong Preah Sihanouk 	Khmer	
+Kampong Som 	Khmer	
 Chile
  Chile 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Easter Island	Isla de Pascua	Spanish	
 Rapa Nui	Rapa Nui	
 Fireland[7]	Tierra del Fuego	Spanish	Obsolete
 China
 
-This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (May 2023) (Learn how and when to remove this template message)
-Some of the apparent "exonyms" for China are the result of change in romanization of Chinese to modern pinyin, for example "Tientsin" to "Tianjin". Other apparent exonyms are the result of the English name being based on one of the other varieties of Chinese besides Mandarin. Additionally, certain names which may now be considered exonyms actually preserve older Mandarin pronunciations which have changed in the intervening centuries.[8][9] For all areas in mainland China, names written in Chinese are written in simplified characters. For all areas in the special administrative regions (SARs), the names will be written in traditional characters.
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. 
+Some of the apparent "exonyms" for China are the result of change in romanization of Chinese to modern pinyin for example "Tientsin" to "Tianjin". Other apparent exonyms are the result of the English  being based on one of the other varieties of Chinese besides Mandarin. Additionally certain s which may now be considered exonyms actually preserve older Mandarin pronunciations which have changed in the intervening centuries.[8][9] For all areas in mainland China s written in Chinese are written in simplified characters. For all areas in the special administrative regions  the s will be written in traditional characters.
 
 See also: Pinyin and Chinese postal romanization
- China Zhōngguó (中国) 
-English name	Endonym	Notes
-Name	Language
-Amoy	Amoy	Min Nan[10]	Archaic
-Xiàmén (厦门)	Mandarin
+ China Zhōngguó  
+English 	Endonym	Notes
+	Language
+Amoy	Amoy	Min Nan[10]	
+Xiàmén 	Mandarin
 Ē-mn̂g	Amoy
 Ē-mûi	Amoy
-Canton	Guǎngzhōu (广州)	Mandarin	Archaic
-Gwong2 Zau1	Cantonese	Archaic
-Changbai Mountain	Chángbáishān (长白山)	Mandarin	
-Paektusan (백두산)	Korean	
-Chengtu	Chéngdū (成都)	Mandarin	Archaic, change in romanization
-Chungking	Chóngqìng (重庆)	Mandarin	Archaic, change in romanization
-Foochow	Fúzhōu (福州)	Mandarin	Archaic, change in romanization
-Forbidden City	Gùgōng (故宫), Zĭjìnchéng (紫禁城)	Mandarin	Means "Ancient Palace" and "Purple Forbidden City" respectively
-Fukien	Fújiàn (福建)	Mandarin	Archaic, change in romanization
-Gobi Desert	Gēbì Shāmò (戈壁沙漠)	Mandarin	
-Govi (ᠭᠣᠪᠢ)	Mongolian	
-Hangchow	Hángzhōu (杭州)	Mandarin	Archaic, change in romanization
-Heilungkiang	Hēilóngjiāng (黑龙江)	Mandarin	Archaic, change in romanization
-Khejluntszyan (Хэйлунцзян)	Russian
-Hohhot	Kökeqota (ᠬᠥᠬᠡᠬᠣᠲᠠ)	Mongolian	
-Hūhéhàotè (呼和浩特) / Hūshì (呼市)	Mandarin	
-Hokkien	Fújiàn (福建)	Hokkien	Archaic, but survives in English name of the language
-Hong Kong	Hoeng1 Gong2 (香港)	Cantonese	
+Canton	Guǎngzhōu 	Mandarin	
+Gwong2 Zau1	Cantonese	
+Changbai Mountain	Chángbáishān 	Mandarin	
+Paektusan 	Korean	
+Chengtu	Chéngdū 	Mandarin	 change in romanization
+Chungking	Chóngqìng 	Mandarin	 change in romanization
+Foochow	Fúzhōu 	Mandarin	 change in romanization
+Forbidden City	Gùgōng 	Mandarin	
+Fukien	Fújiàn 	Mandarin	 change in romanization
+Gobi Desert	Gēbì Shāmò 	Mandarin	
+Govi 	Mongolian	
+Hangchow	Hángzhōu 	Mandarin	 change in romanization
+Heilungkiang	Hēilóngjiāng 	Mandarin	 change in romanization
+Khejluntszyan 	Russian
+Hohhot	Kökeqota 	Mongolian	
+Hūhéhàotè 	Mandarin	
+Hokkien	Fújiàn 	Hokkien	 but survives in English  of the language
+Hong Kong	Hoeng1 Gong2 	Cantonese	
 Xiānggǎng	Mandarin
-Inner Mongolia	Öbür mongɣul (ᠦᠪᠦᠷ ᠮᠣᠩᠭᠣᠯ)	Mongolian	
-Nèi Mĕnggǔ (内蒙古)	Mandarin	
-Kalgan	Kalgan(ᠬᠠᠭᠠᠯᠭᠠᠨ)	Mongolian	
-Zhāngjiākŏu (张家口) / Kālāgàn (喀拉干)	Mandarin	Archaic
+Inner Mongolia	Öbür mongɣul 	Mongolian	
+Nèi Mĕnggǔ 	Mandarin	
+Kalgan	Kalgan	Mongolian	
+Zhāngjiākŏu 	Mandarin	
 Kwangchow	Gwong2 Zau1	Cantonese	
-Guǎngzhōu (广州)	Mandarin	Archaic, change in romanization
+Guǎngzhōu 	Mandarin	 change in romanization
 Kweilin	Gveilinz	Zhuang	
-Guìlín (桂林)	Mandarin	Archaic, change in romanization
-Lop Nor / Lop Nur	Luóbùpō (罗布泊)	Mandarin	
-Lob Nughur (ᠯᠣᠪ ᠨᠠᠭᠤᠷ)	Mongolian script
-Lop Nur (لوپنۇر)	Uighur
-Macau	Ou3 mun2 (澳門)	Cantonese	
-Àomén (澳门)	Mandarin
-Mekong River	Méigōnghé (湄公河)	Mandarin	
+Guìlín 	Mandarin	 change in romanization
+Lop Nor / Lop Nur	Luóbùpō 	Mandarin	
+Lob Nughur 	Mongolian script
+Lop Nur 	Uighur
+Macau	Ou3 mun2 	Cantonese	
+Àomén 	Mandarin
+Mekong River	Méigōnghé 	Mandarin	
 Mount Everest	Zhūmùlǎngmǎ Fēng
-(珠穆朗玛峰)
+
 
 Mandarin	
-Chomolungma (ཇོ་མོ་གླང་མ)	Tibetan
-Mukden	Mukden	Manchu[11]	Archaic
-Shěnyáng (沈阳)	Mandarin
-Nanking	Nánjīng (南京)	Mandarin	Archaic, change in romanization
-Paotou	Bāotóu (包头)	Mandarin	Obsolete English spelling
-Buɣutu qota (ᠪᠤᠭᠤᠲᠤ ᠬᠣᠲᠠ)	Mongolian
-Peking	Běijīng (北京)	Mandarin	Archaic, change in romanization
-Port Arthur	Dàlián (大连)	Mandarin	Archaic
-Santow	Shàntóu (汕头)	Mandarin	Archaic
-Shaanxi	Shǎnxī (陕西)	Mandarin	Name spelled using Guoyeu Romatzyh romanization, as the name would be the same as Shanxi using pinyin without tones.
-Sian	Xī'ān (西安)	Mandarin	Archaic, change in romanization
-Sinkiang	Xīnjiāng (新疆)	Mandarin	Archaic, change in romanization
-Soochow	Sūzhōu (苏州)	Mandarin	Archaic, change in romanization
-Swatow	Shàntóu (汕头)	Mandarin	
-Suan1tao5 (汕头)	Teochew	English orthography close to Teochew pronunciation (Teochew 'n' sound is nasal)
-Tibet	Bod (བོད)	Tibetan	
-Xīzàng (西藏)	Mandarin	
-Tsingtao	Qīngdăo (青岛)	Mandarin	Archaic, change in romanization
-Yangtze river	Cháng jiāng (長江／长江)	Mandarin	Based on the archaic name Yángzĭ Jiāng (揚子江／扬子江)
-Yenchi	Yánjí (延吉)	Mandarin	Archaic, change in romanization
-Yenji (옌지), Yǒnkil (연길)	Korean	
-Yenki	Yenji (옌지), Yǒnkil (연길)	Korean	
-Yánjí (延吉)	Mandarin	
+Chomolungma 	Tibetan
+Mukden	Mukden	Manchu[11]	
+Shěnyáng 	Mandarin
+Nanking	Nánjīng 	Mandarin	 change in romanization
+Paotou	Bāotóu 	Mandarin	Obsolete English spelling
+Buɣutu qota 	Mongolian
+Peking	Běijīng 	Mandarin	 change in romanization
+Port Arthur	Dàlián 	Mandarin	
+Santow	Shàntóu 	Mandarin	
+Shaanxi	Shǎnxī 	Mandarin	 spelled using Guoyeu Romatzyh romanization as the  would be the same as Shanxi using pinyin without tones.
+Sian	Xī'ān 	Mandarin	 change in romanization
+Sinkiang	Xīnjiāng 	Mandarin	 change in romanization
+Soochow	Sūzhōu 	Mandarin	 change in romanization
+Swatow	Shàntóu 	Mandarin	
+Suan1tao5 
+Tibet	Bod 	Tibetan	
+Xīzàng 	Mandarin	
+Tsingtao	Qīngdăo 	Mandarin	 change in romanization
+Yangtze river	Cháng jiāng 
+Yenchi	Yánjí 	Mandarin	 change in romanization
+Yenji 	Korean	
+Yenki	Yenji 	Korean	
+Yánjí 	Mandarin	
 Croatia
  Croatia Hrvatska 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Danube river	Dunav	Croatian	
 Dalmatia	Dalmacija	Croatian	
 Istria	Istra	Croatian	
@@ -228,80 +228,80 @@ Ragusa	Dubrovnik	Croatian	Historical exonym
 Zara	Zadar	Croatian	Historical exonym
 Cuba
  Cuba 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Bay of Pigs	Bahía de Cochinos	Spanish	Cochino is one of several Spanish words used to define "pig"
-Havana	(La) Habana	Spanish	
+Havana	 Habana	Spanish	
 Cyprus
  Cyprus Kýpros/ Kıbrıs 
-English name	Endonym	Notes
+English 	Endonym	Notes
 Place	Language
-Famagusta	Ammokhóstos (Αμμόχωστος)	Greek	
+Famagusta	Ammokhóstos 		
 Gazimaǧusa	Turkish	
 Kyrenia	Girne	Turkish	
-Kerýneia (Κερύνεια)	Greek	
-Limassol	Lemesós (Λεμεσός)	Greek	
+Kerýneia 		
+Limassol	Lemesós 		
 Limasol	Turkish	
 Nicosia	Lefkoşa	Turkish	
-Lefkosía (Λευκωσία)	Greek	
-Czechia
-Historically, English-language sources used German names for many places in what is now the Czech Republic. With some exceptions (such as the Elbe and Oder rivers- both of which flow into Germany), this is no longer done by most sources.[12]
+Lefkosía 		
+ia
+Historically English-language sources used  s for many places in what is now the  Republic. With some exceptions  this is no longer done by most sources.[12]
 
-The Czech government prefers the country to be referred to as Czechia in English because the country adopted it as its official short name in 2016. However, most English speakers still call the country the Czech Republic.
+The  government prefers the country to be referred to as ia in English because the country adopted it as its official short  in 2016. However most English speakers still call the country the  Republic.
 
- Czechia Česko 
-English name	Endonym	Notes
-Name	Language
-Beskids	Beskydy	Czech	
-Bohemia	Čechy	Czech	Latin name
-Bohemian Forest	Šumava	Czech	
-Bohemian Karst	Český kras	Czech	
-Bohemian Paradise	Český ráj	Czech	
-Bohemian Switzerland	České Švýcarsko	Czech	
-Budweis	České Budějovice	Czech	Archaic, German name
-Carlsbad	Karlovy Vary	Czech	Archaic, German name
-Elbe river	Labe	Czech	German name
-Fichtel Mountains	Smrčiny[4]	Czech	German name
-Franzensbad	Františkovy Lázně	Czech	Archaic, German name
-Giant Mountains	Krkonoše	Czech	
-Hanakia	Haná	Czech	Archaic
-Lachia	Lašsko	Czech	
-Marienbad	Mariánské Lázně	Czech	Archaic, German name
-Moravia	Morava	Czech	Latin name
-Moravian Slovakia	Slovácko	Czech	
-Moravian Wallachia	Valašsko	Czech	
-Oder river	Odra	Czech	German name
-Ore Mountains	Krušné hory	Czech	
-Pilsen	Plzeň	Czech	Archaic, German name
-Prague	Praha	Czech	French name
-Silesia	Slezsko	Czech	
+ ia Česko 
+English 	Endonym	Notes
+	Language
+Beskids	Beskydy		
+Bohemia	Čechy		Latin 
+Bohemian Forest	Šumava		
+Bohemian Karst	Český kras		
+Bohemian Paradise	Český ráj		
+Bohemian Switzerland	České Švýcarsko		
+Budweis	České Budějovice
+Carlsbad	Karlovy Vary		  
+Elbe river	Labe		 
+Fichtel Mountains	Smrčiny[4]		 
+Franzensbad	Františkovy Lázně		  
+Giant Mountains	Krkonoše		
+Hanakia	Haná		
+Lachia	Lašsko		
+Marienbad	Mariánské Lázně		  
+Moravia	Morava		Latin 
+Moravian Slovakia	Slovácko		
+Moravian Wallachia	Valašsko		
+Oder river	Odra		 
+Ore Mountains	Krušné hory		
+Pilsen	Plzeň
+Prague	Praha		 
+Silesia	Slezsko		
 Ślōnsk	Silesian	
-Sudetes, Sudeten, Sudeten Mountains	Krkonošsko-jesenická subprovincie, Sudety	Czech	
-Sudetenland	Sudety	Czech	
-Upper Palatinate Forest	Český les	Czech	
+Sudetes Sudeten Sudeten Mountains	Krkonošsko-jesenická subprovincie Sudety		
+Sudetenland	Sudety		
+Upper Palatinate Forest	Český les		
 Denmark
  Denmark Danmark 
-English name	Endonym	Notes
-Name	Language
-Copenhagen	København	Danish	
-Elsinore	Helsingør	Danish	Dated
-Funen	Fyn	Danish	
-Jutland	Jylland	Danish	
-Sleswick	Schleswig	Low German	
-Slesvig	Danish	
-The Scaw	Skagen	Danish	Dated
-Zealand	Sjælland	Danish	
+English 	Endonym	Notes
+	Language
+Copenhagen	København		
+Elsinore	Helsingør		
+Funen	Fyn		
+Jutland	Jylland		
+Sleswick	Schleswig	 	
+Slesvig		
+The Scaw	Skagen		
+Zealand	Sjælland		
 Faroe Islands
  Faroe Islands Føroyar 
-English name	Endonym	Notes
-Name	Language
-Thor's Haven	Tórshavn	Danish	Dated
+English 	Endonym	Notes
+	Language
+Thor's Haven	Tórshavn		
 Greenland
-Several places were known under Danish names, or a variant of them. Now only the local Greenlandic is used.
+Several places were known under  s or a variant of them. Now only the local Greenlandic is used.
 
  Greenland Kalaallit Nunaat 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Frederikdshab	Paamiut	Greenlandic	Obsolete
 Godthab	Nuuk	Greenlandic	Obsolete
 Jacobshaven	Ilulissat	Greenlandic	Obsolete
@@ -309,249 +309,249 @@ Sondre Stromfjord	Kangerlussuaq	Greenlandic	Obsolete
 Sondrestrom	Kangerlussuaq	Greenlandic	Obsolete
 Thule	Qaanaaq	Greenlandic	Obsolete
 Egypt
- Egypt Miṣr (مصر) 
-English name	Endonym	Notes
-Name	Language
-Alexandria	Al-Iskandariyya (الإسكندرية)	Egyptian Arabic	
-Alexandria (ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ)	Coptic	
-Eskendereyya (اسكندرية)	Egyptian Arabic	
-Rakote (ⲣⲁⲕⲟϯ )	Coptic	
-Cairo	Al-Qāhirah (القاهرة)	Standard Arabic	
-Maṣr (مَصر)	Egyptian Arabic	
-Giza	Al-Jīzah (الجيزة)	Standard Arabic	
-El-Gīzeh (الجيزة)	Egyptian Arabic	
-Luxor	Al-Uqṣur (الاقصر)	Standard Arabic	
-Babe (ⲡⲁⲡⲉ)	Coptic	
-Loqṣor (الأقصر)	Egyptian Arabic	
-Memphis	Manf (مَنْف)	Standard Arabic	
-Memfi (ⲙⲉⲙϥⲓ)	Coptic	
-Nile river	An-Nīl (النيل)	Standard Arabic	
-En-Nīl (النيل)	Egyptian Arabic	
-Port Said	Bur Sa'īd (بور سعيد)	Standard Arabic	
-Bor Sa'īd (بور سعيد)	Egyptian Arabic	
-Suez	As-Suways (السويس)	Standard Arabic	
+ Egypt Miṣr  
+English 	Endonym	Notes
+	Language
+Alexandria	Al-Iskandariyya 	Egyptian Arabic	
+Alexandria 	Coptic	
+Eskendereyya 	Egyptian Arabic	
+Rakote 	Coptic	
+Cairo	Al-Qāhirah 	Standard Arabic	
+Maṣr 	Egyptian Arabic	
+Giza	Al-Jīzah 	Standard Arabic	
+El-Gīzeh 	Egyptian Arabic	
+Luxor	Al-Uqṣur 	Standard Arabic	
+Babe 	Coptic	
+Loqṣor 	Egyptian Arabic	
+Memphis	Manf 	Standard Arabic	
+Memfi 	Coptic	
+Nile river	An-Nīl 	Standard Arabic	
+En-Nīl 	Egyptian Arabic	
+Port Said	Bur Sa'īd 	Standard Arabic	
+Bor Sa'īd 	Egyptian Arabic	
+Suez	As-Suways 	Standard Arabic	
 Estonia
  Estonia Eesti 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Lake Peipus	Peipsi järv	Estonian	
 Reval	Tallinn	Estonian	Obsolete
 Finland
  Finland Suomi 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Karelia	Karjala	Finnish	From Latin
 Lapponia	Lappi	Finnish	From Latin
-Ostrobothnia	Pohjanmaa	Finnish	From Latin, compare Swedish Österbotten
+Ostrobothnia	Pohjanmaa	Finnish	From Latin compare Swedish Österbotten
 Savonia	Savo	Finnish	From Latin
 Tavastia	Häme	Finnish	From Latin
 France
  France 
-English name	Endonym	Notes
-Name	Language
-Bay of Biscay	Golfe de Gascogne	French	
-Bethwyn	Béthune	French	Archaic
+English 	Endonym	Notes
+	Language
+Bay of Biscay	Golfe de Gascogne		
+Bethwyn	Béthune		
 Brittany	Breizh	Breton	
-Bretagne	French	
-Burgundy	Bourgogne	French	
-Camerick	Cambrai	French	Obsolete
-Corsica	Corse	French	
+Bretagne		
+Burgundy	Bourgogne		
+Camerick	Cambrai		Obsolete
+Corsica	Corse		
 Corsica	Corsican	
-Cressy	Crécy-en-Ponthieu	French	
+Cressy	Crécy-en-Ponthieu		
 Dauphiny	Dalfinat	Occitan	
 Darfenât	Arpitan	
-Dauphiné	French	Archaic
-Dunkirk	Dunkerque	French	
-English Channel	La Manche	French	
-Flanders	Flandre	French	
-French Riviera	Côte d'Azur	French	
-Gascony	Gascogne	French	
+Dauphiné		
+Dunkirk	Dunkerque		
+English Channel	La Manche		
+Flanders	Flandre		
+ Riviera	Côte d'Azur		
+Gascony	Gascogne		
 Gasconha	Gascon	
 Lyons	Liyon	Arpitan	
-Lyon	French	Archaic
-Marseilles	Marseille	French	Archaic
+Lyon		
+Marseilles	Marseille		
 Marselha	Occitan	
-Normandy	Normandie	French	
+Normandy	Normandie		
 Normaundie	Norman	
-Picardy	Picardie	French	
-Rheims	Reims	French	Archaic
-Rhine river	Rhin	French	
-Rone	Rouen	French	Obsolete
-Savoy	Savoie	French	
+Picardy	Picardie		
+Rheims	Reims		
+Rhine river	Rhin		
+Rone	Rouen		Obsolete
+Savoy	Savoie		
 Savouè	Arpitan	
 Ushant	Eusa	Breton	
-Ouessant	French	
+Ouessant		
 Georgia
- Georgia Sakartvelo (საქართველო) 
-English name	Endonym	Notes
-Name	Language
-Caucasus	Kavkasioni (კავკასიონი)	Georgian	
-Tiflis	Tbilisi (თბილისი)	Georgian	Obsolete
-Germany
-See also: List of English exonyms for German toponyms and Names of Germany
-This list does not include German place names with ß written with "ss" or umlauts being removed in some writing.
+ Georgia Sakartvelo  
+English 	Endonym	Notes
+	Language
+Caucasus	Kavkasioni 	Georgian	
+Tiflis	Tbilisi 	Georgian	Obsolete
+y
+See also: List of English exonyms for  toponyms and s of y
+This list does not include  place s with ß written with "ss" or umlauts being removed in some writing.
 
- Germany Deutschland 
-English name	Endonym	Notes
-Name[4][5]	Language
-Aix-la-Chapelle	Aachen	Standard German	Archaic
+ y Deutschland 
+English 	Endonym	Notes
+[4][5]	Language
+Aix-la-Chapelle	Aachen	Standard 	
 Oche	Ripuarian	
-Baltic Sea	Ostsee	Standard German	
-Bavaria	Bayern	Standard German	
-Bay of Lübeck	Lübecker Bucht	Standard German	German name means "Lübeck Bight"
-Bay of Mecklenburg	Mecklenburger Bucht	Standard German	German name means "Mecklenburg Bight"
-Bay of Meldorf	Meldorfer Bucht	Standard German	German name means "Meldorf Bight"
-Bay of Pomerania	Pommersche Bucht	Standard German	German name means "Pomeranian Bight"
-Bay of Wismar	Wismarer Bucht	Standard German	German name means "Wismar Bight"
-Black Forest	Schwarzwald	Standard German	
-Brunswick	Braunschweig	Standard German	Archaic
-Brunswiek	Low Saxon	
-Cleves	Kleve	Standard German	Archaic
-Coblence	Koblenz	Standard German	Archaic
-Coblenz	Koblenz	Standard German	Dated
+Baltic Sea	Ostsee	Standard 	
+Bavaria	Bayern	Standard 	
+Bay of Lübeck	Lübecker Bucht	Standard 	  
+Bay of Mecklenburg	Mecklenburger Bucht	Standard 	  
+Bay of Meldorf	Meldorfer Bucht	Standard 	  
+Bay of Pomerania	Pommersche Bucht	Standard 	  
+Bay of Wismar	Wismarer Bucht	Standard 	  
+Black Forest	Schwarzwald	Standard 	
+Brunswick	Braunschweig	Standard 	
+Brunswiek	 Saxon	
+Cleves	Kleve	Standard 	
+Coblence	Koblenz	Standard 	
+Coblenz	Koblenz	Standard 	
 Cologne	Kölle	Ripuarian	
-Köln	Standard German	
-Constance	Konstanz	Standard German	Dated
-Danube river	Donau	Standard German	
-Eastphalia	Oostfalen	Low Saxon	
-Ostfalen	Standard German	
-Egge Hills	Eggegebirge	Standard German	German name means "Egge Mountains"
-Franconia	Franken	Standard German	
+Köln	Standard 	
+Constance	Konstanz	Standard 	
+Danube river	Donau	Standard 	
+Eastphalia	Oostfalen	 Saxon	
+Ostfalen	Standard 	
+Egge Hills	Eggegebirge	Standard 	  
+Franconia	Franken	Standard 	
 Frankn	Austro-Bavarian	
-Franconian Jura	Frankenalb	Standard German	Frankenjura also used in German
-Frankfort	Frangford (am Maa)	Hessian	Archaic
-Frankfurt (am Main)	Standard German
-Hamelin	Hameln	Standard German	
-Hanover	Hannober	Low Saxon	
-Hannover	Standard German	
-Haßberge Hills	Haßberge	Standard German	
+Franconian Jura	Frankenalb	Standard 	Frankenjura 
+Frankfort	Frangford 	Hessian	
+Frankfurt 	Standard 
+Hamelin	Hameln	Standard 	
+Hanover	Hannober	 Saxon	
+Hannover	Standard 	
+Haßberge Hills	Haßberge	Standard 	
 Heligoland	deät Lun	Heligolandic North Frisian	
 Hälilönj	Bökingharde North Frisian	
-Helgoland	Standard German	
-Hesse	Hessen	Standard German	
-Hessia	Hessen	Standard German	
-Hither Pomerania	Vorpommern	Standard German	
-Hohwacht Bay	Hohwachter Bucht	Standard German	
-Jade Bight	Jadebusen	Standard German	
-Kaufungen Forest	Kaufunger Wald	Standard German	
-Kiel Canal	Nordostseekanal	Standard German	
-Knüll	Knüllgebirge	Standard German	German name also used in English
-Lake Constance	Bodensee	Standard German	
-Lower Bavarian Upland	Niederbayerisches Hügelland	Standard German	
-Lusatia	Lausitz	Standard German	
+Helgoland	Standard 	
+Hesse	Hessen	Standard 	
+Hessia	Hessen	Standard 	
+Hither Pomerania	Vorpommern	Standard 	
+Hohwacht Bay	Hohwachter Bucht	Standard 	
+Jade Bight	Jadebusen	Standard 	
+Kaufungen Forest	Kaufunger Wald	Standard 	
+Kiel Canal	Nordostseekanal	Standard 	
+Knüll	Knüllgebirge	Standard 	  
+Lake Constance	Bodensee	Standard 	
+er Bavarian Upland	Niederbayerisches Hügelland	Standard 	
+Lusatia	Lausitz	Standard 	
 Łužica	Upper Sorbian	
-Łužyca	Lower Sorbian	
-Malborow	Marburg	Standard German	Archaic
-Mayence	Mainz	Standard German	Archaic
-Mentz	Mainz	Standard German	Archaic, British English
-Moselle river	Mosel	Standard German	
+Łužyca	er Sorbian	
+Malborow	Marburg	Standard 	
+Mayence	Mainz	Standard 	
+Mentz	Mainz	Standard 	 British English
+Moselle river	Mosel	Standard 	
 Musel	Moselle Franconian	
 Munich	Minga	Austro-Bavarian	
-München	Standard German	
+München	Standard 	
 Nuremberg	Narrnberch	East Franconian	
-Nürnberg	Standard German	
-Ore Mountains	Erzgebirge	Standard German	
-Palatinate	Palz	Palatinate German	
-Pfalz	Standard German	
-Pomerania	Pommern	Standard German	
-Prussia	Preußen	Standard German	
-Ratisbon	Regensburg	Standard German	Archaic
+Nürnberg	Standard 	
+Ore Mountains	Erzgebirge	Standard 	
+Palatinate	Palz	Palatinate 	
+Pfalz	Standard 	
+Pomerania	Pommern	Standard 	
+Prussia	Preußen	Standard 	
+Ratisbon	Regensburg	Standard 	
 Rengschburch	Austro-Bavarian	
-Rhenish Massif	Rheinisches Schiefergebirge	Standard German	
-Rhine river	Rhein	Standard German	
-Saxe-Coburg-Gotha	Sachsen-Coburg und Gotha	Standard German	English now uses translation Saxe-Coburg and Gotha
-Saxony	Sachsen	Standard German	
-Sassen	Low Saxon	
-Swabia	Schwaben	Standard German	
-Szczecin Lagoon	Stettiner Haff	Standard German	
-Thuringia	Thüringen	Standard German	
+Rhenish Massif	Rheinisches Schiefergebirge	Standard 	
+Rhine river	Rhein	Standard 	
+Saxe-Coburg-Gotha	Sachsen-Coburg und Gotha	Standard 	English now uses translation Saxe-Coburg and Gotha
+Saxony	Sachsen	Standard 	
+Sassen	 Saxon	
+Swabia	Schwaben	Standard 	
+Szczecin Lagoon	Stettiner Haff	Standard 	
+Thuringia	Thüringen	Standard 	
 Tréier	Moselle Franconian	
-Treves	Trier	Standard German	Archaic, French name
-Western Pomerania	Vorpommern	Standard German	
-Westphalia	Westfalen	Low Saxon	
-Standard German	
+Treves	Trier	Standard 	  
+Western Pomerania	Vorpommern	Standard 	
+Westphalia	Westfalen	 Saxon	
+Standard 	
 Greece
-The exonym for Greece in English comes from Magna Graecia, which was a historical region in Italy colonized by the Greeks. The endonym Ellás comes from Helen of Troy, the legendary Greek figure whose abduction caused the Greek city-states to unite and fight against Troy during the Trojan War.
+The exonym for Greece in English comes from Magna Graecia which was a historical region in Italy colonized by the s. The endonym Ellás comes from Helen of Troy the legendary  figure whose abduction caused the  city-states to unite and fight against Troy during the Trojan War.
 
- Greece Elládha/ Ellás (Ελλάδα/ Ἑλλάς) 
-English name	Endonym	Notes
-Name	Language
-Attica	Attikí (Αττική)	Greek	
-Athens	Athína (Αθήνα)	Greek	
-Boetia	Voiotía (Βοιωτία)	Greek	
-Corfu	Kérkyra (Κέρκυρα)	Greek	
-Corinth	Kórinthos (Κόρινθος)	Greek	
-Crete	Kríti (Κρήτη)	Greek	
-Cyclades	Kykládhes (Κυκλάδες)	Greek	
-Dodecanese	Dhodhekánisa (Δωδεκάνησα)	Greek	
-Epirus	Ipeiros (Ήπειρος)	Greek	
-Euboea	Evvoia (Εύβοια)	Greek	
-Heraklion	Irákleio (Ηράκλειο)	Greek	
-Icaria	Ikaría (Ικαρία)	Greek	
-Ithaca	Itháki (Ιθάκη)	Greek	
-Lepanto	Náfpaktos (Νάυπακτος)	Greek	Archaic
-Macedonia	Makedonía (Μακεδονία)	Greek	
-Mediterranean Sea	Mesógeios thálassa (Μεσόγειος θάλασσα)	Greek	
-Missolonghi	Mesológi (Μεσολόγγι)	Greek	
-Naupactus	Náfpaktos (Νάυπακτος)	Greek	Greek name also used in English
-Navarino	Pýlos (Πύλος)	Greek	Archaic
-Patras	Pátra (Πάτρα)	Greek	
-Peloponnese	Pelopónnisos (Πελοπόννησος)	Greek	
-Philippi	Fílippoi (Φίλιπποι)	Greek	
-Piraeus	Peiraiás (Πειραιάς)	Greek	
-Rhodes	Ródhos (Ρόδος)	Greek	
-Rhodope Mountains	Rodhópi (Ροδόπη)	Greek	
-Salonica	Thessaloníki (Θεσσαλονίκη)	Greek	Archaic
-Samothrace	Samothráki (Σαμοθράκη)	Greek	
-Sparta	Spárti (Σπάρτη)	Greek	
-Thebes	Thíva (Θήβα)	Greek	
-Thessalonica	Thessaloníki (Θεσσαλονίκη)	Greek	Greek name also used in English
-Thessaly	Thessalía (Θεσσαλία)	Greek	
-Thrace	Thráki (Θράκη)	Greek	
-Zante	Zákynthos (Ζάκυνθος)	Greek	Archaic
+ Greece Elládha/ Ellás  
+English 	Endonym	Notes
+	Language
+Attica	Attikí 		
+Athens	Athína 		
+Boetia	Voiotía 		
+Corfu	Kérkyra 		
+Corinth	Kórinthos 		
+Crete	Kríti 		
+Cyclades	Kykládhes 		
+Dodecanese	Dhodhekánisa 		
+Epirus	Ipeiros 		
+Euboea	Evvoia 		
+Heraklion	Irákleio 		
+Icaria	Ikaría 		
+Ithaca	Itháki 		
+Lepanto	Náfpaktos 		
+Macedonia	Makedonía 		
+Mediterranean Sea	Mesógeios thálassa 		
+Missolonghi	Mesológi 		
+Naupactus	Náfpaktos 		  
+Navarino	Pýlos 		
+Patras	Pátra 		
+Peloponnese	Pelopónnisos 		
+Philippi	Fílippoi 		
+Piraeus	Peiraiás 		
+Rhodes	Ródhos 		
+Rhodope Mountains	Rodhópi 		
+Salonica	Thessaloníki 		
+Samothrace	Samothráki 		
+Sparta	Spárti 		
+Thebes	Thíva 		
+Thessalonica	Thessaloníki 		  
+Thessaly	Thessalía 		
+Thrace	Thráki 		
+Zante	Zákynthos 		
 Hungary
  Hungary Magyarország 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Carpathian Mountains	Kárpátok	Hungarian	
-Comorn	Komárom	Hungarian	Dated
+Comorn	Komárom	Hungarian	
 Danube river	Duna	Hungarian	
 Iceland
  Iceland Ísland 
-English name	Endonym	Notes
-Name	Language
-Westman Islands	Vestmannaeyjar	Icelandic	Dated, translation
+English 	Endonym	Notes
+	Language
+Westman Islands	Vestmannaeyjar	Icelandic	 translation
 India
-See also: List of renamed Indian public places
- India Bhārat (भारत) 
-English name	Endonym	Notes
-Name	Language
-Allahabad	Prayagraj (प्रयागराज)	Hindi	Officially amended to Prayagraj but still in use in popular culture.
-Allepey	Alappuzha (ആലപ്പുഴ)	Malayalam	Dated
-Bangalore	Bengaluru (ಬೆಂಗಳೂರು)	Kannada	
-Benares	Varanasi (वाराणसी)	Hindi	Dated
-Bombay	Mumbai (मुंबई)	Marathi	Dated
-Calcutta	Kolkata (কলকাতা)	Bengali	Dated
-Cawnpore	Kanpur (कानपुर)	Hindi	Obsolete
-Cochin	Kochi (കൊച്ചി)	Malayalam	
-Delhi	Dilli (दिल्ली)	Hindi	
-Ganges River	Ganga (गंगा)	Hindi	
-Indus River	Sindhū (सिन्धु)	Sanskrit	
-Jaypore	Jaipur (जयपुर)	Hindi	Obsolete
-Laccadive Islands	Lakshadweep (ലക്ഷദ്വീപ്)	Malayalam	Obsolete
-Madras	Chennai (சென்னை)	Tamil	Dated
-Palghat	Palakkad (പാലക്കാട്)	Malayalam	Obsolete
-Pondicherry	Puducherry (புதுச்சேரி)	Tamil	Dated
-Poona	Pune (पुणे)	Marathi	Dated
-Simla	Shimla (शिमला)	Hindi	Obsolete
-Trivandrum	Thiruvananthapuram (തിരുവനന്തപുരം)	Malayalam	
+See also: List of red Indian public places
+ India Bhārat  
+English 	Endonym	Notes
+	Language
+Allahabad	Prayagraj 	Hindi	Officially amended to Prayagraj but still in use in popular culture.
+Allepey	Alappuzha 	Malayalam	
+Bangalore	Bengaluru 	Kannada	
+Benares	Varanasi 	Hindi	
+Bombay	Mumbai 	Marathi	
+Calcutta	Kolkata 	Bengali	
+Cawnpore	Kanpur 	Hindi	Obsolete
+Cochin	Kochi 	Malayalam	
+Delhi	Dilli 	Hindi	
+Ganges River	Ganga 	Hindi	
+Indus River	Sindhū 	Sanskrit	
+Jaypore	Jaipur 	Hindi	Obsolete
+Laccadive Islands	Lakshadweep 	Malayalam	Obsolete
+Madras	Chennai 	Tamil	
+Palghat	Palakkad 	Malayalam	Obsolete
+Pondicherry	Puducherry 	Tamil	
+Poona	Pune 	Marathi	
+Simla	Shimla 	Hindi	Obsolete
+Trivandrum	Thiruvananthapuram 	Malayalam	
 Indonesia
  Indonesia 
-English name	Endonym	Note
-Name	Language
+English 	Endonym	Note
+	Language
 Bencoolen	Bengkulu	Indonesian	Historical
 Billiton	Belitung	Indonesian	Obsolete
-Borneo	Kalimantan	Indonesian	These exonyms are also unofficially used in Indonesia.
+Borneo	Kalimantan	Indonesian	These exonyms are 
 Celebes	Sulawesi	Indonesian
 Java	Jawa	Indonesian	
 Lesser Sunda Islands	Kepulauan Nusa Tenggara	Indonesian	
@@ -561,39 +561,39 @@ New Guinea	Papua	Indonesian
 Irian Jaya	Indonesian	Historical
 Nugini	Indonesian	Unused outside of fossil words.
 Iran
- Iran Irān (اݐران) 
-English name	Endonym	Note
-Name	Language
-Bushire	Bushehr (بوشهر)	Persian	Obsolete
-Caspian Sea	Darya-ye Khazar (Khazar Sea)	Persian	
-Isfahan	Ešfahān (اصفهان)	Persian	
-Meshed	Mashhad (مشهد)	Persian	Obsolete
-Teheran	Tehran (تهران)	Persian	Obsolete
+ Iran Irān  
+English 	Endonym	Note
+	Language
+Bushire	Bushehr 	Persian	Obsolete
+Caspian Sea	Darya-ye Khazar 	Persian	
+Isfahan	Ešfahān 	Persian	
+Meshed	Mashhad 	Persian	Obsolete
+Teheran	Tehran 	Persian	Obsolete
 Iraq
- Iraq Al-Irāq (العراق) 
-English name	Endonym	Notes
-Name	Language
-Euphrates river	Al-Furāt (الفرات)	Standard Arabic	
+ Iraq Al-Irāq  
+English 	Endonym	Notes
+	Language
+Euphrates river	Al-Furāt 	Standard Arabic	
 Firat	Kurdish	
-Pǝrāth (ܦܪܬ)	Syriac	
-Mosul	Al-Mawṣil (الموصل)	Standard Arabic	
-Māwṣil (ܡܘܨܠ)	Syriac	
-Mosil (مووسڵ)	Kurdish	
-Tigris river	Deqlath (ܕܹܩܠܵܬ)	Syriac	
-Dîcle (دیجلە)	Kurdish	
-Dijla (دجله)	Standard Arabic	
+Pǝrāth 	Syriac	
+Mosul	Al-Mawṣil 	Standard Arabic	
+Māwṣil 	Syriac	
+Mosil 	Kurdish	
+Tigris river	Deqlath 	Syriac	
+Dîcle 	Kurdish	
+Dijla 	Standard Arabic	
 Ireland
-Main article: Place names in Ireland
-The vast majority of placenames in Ireland are anglicisations, or phonetic renderings, of Irish language names. The exceptions to this are listed here:
+Main article: Place s in Ireland
+The vast majority of places in Ireland are anglicisations or phonetic renderings of Irish language s. The exceptions to this are listed here:
 
  Ireland Éire 
-English name	Endonym	Notes
-Name	Language
-Arklow	an tInbhear Mór	Irish	
+English 	Endonym	Notes
+	Language
+Ark	an tInbhear Mór	Irish	
 Carlingford	Cairlinn	Irish	
-Connaught	Connacht	Irish	Dated
+Connaught	Connacht	Irish	
 Dalkey	Deilginis	Irish	
-Dursey	Baoi Bhéarra, Oileán Baoi	Irish	
+Dursey	Baoi Bhéarra Oileán Baoi	Irish	
 Dublin	Baile Átha Cliath	Irish	
 Fastnet	Carraig Aonair	Irish	
 Haulbowline	Inis Sionnach	Irish	
@@ -611,58 +611,58 @@ Strangford	Loch Cuan	Irish
 Ulster	Ulaidh	Irish	
 Waterford	Port Láirge	Irish	
 Wexford	Loch Garman	Irish	
-Wicklow	Cill Mhantáin	Irish	
+Wick	Cill Mhantáin	Irish	
 Israel
-The below listing is only a summary. Modern Israeli transcription systems (romanization of Hebrew) vary from the spellings of many hundreds of place names of Ancient Israel adopted by Bible translations - both Christian, such as the King James Version (1611) and also Jewish versions such as the JPS (1917).[13]
+The be listing is only a summary. Modern Israeli transcription systems .[13]
 
- Israel Yisrael (ישראל) 
-English name	Endonym	Notes
-Name	Language	
-Acre	Ako (עכו)	Modern Hebrew	Greek name
-Beersheba	Beer Sheva' (באר שבע)	Modern Hebrew	
-Capernaum	Kfar Nachum (כפר נחום)	Modern Hebrew	Latin name
-Galilee	haGalil (הגליל)	Modern Hebrew	
-Jaffa	Yafo (יפו)	Modern Hebrew	
-Joppa	Yafo (יפו)	Modern Hebrew	Greek name, dated
-Jordan River	Nahr al-Urdun (نهر الأردن)	Standard Arabic	
-Nahar haYarden (נהר הירדן)	Modern Hebrew	
-Jerusalem	Ūršalīm (أُورُشَلِيمَ)	Standard Arabic	
-Yerushalayim (ירושלים)	Modern Hebrew	Latin name
-Nazareth	Natzrat (נצרת)	Modern Hebrew	Greek name
-Sea of Galilee	Imat Tbria (بحيرة طبريا)	Standard Arabic	
-Yamat haKineret (ימת הכינרת)	Modern Hebrew	
-Safed	Tzfat (צפת)	Modern Hebrew	Arabic name
-Tiberias	Tverya (טבריה)	Modern Hebrew	Greek name
+ Israel Yisrael  
+English 	Endonym	Notes
+	Language	
+Acre	Ako 	Modern Hebrew	 
+Beersheba	Beer Sheva' 	Modern Hebrew	
+Capernaum	Kfar Nachum 	Modern Hebrew	Latin 
+Galilee	haGalil 	Modern Hebrew	
+Jaffa	Yafo 	Modern Hebrew	
+Joppa	Yafo 	Modern Hebrew	  
+Jordan River	Nahr al-Urdun 	Standard Arabic	
+Nahar haYarden 	Modern Hebrew	
+Jerusalem	Ūršalīm 	Standard Arabic	
+Yerushalayim 	Modern Hebrew	Latin 
+Nazareth	Natzrat 	Modern Hebrew	 
+Sea of Galilee	Imat Tbria 	Standard Arabic	
+Yamat haKineret 	Modern Hebrew	
+Safed	Tzfat 	Modern Hebrew	Arabic 
+Tiberias	Tverya 	Modern Hebrew	 
 Italy
  Italy Italia 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Apulia	Puglia	Standard Italian	
 Pùglia	Neapolitan	
 Capitoline Hill	Campidoglio	Standard Italian	
-Florence	Firenze	Standard Italian	French name
+Florence	Firenze	Standard Italian	 
 Genoa	Genova	Standard Italian	
 Zêna	Ligurian	
-Herculaneum	Ercolano	Standard Italian	English uses different names for the ancient and modern places
-Janiculum	Gianicolo	Standard Italian	Latin name
-Latium	Lazio	Standard Italian	English uses different names for the ancient and modern places
+Herculaneum	Ercolano	Standard Italian	English uses different s for the ancient and modern places
+Janiculum	Gianicolo	Standard Italian	Latin 
+Latium	Lazio	Standard Italian	English uses different s for the ancient and modern places
 Leghorn	Livorno	Standard Italian	Obsolete
-Lombardy	Lombardéa	Lombard	French name
+Lombardy	Lombardéa	Lombard	 
 Lombardia	Standard Italian	
 Mantua	Mantua	Lombard	
 Mantova	Standard Italian	
 Milan	Milan	Lombard	
 Milano	Standard Italian	
-Montferrat	Monferrato	Standard Italian	French name
+Montferrat	Monferrato	Standard Italian	 
 Monfrà	Piedmontese
-Naples	Napoli	Standard Italian	French name
+Naples	Napoli	Standard Italian	 
 Napule	Neapolitan
 Padua	Padova	Standard Italian	
 Pàdova	Venetian	
 Piedmont	Piemont	Piedmontese	
 Piemonte	Standard Italian	
-Pompeii	Pompei	Standard Italian	Latin name
-Rome	Roma	Standard Italian	French name
+Pompeii	Pompei	Standard Italian	Latin 
+Rome	Roma	Standard Italian	 
 Rubicon river	Rubicone	Standard Italian	
 Sardinia	Sardegna	Standard Italian	
 Sicily	Sicilia	Standard Italian	
@@ -671,138 +671,138 @@ Sienna	Siena	Standard Italian	Obsolete
 Syracuse	Sarasusa	Sicilian	
 Siracusa	Standard Italian	
 The Marches	Marche	Standard Italian	Obsolete
-Tiber	Tevere	Standard Italian	Latin name
+Tiber	Tevere	Standard Italian	Latin 
 Tuscany	Toscana	Standard Italian	
 Turin	Torino	Standard Italian	
 Turin	Piedmontese	
 Trent	Trento	Standard Italian	Obsolete
 Tyrol	Tirolo	Standard Italian	
 Venice	Venesia	Venetian	
-Venezia	Standard Italian	French name
+Venezia	Standard Italian	 
 Vesuvius	Vesuvio	Neapolitan	
-Standard Italian	Latin name
+Standard Italian	Latin 
 Japan
- Japan Nihon, Nippon (日本) 
-English name	Endonym	Notes
-Name	Language
-Bonin Islands	Ogasawara Guntou (小笠原群島)	Japanese	
-Iwo Jima	Iou-tou (硫黄島)	Japanese	Alternative reading of endonym
-Liancourt Rocks	Takeshima (竹島)	Japanese	
-Ryūkyū Islands	Nansei-shotou (南西諸島)	Japanese	
-Volcano Islands	Kazan Rettou (火山列島)	Japanese	
+ Japan Nihon Nippon  
+English 	Endonym	Notes
+	Language
+Bonin Islands	Ogasawara Guntou 	Japanese	
+Iwo Jima	Iou-tou 	Japanese	Alternative reading of endonym
+Liancourt Rocks	Takeshima 	Japanese	
+Ryūkyū Islands	Nansei-shotou 	Japanese	
+Volcano Islands	Kazan Rettou 	Japanese	
 Laos
- Laos Lāo (ລາວ) 
-English name	Endonym	Notes
-Name	Language
-Louangphabang	Luang Prabang (ຫລວງພະບາງ)	Lao	Also spelled Luangphabang
-Mekong River	Maenam Khong (ແມ່ນ້ຳຂອງ)	Lao	
-Savannakhet	Kaysone Phomvihane (ໄກສອນ ພົມວິຫານ)	Lao	
-Viangchan[14]	Wīang chan (ວຽງຈັນ)	Lao	
-Vientiane	Wīang chan (ວຽງຈັນ)	Lao	from French
-Wiangchan[15]	Wīang chan (ວຽງຈັນ)	Lao	
+ Laos Lāo  
+English 	Endonym	Notes
+	Language
+Louangphabang	Luang Prabang 	Lao	Also spelled Luangphabang
+Mekong River	Maenam Khong 	Lao	
+Savannakhet	Kaysone Phomvihane 	Lao	
+Viangchan[14]	Wīang chan 	Lao	
+Vientiane	Wīang chan 	Lao	from 
+Wiangchan[15]	Wīang chan 	Lao	
 Latvia
  Latvia Latvija 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Courland	Kurzeme	Latvian	
-Lettgallia	Latgale	Latvian	Dated
-Semigallia	Zemgale	Latvian	Dated
+Lettgallia	Latgale	Latvian	
+Semigallia	Zemgale	Latvian	
 Lebanon
- Lebanon Lubnān (لبنان) 
-English name	Endonym	Notes
-Name	Language
-Sidon	Ṣaydā (صيدا)	Standard Arabic	
-Tyre	Ṣūr (صور)	Standard Arabic	
-Tripoli	Ṭarābulus (طرابلس)	Standard Arabic	
+ Lebanon Lubnān  
+English 	Endonym	Notes
+	Language
+Sidon	Ṣaydā 	Standard Arabic	
+Tyre	Ṣūr 	Standard Arabic	
+Tripoli	Ṭarābulus 	Standard Arabic	
 Libya
- Libya Libiyā (ليبيا) 
-English name	Endonym	Notes
-Name	Language
-Cyrenaica	Barqah (برقة)	Standard Arabic	
-Fezzan	Fezzan (ⴼⵣⵣⴰⵏ)	Berber	
-Fizzān (فزان)	Standard Arabic	
-Misrata	Miṣrātah (مصراتة)	Standard Arabic	
-Sirte	Sirt (سرت)	Standard Arabic	
+ Libya Libiyā  
+English 	Endonym	Notes
+	Language
+Cyrenaica	Barqah 	Standard Arabic	
+Fezzan	Fezzan 	Berber	
+Fizzān 	Standard Arabic	
+Misrata	Miṣrātah 	Standard Arabic	
+Sirte	Sirt 	Standard Arabic	
 Tripoli	Ṭrables	Berber	
-Ṭarābulus (طرابلس)	Standard Arabic	
-Ṭrābləs (طرابلس)	Maghrebi Arabic	
+Ṭarābulus 	Standard Arabic	
+Ṭrābləs 	Maghrebi Arabic	
 Tripolitania	Ṭrables	Berber	
-Ṭarābulus (طرابلس)	Standard Arabic	
-Ṭrābləs (طرابلس)	Maghrebi Arabic	
+Ṭarābulus 	Standard Arabic	
+Ṭrābləs 	Maghrebi Arabic	
 Lithuania
  Lithuania Lietuva 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Neman river	Nemunas	Lithuanian	
-Nieman river	Nemunas	Lithuanian	Dated
+Nieman river	Nemunas	Lithuanian	
 Samogitia	Žemaitija	Lithuanian	
 Sudovia	Sudūva	Lithuanian	
 Yotvingia	Dainava	Lithuanian	
 Malaysia
  Malaysia 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Malacca	Melaka	Malay	
 Penang Island	Pulau Pinang	Malay	
 Johore	Johor	Malay	
 Mexico
  Mexico México 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Kino Bay	Hermosillo	Spanish	
-Rocky Point	Puerto Peñasco	Spanish	Dated
+Rocky Point	Puerto Peñasco	Spanish	
 Moldova
  Moldova 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Kishinev	Chişinău	Romanian	Obsolete
 Mongolia
- Mongolia Mongγol Ulus (Монгол Улc/ ᠮᠣᠩᠭᠣᠯ ᠤᠯᠤᠰ) 
-English name	Endonym	Notes
-Name	Language
-Gobi Desert	Govi (Говь/ ᠭᠣᠪᠢ)	Mongolian	
-Ulan Bator	Ulaanbaatar (Улаанбаатар/ ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ)	Mongolian	Obsolete
+ Mongolia Mongγol Ulus  
+English 	Endonym	Notes
+	Language
+Gobi Desert	Govi 	Mongolian	
+Ulan Bator	Ulaanbaatar 	Mongolian	Obsolete
 Morocco
- Morocco Al-Magrib (المغرب) 
-English name	Endonym	Notes
-Name	Language
-Casablanca	Ad-Dār Al-Bayḍā' (الدار البيضاء)	Standard Arabic	
-Anfa (ⴰⵏⴼⴰ)	Berber	
-Fez	Fās (ⴼⴰⵙ)	Berber	
-Fās (فاس)	Standard Arabic	
-Tangier	Ṭanja (ⵟⴰⵏⵊⴰ)	Berber	
-Ṭanjah (طنجة)	Standard Arabic	
+ Morocco Al-Magrib  
+English 	Endonym	Notes
+	Language
+Casablanca	Ad-Dār Al-Bayḍā' 	Standard Arabic	
+Anfa 	Berber	
+Fez	Fās 	Berber	
+Fās 	Standard Arabic	
+Tangier	Ṭanja 	Berber	
+Ṭanjah 	Standard Arabic	
 Myanmar
- Myanmar Myanma (မြန်မာ) 
-English name	Endonym	Notes
-Name	Language
-Mekong River	Megaung Myit (မဲခေါင်မြစ်)	Burmese	
-Naypyidaw	Nay Pyi Taw (နေပြည်တော်)	Burmese	
-Pagan	Bagan (ပုဂံ)	Burmese	Dated
-Rangoon	Yangon (ရန်ကုန်မြို့)	Burmese	Dated
-Ummerapoora	Amarapura (အမရပူရ)	Burmese	Dated
+ Myanmar Myanma  
+English 	Endonym	Notes
+	Language
+Mekong River	Megaung Myit 	Burmese	
+Naypyidaw	Nay Pyi Taw 	Burmese	
+Pagan	Bagan 	Burmese	
+Rangoon	Yangon 	Burmese	
+Ummerapoora	Amarapura 	Burmese	
 Nepal
-   Nepal Nepāl (नेपाल) 
-English name	Endonym	Notes
-Name	Language
-Mount Everest	Sagarmatha (सगरमाथा)	Nepali	
+   Nepal Nepāl  
+English 	Endonym	Notes
+	Language
+Mount Everest	Sagarmatha 	Nepali	
 Netherlands
  Netherlands Nederland 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Brill	Brielle	Dutch	Obsolete
 Dort	Dordrecht	Dutch	Obsolete
 Flushing	Vlissingen	Dutch	Obsolete
-Guelders	Gelderland	Dutch	Dated
-Leyden	Leiden	Dutch	Dated
-Meuse river	Maas	Dutch	French name
+Guelders	Gelderland	Dutch	
+Leyden	Leiden	Dutch	
+Meuse river	Maas	Dutch	 
 Rhine river	Rijn	Dutch	
 Ryswick	Rijswijk	Dutch	Obsolete
 The Hague	Den Haag	Dutch	
 Norway
- Norway Noreg, Norge 
-English name	Endonym	Notes
-Name	Language
+ Norway Noreg Norge 
+English 	Endonym	Notes
+	Language
 Bear Island	Bjørnøya	Norwegian	Translation
 North Cape	Davvenjárgga	Northern Sami
 Nordkapp	Norwegian
@@ -810,41 +810,41 @@ Slagen Valley	Slagndarn	Tunsbergian
 Slagendalen	Norwegian
 The Southland	Sørlandet
 North Korea
- North Korea Chosǒn (조선) 
-English name	Endonym	Notes
-Name	Language
-Diamond Mountain	Kǔmkang-san (금강산)	Korean	English now uses rough transliteration Mount Kumgang
-Paektu Mountain	Paektu-san (백두산)	Korean	
-Tumen River	Tuman-kang (두만강)	Korean	Mandarin name, as the river borders China
-Yalu River	Amnok-kang (압록강)	Korean	Mandarin name, as the river borders China
+ North Korea Chosǒn  
+English 	Endonym	Notes
+	Language
+Diamond Mountain	Kǔmkang-san 	Korean	English now uses rough transliteration Mount Kumgang
+Paektu Mountain	Paektu-san 	Korean	
+Tumen River	Tuman-kang 	Korean	Mandarin  as the river borders China
+Yalu River	Amnok-kang 	Korean	Mandarin  as the river borders China
 Palestine
- Palestine Filasṭīn (فلسطين) 
-English name	Endonym	Notes
-Name	Language
-Bethlehem	Beyt Laḥm (بيت لحم)	Levantine Arabic	
-Bayta Laḥm (بيت لحم)	Standard Arabic	
-Gaza City	Ġazzah (غَزَّة)	Standard Arabic	
-Hebron	Al-Ḵalīl (الخليل)	Standard Arabic	
-Jericho	Arīḥā (أريحا)	Standard Arabic	
-Jerusalem	Al-Quds (القُدس)	Standard Arabic	Latin name
-Jordan River	Nahr al-Urdun (نهر الأردن)	Standard Arabic	
+ Palestine Filasṭīn  
+English 	Endonym	Notes
+	Language
+Bethlehem	Beyt Laḥm 	Levantine Arabic	
+Bayta Laḥm 	Standard Arabic	
+Gaza City	Ġazzah 	Standard Arabic	
+Hebron	Al-Ḵalīl 	Standard Arabic	
+Jericho	Arīḥā 	Standard Arabic	
+Jerusalem	Al-Quds 	Standard Arabic	Latin 
+Jordan River	Nahr al-Urdun 	Standard Arabic	
 Philippines
  Philippines Pilipinas 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Caloocan	Kalookan	Tagalog
 Cebu	Sugbo	Cebuano
 Davao	Dabaw	Cebuano
 Manila	Maynila	Tagalog	
 Poland
  Poland Polska 
-English name	Endonym	Notes
-Name	Language
-Auschwitz	Oświęcim	Polish	Dated, German name
-Breslau	Wrocław	Polish	Dated, German name
+English 	Endonym	Notes
+	Language
+Auschwitz	Oświęcim	Polish	  
+Breslau	Wrocław	Polish	  
 Carpathian Mountains	Karpaty	Polish	
 Cracow	Kraków	Polish	
-Danzig	Gdańsk	Polish	Dated, German name
+Danzig	Gdańsk	Polish	  
 Galicia	Galicja	Polish	
 Giant Mountains	Karkonosze	Polish	
 Kashubia	Kaszëbë	Kashubian	
@@ -855,336 +855,336 @@ Mazuria	Mazury	Polish
 Oder river	Odra	Polish	
 Pomerania	Pomorze	Polish	
 Subcarpathia	Podkarpacie	Polish	
-Sudetes, Sudeten, Sudeten Mountains	Sudety	Polish	
+Sudetes Sudeten Sudeten Mountains	Sudety	Polish	
 Silesia	Śląsk	Polish	
 Ślōnsk	Silesian	
 Vistula river	Wisła	Polish	
 Warsaw	Warszawa	Polish	
 Portugal
  Portugal 
-English name	Endonym	Notes
-Name	Language
-Azores	Açores	Portuguese	Spanish name
-Braganza	Bragança	Portuguese	Dated, Spanish name
+English 	Endonym	Notes
+	Language
+Azores	Açores	Portuguese	Spanish 
+Braganza	Bragança	Portuguese	 Spanish 
 Lisbon	Lisboa	Portuguese	
 Oporto	Porto	Portuguese	Obsolete
-Tagus river	Tejo	Portuguese	Latin name
+Tagus river	Tejo	Portuguese	Latin 
 Romania
  Romania România 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Bucharest	București	Romanian	
 Carpathian Mountains	Carpați	Romanian	
 Danube river	Dunǎrea	Romanian	
 Jassy	Iași[16]	Romanian	Obsolete
 Northern Dobruja	Dobrogea	Romanian	Romanian half of former Dobruja region
 Transylvania	Transilvania	Romanian	
-Wallachia	Țara Românească, Valahia	Romanian	
+Wallachia	Țara Românească Valahia	Romanian	
 Russia
- Russia Rossiya (Россия) 
-English name	Endonym	Notes
-Name	Language
-Archangel	Arkhangelsk (Архангельск)	Russian	Dated
-Black Sea	Chernoje more (Черное море)	Russian	
-Caucasus	Kavkaz (Кавказ)	Russian	
-Caspian Sea	Kaspijskoje more (Каспийское море)	Russian	
-Grozny	Sölƶa-Ġala (Соьлжа-ГӀала)	Chechen	
-Groznyj (Грозный)	Russian	
-Moscow	Moskva (Москва)	Russian	
-Orel	Oryol (Орёл)	Russian	Obsolete
-Pacific Ocean	Tikhiy okean (Тихий океан)	Russian	
-Plescow	Pskov (Псков)	Russian	Obsolete
-Saint Petersburg	Sankt-Peterburg (Санкт-Петербург)	Russian	
+ Russia Rossiya  
+English 	Endonym	Notes
+	Language
+Archangel	Arkhangelsk 	Russian	
+Black Sea	Chernoje more 	Russian	
+Caucasus	Kavkaz 	Russian	
+Caspian Sea	Kaspijskoje more 	Russian	
+Grozny	Sölƶa-Ġala 	Chechen	
+Groznyj 	Russian	
+Moscow	Moskva 	Russian	
+Orel	Oryol 	Russian	Obsolete
+Pacific Ocean	Tikhiy okean 	Russian	
+Plescow	Pskov 	Russian	Obsolete
+Saint Petersburg	Sankt-Peterburg 	Russian	
 Saudi Arabia
- Saudi Arabia As-Sa'ūdīyah (السعودية) 
-English name	Endonym	Notes
-Name	Language
-Arabian Sea	Al-Baḥr al-'Arabī (البحر العربي)	Standard Arabic	
-Gulf of Aden	Ḫalīǧ ʻAdan (خليج عدن)	Standard Arabic	
-Jeddah	Jiddah (جِدَّة)	Standard Arabic	
-Mecca	Makkah (مکة)	Standard Arabic	
-Medina	Al-Madīnah (المدينة)	Standard Arabic	
-Riyadh	Er-Riyāḍ (الرياض)	Najdi Arabic	
-Ar-Riyāḍ (الرياض)	Standard Arabic	
+ Saudi Arabia As-Sa'ūdīyah  
+English 	Endonym	Notes
+	Language
+Arabian Sea	Al-Baḥr al-'Arabī 	Standard Arabic	
+Gulf of Aden	Ḫalīǧ ʻAdan 	Standard Arabic	
+Jeddah	Jiddah 	Standard Arabic	
+Mecca	Makkah 	Standard Arabic	
+Medina	Al-Madīnah 	Standard Arabic	
+Riyadh	Er-Riyāḍ 	Najdi Arabic	
+Ar-Riyāḍ 	Standard Arabic	
 Serbia
- Serbia Srbija (Србија) 
-English name	Endonym	Notes
-Name	Language
-Balkan Mountains	Stara Planina (Стара Планина)	Serbian	
-Belgrade	Beograd (Београд)	Serbian	French name
-Danube river	Dunav (Дунав)	Serbian	
+ Serbia Srbija  
+English 	Endonym	Notes
+	Language
+Balkan Mountains	Stara Planina 	Serbian	
+Belgrade	Beograd 	Serbian	 
+Danube river	Dunav 	Serbian	
 Slovakia
  Slovakia Slovensko 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Carpathian Mountains	Karpaty	Slovak	
-Cassovia	Košice	Slovak	Latin name
+Cassovia	Košice	Slovak	Latin 
 Danube river	Dunaj	Slovak	
 Gerlach Peak	Gerlachovský štít	Slovak	
 Maple Mountains	Javorníky	Slovak	
 Slovak Ore Mountains	Slovenské rudohorie	Slovak	
 Slovenia
  Slovenia Slovenija 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Carinthia	Koroška	Slovene	
 Inner Carniola	Notranjska	Slovene	
 Karawanks	Karavanke	Slovene	
 Karst	Kras	Slovene	
-Lower Carniola	Dolenjska	Slovene	
+er Carniola	Dolenjska	Slovene	
 Slovene Littoral	Primorska	Slovene	
 Styria	Štajerska	Slovene	
 Upper Carniola	Gorenjska	Slovene	
 Somalia
  Somalia Soomaaliya 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Baidoa	Baydhabo	Somali	
 Chisimaio	Kismaayo	Somali	Obsolete
 Mogadishu	Muqdisho	Somali	
-Villabruzzi	Jowhaar	Somali	Dated
+Villabruzzi	Jowhaar	Somali	
 South Africa
-Many South African towns have multiple names due to the number of languages. Additionally, some places have been renamed from English and Afrikaans.
+Many South African towns have multiple s due to the number of languages. Additionally some places have been red from English and Afrikaans.
 
  South Africa 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Aliwal North	Maletswai	Sotho	
 Cape Town	ǁHui!gaeb	Khoekhoe	
 Kaapstad	Afrikaans	
 iKapa	Xhosa	
 Fish Hoek	Vishoek	Afrikaans	
-Grahamstown	Grahamstad	Afrikaans	Dated in Afrikaans and English
+Grahamstown	Grahamstad	Afrikaans	 in Afrikaans and English
 iRhini	Xhosa	
 Makhanda	iRhini	Xhosa	
 Queenstown	Komani	Sotho	
 Simon's Town	Simonstad	Afrikaans	
 South Korea
- South Korea Hanguk (한국) 
-English name	Endonym	Notes
-Name	Language
-Liancourt Rocks	Dokdo (독도)	Korean	
-Port Hamilton	Geomundo (거문도)	Korean	
-Pusan	Busan (부산시)	Korean	Dated
-Quelpart	Jeju (제주도)	Korean	Obsolete
+ South Korea Hanguk  
+English 	Endonym	Notes
+	Language
+Liancourt Rocks	Dokdo 	Korean	
+Port Hamilton	Geomundo 	Korean	
+Pusan	Busan 	Korean	
+Quelpart	Jeju 	Korean	Obsolete
 Spain
 English uses Spanish-language exonyms for some places in non-Spanish speaking regions of Spain.
 
  Spain España 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Andalusia	Andalucía	Spanish	
 Basque Country	País Vasco	Spanish	
 Euskadi	Basque	
 Biscay	Bizkaia	Basque	
 Vizcaya	Spanish	
 Castile	Castilla	Spanish	
-Catalonia	Catalunya	Catalan	Latin name
+Catalonia	Catalunya	Catalan	Latin 
 Corunna	A Coruña	Galician	Obsolete
-Douro	Duero	Spanish	Portuguese name
-Majorca	Mallorca	Catalan	Dated
-Minorca	Menorca	Catalan	Dated
+Douro	Duero	Spanish	Portuguese 
+Majorca	Mallorca	Catalan	
+Minorca	Menorca	Catalan	
 Navarre	Nafarroa	Basque	
-Pampeluna	Pamplona	Spanish	Dated
-Saragossa	Zaragoza	Spanish	Dated
+Pampeluna	Pamplona	Spanish	
+Saragossa	Zaragoza	Spanish	
 Seville	Sevilla	Spanish	
-Tagus	Tajo	Spanish	Latin name
-Teneriffe	Tenerife	Spanish	Obsolete, French name
+Tagus	Tajo	Spanish	Latin 
+Teneriffe	Tenerife	Spanish	Obsolete  
 The Groyne	A Coruña	Galician	Obsolete
 Sri Lanka
 Sri Lanka was known as Ceylon in English until 1972.
 
- Sri Lanka Shri Lanka (ශ්‍රී ලංකා)/ Ilaṅkai (இலங்கை) 
-English name	Endonym	Notes
-Name	Language
-Adam's Peak	Civaṉoḷipātam (சிவனொளிபாதம்)
-Civaṉaṭipātam (சிவனடிபாதம்)
+ Sri Lanka Shri Lanka  
+English 	Endonym	Notes
+	Language
+Adam's Peak	Civaṉoḷipātam 
+Civaṉaṭipātam 
 
 Tamil	
-Śrī Pāda (ශ්‍රී පාද)	Sinhala	
-Batticaloa	Maṭṭakkaḷappu (மட்டக்களப்பு)	Tamil	
-Madakalapuwa (මඩකලපුව)	Sinhala	
-Chilaw	Cilāpam (சிலாபம்)	Tamil	
-Halawta (හලාවත)	Sinhala	
-Colombo	Kolamba (කොළඹ)	Sinhala	
-Kolumpu (கொழும்பு)	Tamil	
-Delft	Neṭuntīvu (நெடுந்தீவு)	Tamil	
-Ḍelfṭ (ඩෙල්ෆ්ට්)	Sinhala	
-Galle	Galla (ගාල්ල)	Sinhala	
-Kāli (காலி)	Tamil	
-Jaffna	Yāḻppāṇam (யாழ்ப்பாணம்)	Tamil	
-Yāpanaya (යාපනය)	Sinhala	
-Kandy	Kaṇṭi (கண்டி)	Tamil	
-Mahanuwara (මහනුවර)	Sinhala	
-Kayts	Ūrkāvaṟtuṟai (ஊர்காவற்துறை)	Tamil	
-Kayiṭs (කයිට්ස්)	Sinhala	
-Mutwal	Modara (මෝදර)	Sinhala	
-Mukattuvāram (முகத்துவாரம்)	Tamil	
-Negombo	Meegumuwa (මීගමුව)	Sinhala	
-Nirkolompu (நீர்கொழும்பு)	Tamil	
-Point Pedro	Paruttittuṟai (பருத்தித்துறை)	Tamil	
-Pēduru Tuḍuva (පේදුරු තුඩුව)	Sinhala	
-Trincomalee	Tirukōṇamalai (திருகோணமலை)	Tamil	
-Thrikunamalaya (ත්‍රිකුණාමළය)	Sinhala	
+Śrī Pāda 	Sinhala	
+Batticaloa	Maṭṭakkaḷappu 	Tamil	
+Madakalapuwa 	Sinhala	
+Chilaw	Cilāpam 	Tamil	
+Halawta 	Sinhala	
+Colombo	Kolamba 	Sinhala	
+Kolumpu 	Tamil	
+Delft	Neṭuntīvu 	Tamil	
+Ḍelfṭ 	Sinhala	
+Galle	Galla 	Sinhala	
+Kāli 	Tamil	
+Jaffna	Yāḻppāṇam 	Tamil	
+Yāpanaya 	Sinhala	
+Kandy	Kaṇṭi 	Tamil	
+Mahanuwara 	Sinhala	
+Kayts	Ūrkāvaṟtuṟai 	Tamil	
+Kayiṭs 	Sinhala	
+Mutwal	Modara 	Sinhala	
+Mukattuvāram 	Tamil	
+Negombo	Meegumuwa 	Sinhala	
+Nirkolompu 	Tamil	
+Point Pedro	Paruttittuṟai 	Tamil	
+Pēduru Tuḍuva 	Sinhala	
+Trincomalee	Tirukōṇamalai 	Tamil	
+Thrikunamalaya 	Sinhala	
 Sudan
- Sudan As-Sūdān (السودان) 
-English name	Endonym	Notes
-Name	Language
-Khartoum	Al-Ḵurṭūm (الخَرطوم)	Standard Arabic	
-El-Ḵortūm (الخَرطوم)	Sudanese Arabic	
-Nile river	An-Nīl (النيل)	Standard Arabic	
-En-Nīl (النيل)	Sudanese Arabic	
-Omdurman	Omm Dormān (أُم درمان)	Sudanese Arabic	
-Umm Durmān (أُم درمان)	Standard Arabic	
-Port Sudan	Burtusudan (بورتسودان)	Standard Arabic	
+ Sudan As-Sūdān  
+English 	Endonym	Notes
+	Language
+Khartoum	Al-Ḵurṭūm 	Standard Arabic	
+El-Ḵortūm 	Sudanese Arabic	
+Nile river	An-Nīl 	Standard Arabic	
+En-Nīl 	Sudanese Arabic	
+Omdurman	Omm Dormān 	Sudanese Arabic	
+Umm Durmān 	Standard Arabic	
+Port Sudan	Burtusudan 	Standard Arabic	
 Bar'uut	Beja
 Sweden
  Sweden Sverige 
-English name	Endonym	Notes
-Name	Language
-Dalecarlia	Dalarna	Elfdalian	Latin name; Swedish name also used
+English 	Endonym	Notes
+	Language
+Dalecarlia	Dalarna	Elfdalian	Latin ; Swedish  
 Swedish
 Gothenburg	Göteborg	Swedish	
-North Bothnia	Norrbotten	Swedish	Swedish name also used
-Scania	Skåne	Swedish	Latin name
-The Dales	Dalarna	Elfdalian	Obsolete; translation of Swedish name
+North Bothnia	Norrbotten	Swedish	Swedish  
+Scania	Skåne	Swedish	Latin 
+The Dales	Dalarna	Elfdalian	Obsolete; translation of Swedish 
 Swedish
-West Bothnia	Västerbotten	Swedish	Swedish name also used in English
+West Bothnia	Västerbotten	Swedish	Swedish  
 Switzerland
-See also: List of English exonyms for German toponyms
-Historically, English-language sources borrowed French-language names for some places in German-speaking Switzerland. This is no longer done, and many sources now use German names for most Swiss German-speaking places.[17]
+See also: List of English exonyms for  toponyms
+Historically English-language sources borrowed -language s for some places in -speaking Switzerland. This is no longer done and many sources now use  s for most Swiss -speaking places.[17]
 
  Switzerland Schweiz/ Suisse/ Svizzera/ Svizra 
-English name	Endonym	Notes
-Name	Language
-Basle	Basel	Standard German	Obsolete
-Berne	Bern	Standard German	Obsolete
-Geneva	Genève	French	
-Genf	Standard German	
-Lucerne	Luzern	Standard German	
-Rhine River	Rhein	Standard German	
-Valais	Wallis	Standard German	
+English 	Endonym	Notes
+	Language
+Basle	Basel	Standard 	Obsolete
+Berne	Bern	Standard 	Obsolete
+Geneva	Genève		
+Genf	Standard 	
+Lucerne	Luzern	Standard 	
+Rhine River	Rhein	Standard 	
+Valais	Wallis	Standard 	
 Syria
- Syria Sūrīyah (سورية) 
-English name	Endonym	Notes
-Name	Language
-Aleppo	Ḥalab (حَلَب)	Standard Arabic	
+ Syria Sūrīyah  
+English 	Endonym	Notes
+	Language
+Aleppo	Ḥalab 	Standard Arabic	
 Levantine Arabic	
-Damascus	Dimašq (دِمَشْق)	Standard Arabic	
-Dimaš' (دِمَشْق)	Levantine Arabic	
-Euphrates River	Al-Furat (الفرات)	Standard Arabic	
-Homs	Ḥimṣ (حِمْص)	Standard Arabic	
-Ḥumṣ (حُمْص)	Levantine Arabic	
-Palmyra	Tadmur (تَدْمُر)	Standard Arabic	
+Damascus	Dimašq 	Standard Arabic	
+Dimaš' 	Levantine Arabic	
+Euphrates River	Al-Furat 	Standard Arabic	
+Homs	Ḥimṣ 	Standard Arabic	
+Ḥumṣ 	Levantine Arabic	
+Palmyra	Tadmur 	Standard Arabic	
 Levantine Arabic	
-Latakia	Al-Lāḏiqīyah (اللاذقية)	Standard Arabic	
-El-Lādi'iyyeh (اللاذقية)	Levantine Arabic	
+Latakia	Al-Lāḏiqīyah 	Standard Arabic	
+El-Lādi'iyyeh 	Levantine Arabic	
 Thailand
 Thailand was known as Siam in English until the Siamese revolution of 1932.
 
- Thailand Prathet Thai (ประเทศไทย) 
-English name	Endonym	Notes
-Name	Language
-Bangkok	Krung Thep (กรุงเทพ)	Thai	Old name
-Mekong River	Maenam Khong (แม่น้ำโขง)	Thai	
-Singora	Songkhla (สงขลา)	Thai	Obsolete
+ Thailand Prathet Thai  
+English 	Endonym	Notes
+	Language
+Bangkok	Krung Thep 	Thai	Old 
+Mekong River	Maenam Khong 	Thai	
+Singora	Songkhla 	Thai	Obsolete
 Taiwan
 
-This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (May 2023) (Learn how and when to remove this template message)
-The main island of Taiwan is also known in English as Formosa. All Chinese names below are written in traditional characters. As mentioned above in the China section, many place names in Taiwan use either pinyin or Wade-Giles.
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. 
+The main island of Taiwan is also known in English as Formosa. All Chinese s be are written in traditional characters. As mentioned above in the China section many place s in Taiwan use either pinyin or Wade-Giles.
 
 See also: Chinese language romanization in Taiwan
- Taiwan (臺灣) 
-English name	Endonym	Notes
-Name	Language
+ Taiwan  
+English 	Endonym	Notes
+	Language
 Pehoe	Phîⁿ-ô͘	Hokkien	
-Penghu (澎湖)	Mandarin	Obsolete, from Min Nan name Phênô
+Penghu 	Mandarin	Obsolete from Min Nan  Phênô
 Pescadores	Phîⁿ-ô͘	Hokkien	
-Penghu (澎湖)	Mandarin	Dated, Portuguese name
+Penghu 	Mandarin	 Portuguese 
 Quemoy	Kimoi	Hokkien	
-Kinmen (金門)	Mandarin	Possibly a Spanish or Poruguese transcription of the Zhengzhou Hokkien name for the city, Kim-mûi[18]
+Kinmen 	Mandarin	Possibly a Spanish or Poruguese transcription of the Zhengzhou Hokkien  for the city Kim-mûi[18]
 Tunisia
- Tunisia Tūnis (تونس) 
-English name	Endonym	Notes
-Name	Language
-Gabès	Gābes (قابس)	Maghrebi Arabic	Pronounced similar to English name
-Qābis (قابس)	Standard Arabic	
-Sfax	Sifaks (ⵙⵉⴼⴰⴽⵙ)	Berber	
-Ṣfāqes (صفاقس)	Maghrebi Arabic	
-Ṣafaqus (صفاقس)	Standard Arabic	
+ Tunisia Tūnis  
+English 	Endonym	Notes
+	Language
+Gabès	Gābes 	Maghrebi Arabic	Pronounced similar to English 
+Qābis 	Standard Arabic	
+Sfax	Sifaks 	Berber	
+Ṣfāqes 	Maghrebi Arabic	
+Ṣafaqus 	Standard Arabic	
 Sousse	Susa	Berber	
-Sūseh (سوسة)	Maghrebi Arabic	
-Sūsah (سوسة)	Standard Arabic	
+Sūseh 	Maghrebi Arabic	
+Sūsah 	Standard Arabic	
 Turkey
  Turkey Türkiye 
-English name	Endonym	Notes
-Name	Language
-Adalia	Antalya	Turkish	Dated
-Adrianople	Edirne	Turkish	Dated
-Alexandretta	İskenderun	Turkish	Dated
-Anemurium	Anamur	Turkish	Dated
-Antioch	Antakya	Turkish	Dated
+English 	Endonym	Notes
+	Language
+Adalia	Antalya	Turkish	
+Adrianople	Edirne	Turkish	
+Alexandretta	İskenderun	Turkish	
+Anemurium	Anamur	Turkish	
+Antioch	Antakya	Turkish	
 Bosphorus	Boǧaziçi	Turkish	
 Byzantium	İstanbul	Turkish	Obsolete
-Caeserea	Kayseri	Turkish	Dated
+Caeserea	Kayseri	Turkish	
 Cappadocia	Kapadokya	Turkish	
-Claudiopolis	Mut	Turkish	Dated
-Constantinople	İstanbul	Turkish	Dated
+Claudiopolis	Mut	Turkish	
+Constantinople	İstanbul	Turkish	
 Dardanelles	Çanakkale Boǧazı	Turkish	
-Edessa	(Sanlı)urfa	Turkish	Dated
-Ephesus	Efes	Turkish	Dated
+Edessa	urfa	Turkish	
+Ephesus	Efes	Turkish	
 Euphrates River	Fırat	Turkish	
-Gallipoli	Gelibolu	Turkish	Dated
-Halicarnassus	Bodrum	Turkish	Dated
-Heraclea Pontica	Karadeniz Ereǧli	Turkish	Dated
-Iconium	Konya	Turkish	Dated
-Imbros	Gökçeada	Turkish	Greek name
+Gallipoli	Gelibolu	Turkish	
+Halicarnassus	Bodrum	Turkish	
+Heraclea Pontica	Karadeniz Ereǧli	Turkish	
+Iconium	Konya	Turkish	
+Imbros	Gökçeada	Turkish	 
 Istanbul	İstanbul	Turkish	Some consider Istanbul to be an English exonym of İstanbul.[19]
-Normally spelled without İ in English, even in sources which would otherwise use it.[20]
+Normally spelled without İ in English even in sources which would otherwise use it.[20]
 
-Kerasous	Giresun	Turkish	Dated
-Laranda	Karaman	Turkish	Dated
-Magnesia ad Sipylum	Manisa	Turkish	Dated
-Nicaea	Iznik	Turkish	Dated
-Nicomedia	Izmit	Turkish	Dated
-Pergamon	Bergama	Turkish	Dated
-Philadelphia	Alaşehir	Turkish	Dated
-Prusa	Bursa	Turkish	Dated
-Scutari	Üsküdar	Turkish	Dated[21]
-Seleucia	Silifke	Turkish	Dated
-Smyrna	İzmir	Turkish	Dated
-Tenedos	Bozcaada	Turkish	Greek name
+Kerasous	Giresun	Turkish	
+Laranda	Karaman	Turkish	
+Magnesia ad Sipylum	Manisa	Turkish	
+Nicaea	Iznik	Turkish	
+Nicomedia	Izmit	Turkish	
+Pergamon	Bergama	Turkish	
+Philadelphia	Alaşehir	Turkish	
+Prusa	Bursa	Turkish	
+Scutari	Üsküdar	Turkish	[21]
+Seleucia	Silifke	Turkish	
+Smyrna	İzmir	Turkish	
+Tenedos	Bozcaada	Turkish	 
 Thrace	Trakya	Turkish	
 Tigris River	Dicle	Turkish	
-Tralles	Aydın	Turkish	Dated
-Trebizond	Trabzon	Turkish	Dated
+Tralles	Aydın	Turkish	
+Trebizond	Trabzon	Turkish	
 Ukraine
- Ukraine Ukrayina (Україна) 
-English name	Endonym	Notes
-Name	Language
-Black Sea	Chorne more (Чорне море)	Ukrainian	
-Carpathian Ruthenia	Karpatska Rus' (Карпатська Русь)	Ukrainian	Historic region
-Carpathian Ukraine	Karpatska Ukrayina (Карпатська Україна)	Ukrainian	Historic region
-Chernobyl	Chornobyl (Чорнобиль)	Ukrainian	Russian name
-Crimea	Krym (Крим)	Ukrainian	Region claimed by Russia, but many nations do not recognize it as part of Russia[22]
-Galicia	Halychyna (Галичина)	Ukrainian	Historic region
-Gorlovka	Horlivka (Горлівка)	Ukrainian	Archaic, Russian name
-Kharkov	Kharkiv (Харків)	Ukrainian	Archaic, Russian name
-Kiev	Kyiv (Київ)	Ukrainian	Russian name; though the Russian endonym Kiev prevailed after the Soviet Union ended in 1991, in the late 2010s media outlets and governments began using Kyiv at the request of the Ukrainian government.
-Krivoy Rog	Kryvyi Rih (Кривиі Ріг)	Ukrainian	Archaic, Russian name
-Podolia	Podillia (Поділля)	Ukrainian	Historic region	
-Subcarpathia	Pidkarpattia (Підкарпаття)	Ukrainian	Historic region
-Subcarpathian Ruthenia, Subcarpathian Rus	Pidkarpatska Rus' (Підкарпатська Русь)	Ukrainian	Historic region
-Transcarpathia	Zakarpattia (Закарпаття)	Ukrainian	
-Transcarpathian Ukraine	Zakarpatska Ukrayina (Закарпатська Україна)	Ukrainian	
-Volhynia	Volyn' (Волинь)	Ukrainian	Historic region
+ Ukraine Ukrayina  
+English 	Endonym	Notes
+	Language
+Black Sea	Chorne more 	Ukrainian	
+Carpathian Ruthenia	Karpatska Rus' 	Ukrainian	Historic region
+Carpathian Ukraine	Karpatska Ukrayina 	Ukrainian	Historic region
+Chernobyl	Chornobyl 	Ukrainian	Russian 
+Crimea	Krym 	Ukrainian	Region claimed by Russia but many nations do not recognize it as part of Russia[22]
+Galicia	Halychyna 	Ukrainian	Historic region
+Gorlovka	Horlivka 	Ukrainian	 Russian 
+Kharkov	Kharkiv 	Ukrainian	 Russian 
+Kiev	Kyiv 	Ukrainian	Russian ; though the Russian endonym Kiev prevailed after the Soviet Union ended in 1991 in the late 2010s media outlets and governments began using Kyiv at the request of the Ukrainian government.
+Krivoy Rog	Kryvyi Rih 	Ukrainian	 Russian 
+Podolia	Podillia 	Ukrainian	Historic region	
+Subcarpathia	Pidkarpattia 	Ukrainian	Historic region
+Subcarpathian Ruthenia Subcarpathian Rus	Pidkarpatska Rus' 	Ukrainian	Historic region
+Transcarpathia	Zakarpattia 	Ukrainian	
+Transcarpathian Ukraine	Zakarpatska Ukrayina 	Ukrainian	
+Volhynia	Volyn' 	Ukrainian	Historic region
 United Kingdom
-The places listed are where non-English local languages are mainly used or where the non-English names don't regularly correspond to the English one.
+The places listed are where non-English local languages are mainly used or where the non-English s don't regularly correspond to the English one.
 
  United Kingdom 
-English name	Endonym	Notes
-Name	Language
-Aberdovey	Aberdyfi	Welsh	Dated
+English 	Endonym	Notes
+	Language
+Aberdovey	Aberdyfi	Welsh	
 Abergavenny	Y Fenni	Welsh	
 Achmore	An t-Acha Mòr	Scottish Gaelic	
 Aird of Sleat	Àird Shlèite	Scottish Gaelic	
@@ -1209,22 +1209,22 @@ Benbecula	Beinn na Fadhla	Scottish Gaelic
 Bernisdale	Beàrnasdal	Scottish Gaelic	
 Bishopbriggs	Coille Dobhair	Scottish Gaelic	Formerly Cadder
 Bonvilston	Tresimwn	Welsh	
-Borrowstounness (Bo'ness)	Ceann an Fhàil	Scottish Gaelic	Formerly Kinneil
+Borrowstounness 	Ceann an Fhàil	Scottish Gaelic	Formerly Kinneil
 Bowmore	Bogh Mòr	Scottish Gaelic	
 Bracadale	Bracadal	Scottish Gaelic	
 Brecknockshire	Brycheiniog	Welsh	
 Brecon	Aberhonddu	Welsh	
 Brecon Beacons	Bannau Brycheiniog	Welsh	
-Bridgend (Scotland)	Beul an Àtha	Scottish Gaelic	
-Bridgend (Wales)	Pen-y-bont ar Ogwr	Welsh	
+Bridgend 	Beul an Àtha	Scottish Gaelic	
+Bridgend 	Pen-y-bont ar Ogwr	Welsh	
 Breasclete	Breascleit	Scottish Gaelic	
 Broadford	An t-Àth Leathann	Scottish Gaelic	
 Buckley	Bwcle	Welsh	
 Builth Wells	Llanfair-ym-Muallt	Welsh	
 Caerleon	Caerllion	Welsh	
-Ca(e)rnavon	Caernarfon	Welsh	Dated
+Carnavon	Caernarfon	Welsh	
 Cairngorms	Am Monadh Ruadh	Scottish Gaelic	
-Cairnryan	Machair An Sgithich, Cairn Rioghainne	Scottish Gaelic	
+Cairnryan	Machair An Sgithich Cairn Rioghainne	Scottish Gaelic	
 Callinish	Calanais	Scottish Gaelic	
 Caldey Island	Ynys Bŷr	Welsh	
 Calgary	Calgarraidh	Scottish Gaelic	
@@ -1233,16 +1233,16 @@ Campbeltown	Ceann Loch Chille Chiaran	Scottish Gaelic
 Cardiff	Caerdydd	Welsh	
 Cardigan	Aberteifi	Welsh	
 Carinish	Càirinis	Scottish Gaelic	
-Carloway	Càrlabhag	Scottish Gaelic	
+Caray	Càrlabhag	Scottish Gaelic	
 Carmarthen	Caerfyddin	Welsh	
 Castlebay	Bàgh a Chaisteal	Scottish Gaelic	
-Cardiganshire	Ceredigion	Welsh	Dated
+Cardiganshire	Ceredigion	Welsh	
 Chepstow	Cas-gwent	Welsh	
 Chirk	Y Waun	Welsh	
 Cleadale	Clèadail	Scottish Gaelic	
 Coll	Cola	Scottish Gaelic	
 Colonsay	Colbhasa	Scottish Gaelic	
-Conway	Conwy	Welsh	Dated
+Conway	Conwy	Welsh	
 Cowbridge	Y Bont-faen	Welsh	
 Craighouse	Taigh na Creige	Scottish Gaelic	
 Craignure	Craig an Iobhar	Scottish Gaelic	
@@ -1250,7 +1250,7 @@ Daliburgh	Dalabrog	Scottish Gaelic
 Denbigh	Dinbych	Welsh	
 Devil's Bridge	Pontarfynach	Welsh	
 Dingwall	Inbhir Pheofharain	Scottish Gaelic	
-Dolgelley	Dolgellau	Welsh	Dated
+Dolgelley	Dolgellau	Welsh	
 Dufftown	Baile Bhainidh	Scottish Gaelic	
 Dunvegan	Dùn Bheagain	Scottish Gaelic	
 Ebbw Vale	Glyn Ebwy	Welsh	
@@ -1260,7 +1260,7 @@ Elgol	Ealaghol	Scottish Gaelic
 Eriskay	Èirisgeigh	Scottish Gaelic	
 Fishguard	Abergwaun	Welsh	
 Flint	Y Fflint	Welsh	
-Flowerdale	Am Baile Mòr	Scottish Gaelic	
+Ferdale	Am Baile Mòr	Scottish Gaelic	
 Fort Augustus	Cille Chuimein	Scottish Gaelic	Formerly Kilwhimin
 Fort William	An Gearasdan	Scottish Gaelic	
 Fortrose	A' Chananaich	Scottish Gaelic	
@@ -1275,7 +1275,7 @@ Hawarden	Penarlâg	Welsh
 Hay-on-Wye	Y Gelli Gandryll	Welsh	
 Holyhead	Caergybi	Welsh	
 Holywell	Treffynnon	Welsh	
-Holywood, Dumfriesshire	Doire Chonaill	Scottish Gaelic	Formerly Dercongal
+Holywood Dumfriesshire	Doire Chonaill	Scottish Gaelic	Formerly Dercongal
 Howmore	Tobha Mòr	Scottish Gaelic	
 Iona	Ì Chaluim Chille	Scottish Gaelic	
 Islay	Ìle	Scottish Gaelic	
@@ -1300,7 +1300,7 @@ Lochboisdale	Loch Baghasdail	Scottish Gaelic
 Lochmaddy	Loch nam Madadh	Scottish Gaelic	
 Lochnagar	Beinn Chìochan	Scottish Gaelic	
 Menai Bridge	Porthawethwy	Welsh	
-Menai Strait	Afon Menai	Welsh	Welsh name means "River Menai"
+Menai Strait	Afon Menai	Welsh	Welsh  
 Merionethshire	Meirionydd	Welsh	
 Milford Haven	Aberdaugleddau	Welsh	
 Milovaig	Miolabhaig	Scottish Gaelic	
@@ -1318,13 +1318,13 @@ Newtown	Y Drenewydd	Welsh
 Northop	Llaneurgain	Welsh	
 Orsay	Orasaigh	Scottish Gaelic	
 Pembrokeshire	Penfro	Welsh	
-Pont Neath Vaughan	Pontneddfechan	Welsh	Dated
+Pont Neath Vaughan	Pontneddfechan	Welsh	
 Port Askaig	Port Asgaig	Scottish Gaelic	
 Port Charlotte	Port Sgioba	Scottish Gaelic	
-Port Dinorwic	Y Felinheli	Welsh	Dated
+Port Dinorwic	Y Felinheli	Welsh	
 Port Ellen	Port Ìlain	Scottish Gaelic	
 Port of Ness	Port Nis	Scottish Gaelic	
-Portmadoc	Porthmadog	Welsh	Dated
+Portmadoc	Porthmadog	Welsh	
 Portnaguran	Port nan Giùran	Scottish Gaelic	
 Portnahaven	Port na-hAbhainn	Scottish Gaelic	
 Portree	Port Righ	Scottish Gaelic	
@@ -1369,7 +1369,7 @@ Tiree	Tiriodh	Scottish Gaelic
 Tobermory	Tobar Mhoire	Scottish Gaelic	
 Torrin	Na Torrain	Scottish Gaelic	
 Troon	An Truthail	Scottish Gaelic	
-Towyn	Tywyn	Welsh	Dated
+Towyn	Tywyn	Welsh	
 Uist	Uibhist	Scottish Gaelic	
 Ulva	Ulbha	Scottish Gaelic	
 Usk	Brynbuga	Welsh	
@@ -1381,30 +1381,30 @@ Welshpool	Y Trallwng	Welsh
 Whitland	Hendy-gwyn	Welsh	
 Wrexham	Wrecsam	Welsh	
 United States
-Several places in the United States have additional names in various Native languages.
+Several places in the United States have additional s in various Native languages.
 
  United States 
-English name	Endonym	Notes
-Name	Language
+English 	Endonym	Notes
+	Language
 Allegheny River	Ohi:'i:o	Seneca	
 Mount McKinley	Denali	Koyukon	See Denali-Mount McKinley naming dispute
 Mount Rainier	Tacoma	Salish	
 Red House	Joë'hesta	Seneca	
 Vietnam
-All cities and towns are often spelled without diacritics; names without them are not listed here.
+All cities and towns are often spelled without diacritics; s without them are not listed here.
 
  Vietnam Việt Nam 
-English name	Endonym	Notes
-Name	Language
-Annamite Range	Dãy Trường Sơn	Vietnamese	
-Black River	Sông Đà	Vietnamese	
-Cholon	Chợ Lớn	Vietnamese	
-Faifo[23]	Hội An	Vietnamese	Obsolete
-Haiphong	Hải Phòng	Vietnamese	
-Ha Long Bay	Vịnh Hạ Long	Vietnamese	
-Hanoi	Hà Nội	Vietnamese	
-Marble Mountains	Ngũ Hành Sơn	Vietnamese	Vietnamese name means "Five Elements Mountains"
-Mekong River	Sông Mê Kông / Sông Cửu Long	Vietnamese	
-Perfume River	Sông Hương	Vietnamese	Vietnamese name means "Fragrant River"
-Red River	Sông Hồng	Vietnamese	
-West Lake	Hồ Tây	Vietnamese	
+English 	Endonym	Notes
+	Language
+Annamite Range	Dãy Trường Sơn	Vietse	
+Black River	Sông Đà	Vietse	
+Cholon	Chợ Lớn	Vietse	
+Faifo[23]	Hội An	Vietse	Obsolete
+Haiphong	Hải Phòng	Vietse	
+Ha Long Bay	Vịnh Hạ Long	Vietse	
+Hanoi	Hà Nội	Vietse	
+Marble Mountains	Ngũ Hành Sơn	Vietse	Vietse  
+Mekong River	Sông Mê Kông / Sông Cửu Long	Vietse	
+Perfume River	Sông Hương	Vietse	Vietse  
+Red River	Sông Hồng	Vietse	
+West Lake	Hồ Tây	Vietse	
